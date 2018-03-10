@@ -1,0 +1,62 @@
+
+{{Fiche joueur
+|id = 000275
+|joueur = Ohzora Tsubasa
+|nom_joueur = Le ballon est mon ami
+|image = 
+|rarete = SSR
+|type = technique
+|acquisition = Récompense
+|poste = MO
+|pays = Japon
+|equipe = Japon (Juniors)
+|epoque = Tournoi international juniors
+
+|endurance = 900
+
+|total_attaque = 12643
+|dribble = 3968
+|dribble_bonus = 661
+|tir = 4332
+|tir_bonus = 722
+|passe = 4343
+|passe_bonus = 724
+
+|total_defense = 11572
+|tacle = 3824
+|tacle_bonus = 637
+|contre = 3514
+|contre_bonus = 586
+|interception = 4234
+|interception_bonus = 706
+
+|total_physique = 11560
+|vitesse = 3790
+|vitesse_bonus = 632
+|puissance = 3398
+|puissance_bonus = 566
+|technique = 4372
+|technique_bonus = 729
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+
+|team_skill = Priorité à la Technique B
+|team_skill_description = Joueurs technique : Tech +3%"
+
+|spe_main = Tir de la feuille morte
+|spe_main_type = tir
+|spe_main_rang = B
+|spe_main_puissance = 255
+|spe_main_cout = 300
+
+|taille = 
+|poids = 
+
+|description = 
+
+|jap
+|glo
+
+}}

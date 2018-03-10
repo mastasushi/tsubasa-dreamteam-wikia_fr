@@ -1,0 +1,65 @@
+{{Fiche joueur
+|id = 000213
+|joueur = Ohzora Tsubasa
+|nom_joueur = Le Génie du Japon
+|image = 
+|rarete = SSR
+|type = technique
+|poste = MO
+|pays = Japon
+|equipe = Japon (Espoirs)
+|epoque = Coupe du monde espoirs
+
+|acquisition = conf
+
+|endurance = 951
+
+|total_attaque = 15981
+|dribble = 4521
+|dribble_bonus = 748
+|tir = 4090
+|tir_bonus = 677
+|passe = 7370
+|passe_bonus = 1219
+
+|total_defense = 13376
+|tacle = 4423
+|tacle_bonus = 718
+|contre = 4053
+|contre_bonus = 659
+|interception = 4900
+|interception_bonus = 796
+
+|total_physique = 13451
+|vitesse = 4421
+|vitesse_bonus = 712
+|puissance = 3965
+|puissance_bonus = 639
+|technique = 5065
+|technique_bonus = 817
+
+|balle_haute = bon
+|balle_basse = bon
+
+|team_skill = Puissance d'Attaque d'un Jeune Samouraï S
+|team_skill_description = Equipe du Japon (Junior) : Atk +5%
+
+|spe_main = Golden Trio sélection japonaise
+|spe_main_type = Combi
+|spe_main_rang = A
+|spe_main_puissance = 350
+|spe_main_cout = 380
+|spe_main_combinaison = Misaki, Aoi
+
+|spe_1 = Twin Shoot
+|spe_1_type = tir
+|spe_1_rang = A
+|spe_1_puissance = 315
+|spe_1_cout = 340
+|spe_1_combinaison = Misaki
+
+|jap
+|glo
+
+}}
+

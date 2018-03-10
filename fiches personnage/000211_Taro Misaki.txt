@@ -1,0 +1,68 @@
+{{Fiche joueur
+
+|id = 000211
+|joueur = Taro Misaki
+|nom_joueur = Artiste Ambitieux
+|image = 
+|rarete = SSR
+|type = vitesse
+|poste = MO
+|pays = Japon
+|equipe = Japon (Juniors)
+|epoque = Tournoi international juniors
+|acquisition = ligue
+
+|endurance = 819
+
+
+|total_attaque = 14871
+|dribble = 4711
+|dribble_bonus = 785
+|tir = 5984
+|tir_bonus = 997
+|passe = 4176
+|passe_bonus = 696
+
+|total_defense = 12048
+|tacle = 4256
+|tacle_bonus = 709
+|contre = 3680
+|contre_bonus = 613
+|interception = 4112
+|interception_bonus = 685
+
+|total_physique = 12160
+|vitesse = 4279
+|vitesse_bonus = 713
+|puissance = 3779
+|puissance_bonus = 630
+|technique = 4102
+|technique_bonus = 684
+
+|balle_haute = Normal
+|balle_basse = Très bon
+
+|team_skill = Centre du Terrain Offensif A
+|team_skill_description = MO : Atk +5%
+
+|spe_main = Double tête plongeante
+|spe_main_type = balle basse
+|spe_main_rang = A
+|spe_main_puissance = 340
+|spe_main_cout = 355
+|spe_main_combinaison = Tsubasa
+
+|spe_1 = Dribble magnifique
+|spe_1_type = dribble
+|spe_1_rang = A
+|spe_1_puissance = 320
+|spe_1_cout = 215
+
+|jap
+|glo
+
+
+}}
+
+
+

@@ -1,0 +1,65 @@
+{{Fiche joueur
+
+|id = 000212
+|joueur = Kojiro Hyuga
+|nom_joueur = Le Réveil du Tigre
+|image = 
+|rarete = SSR
+|type = force
+|poste = AT
+|pays = Japon
+|equipe = Japon (Juniors)
+|epoque = Tournoi international juniors
+
+|acquisition = PVP
+
+|endurance = 907
+
+|total_attaque = 14793
+|dribble = 3641
+|dribble_bonus = 607
+|tir = 7229
+|tir_bonus = 1205
+|passe = 3923
+|passe_bonus = 654
+
+|total_defense = 11739
+|tacle = 3790
+|tacle_bonus = 632
+|contre = 4170
+|contre_bonus = 695
+|interception = 3779
+|interception_bonus = 630
+
+|total_physique = 12356
+|vitesse = 3617
+|vitesse_bonus = 603
+|puissance = 4643
+|puissance_bonus = 774
+|technique = 4096
+|technique_bonus = 683
+
+|balle_haute = normal
+|balle_basse = normal
+
+|team_skill = Puissance d'Attaque d'un Jeune Samourai S
+|team_skill_description = Equipe du Japon (Junior) : Atk +5%"
+
+
+|spe_main = Twin Shoot tigre & feuille morte
+|spe_main_type = Tir
+|spe_main_rang = A
+|spe_main_puissance = 340
+|spe_main_cout = 365
+|spe_main_combinaison = Tsubasa
+
+|spe_1 = Passe du tigre
+|spe_1_type = passe
+|spe_1_rang = A
+|spe_1_puissance = 315
+|spe_1_cout = 185
+
+|jap
+|glo
+
+}}
