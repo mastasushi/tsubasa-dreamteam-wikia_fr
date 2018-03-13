@@ -1,0 +1,59 @@
+{{Fiche joueur new
+|id = 000230
+|image = 000230_Kojiro Hyuga-voleetigre-force-farm.jpg
+|joueur = Kojiro Hyuga
+|nom_joueur = Véritable As des Buts
+
+|rarete = SSR
+|poste = AT
+|type = force
+
+|pays = Japon
+|equipe = Collège Toho Academy
+|epoque = Collège
+
+|endurance = 858
+
+|total_attaque = 11860
+|dribble = 3226
+|dribble_bonus = 538
+|tir = 5155
+|tir_bonus = 859
+|passe = 3479
+|passe_bonus = 580
+|total_defense = 10443
+|tacle = 3376
+|tacle_bonus = 563
+|contre = 3703
+|contre_bonus = 617
+|interception = 3364
+|interception_bonus = 561
+|total_physique = 10968
+|vitesse = 3203
+|vitesse_bonus = 534
+|puissance = 4130
+|puissance_bonus = 688
+|technique = 3635
+|technique_bonus = 606
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le Devoir de L'attaquant
+|team_skill_rang = B
+|team_skill_description = Attaquants : Tir +5%
+
+|spe_main = Volée du tigre sautée
+|spe_main_type = balle_basse
+|spe_main_rang = B
+|spe_main_puissance = 255
+|spe_main_cout = 275
+|spe_main_description = La version reprise de volée du « Tir du tigre. » Cette puissante frappe combine la puissance physique brute du joueur à un tir technique conçu lors d'un entrainement rigoureux.
+|spe_main_effet = {{effet_souffle|1}}
+
+|taille = 170
+|poids = 59
+|description = Un attaquant connu sous le nom de "Tigre Féroce". Il quitte son équipe après avoir été qualifié de "tigre qui a perdu ses crocs" par l'entraineur Kira. Il suit alors une formation seul avec un entraineur à Okinawa, où il développe le "Tir du tigre"
+
+
+}}

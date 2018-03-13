@@ -1,9 +1,9 @@
-{{Fiche joueur
+{{Fiche joueur new
 
-|id = 000211
+|id = 000208
 |joueur = Taro Misaki
 |nom_joueur = Artiste Ambitieux
-|image = 
+|image = 000208 Misaki-doubletete-vitesse-ligue.png
 |rarete = SSR
 |type = vitesse
 |poste = MO
@@ -42,7 +42,8 @@
 |balle_haute = Normal
 |balle_basse = Très bon
 
-|team_skill = Centre du Terrain Offensif A
+|team_skill = Centre du Terrain Offensif
+|team_skill_rang = A
 |team_skill_description = MO : Atk +5%
 
 |spe_main = Double tête plongeante
@@ -58,11 +59,12 @@
 |spe_1_puissance = 320
 |spe_1_cout = 215
 
+|taille = 165
+|poids = 53
+|description = Misaki décide de rejoindre l'équipe du Japon (Juniors) après une rencontre fortuite avec Tsubasa dans la rue. Même s'il n'est pas souvent sur le terrain, son jeu est incroyable et magnifiquement coordonné avec Tsubasa. Il montre également sa ferveur pour le jeu en défiant l'équipe de France afin de tester ses propres capacités.
+
 |jap
 |glo
 
 
 }}
-
-
-

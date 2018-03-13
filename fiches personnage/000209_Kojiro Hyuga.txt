@@ -1,9 +1,8 @@
-{{Fiche joueur
-
-|id = 000212
+{{Fiche joueur new
+|id = 000209
 |joueur = Kojiro Hyuga
 |nom_joueur = Le Réveil du Tigre
-|image = 
+|image = 000209 Hyuga-twinshoot-force-pvp.png
 |rarete = SSR
 |type = force
 |poste = AT
@@ -39,11 +38,12 @@
 |technique = 4096
 |technique_bonus = 683
 
-|balle_haute = normal
-|balle_basse = normal
+|balle_haute = Normal
+|balle_basse = Normal
 
-|team_skill = Puissance d'Attaque d'un Jeune Samourai S
-|team_skill_description = Equipe du Japon (Junior) : Atk +5%"
+|team_skill = Puissance d'Attaque d'un Jeune Samourai
+|team_skill_rang = S
+|team_skill_description = Equipe du Japon (Junior) : Atk +5%
 
 
 |spe_main = Twin Shoot tigre & feuille morte
@@ -51,6 +51,7 @@
 |spe_main_rang = A
 |spe_main_puissance = 340
 |spe_main_cout = 365
+|spe_main_effet = {{effet_souffle|2}}
 |spe_main_combinaison = Tsubasa
 
 |spe_1 = Passe du tigre
@@ -58,6 +59,10 @@
 |spe_1_rang = A
 |spe_1_puissance = 315
 |spe_1_cout = 185
+
+|taille = 178
+|poids = 64
+|description = Après la défaite de l'équipe du Japon contre la RJ7, l'entraineur Gamo ordonne à Hyuga de quitter l'équipe, mais celui-ci refuse. Cependant, Matsuyama le persuade de partir pour suivre une formation. Après avoir amélioré ses compétences post-play et maitrisé le "Tir du tigre foudroyant" à Okinawa, il revient et rejoint l'équipe du Japon
 
 |jap
 |glo

@@ -1,8 +1,8 @@
-{{Fiche joueur
-|id = 000213
+{{Fiche joueur new
+|id = 000210
 |joueur = Ohzora Tsubasa
 |nom_joueur = Le Génie du Japon
-|image = 
+|image = 000210 Tsubasa-goldentrio-technique-conf.png
 |rarete = SSR
 |type = technique
 |poste = MO
@@ -38,10 +38,11 @@
 |technique = 5065
 |technique_bonus = 817
 
-|balle_haute = bon
-|balle_basse = bon
+|balle_haute = Bon
+|balle_basse = Bon
 
-|team_skill = Puissance d'Attaque d'un Jeune Samouraï S
+|team_skill = Puissance d'Attaque d'un Jeune Samouraï
+|team_skill_rang = S
 |team_skill_description = Equipe du Japon (Junior) : Atk +5%
 
 |spe_main = Golden Trio sélection japonaise
@@ -58,8 +59,11 @@
 |spe_1_cout = 340
 |spe_1_combinaison = Misaki
 
+|taille = 173
+|poids = 59
+|description = Tsubasa a développé son "Tir acrobatie aérienne" afin d'assurer la victoire. Mais il est critiqué par son mentor Roberto Hongo, qui y voit une technique arrogante qui montre un manque de confiance dans ses coéquipiers. A mi-match, cependant, il est capable de développer sa technique...
+
 |jap
 |glo
 
 }}
-

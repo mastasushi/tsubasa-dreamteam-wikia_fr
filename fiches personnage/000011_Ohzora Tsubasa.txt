@@ -1,0 +1,71 @@
+
+{{Fiche joueur new
+
+|id = 000011
+|joueur = Ohzora Tsubasa
+|nom_joueur = Un Vrai Capitaine
+|image = 000011_Ohzora Tsubasa-goldenduo-tech-invoc.jpg
+|rarete = SSR
+|type = technique
+|poste = MO
+|pays = Japon
+|equipe = Japon (Juniors)
+|epoque = Tournoi international juniors
+|acquisition = Transfert
+
+
+|endurance = 998
+
+|total_attaque = 15967
+|dribble = 4970
+|dribble_bonus = 828
+|tir = 4505
+|tir_bonus = 751
+|passe = 6492
+|passe_bonus = 1082
+
+|total_defense = 14462
+|tacle = 4775
+|tacle_bonus = 796
+|contre = 4400
+|contre_bonus = 733
+|interception = 5287
+|interception_bonus = 891
+
+|total_physique = 14463
+|vitesse = 4752
+|vitesse_bonus = 792
+|puissance = 4256
+|puissance_bonus = 709
+|technique = 5455
+|technique_bonus = 909
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Football Japonais
+|team_skill_rang = S
+|team_skill_description = Japonais : Atk +5%
+
+|spe_main = Golden Duo
+|spe_main_type = combinaison
+|spe_main_rang = S
+|spe_main_puissance = 475
+|spe_main_cout = 435
+|spe_main_combinaison = Misaki
+
+|spe_1 = Coup du sombrero
+|spe_1_type = dribble
+|spe_1_rang = A
+|spe_1_puissance = 270
+|spe_1_cout = 170
+
+|taille = 167
+|poids = 55
+|description = Tsubasa ne peut participer au camp d'entrainement des juniors parce qu'il se rétablit de ses blessures. Il arrive en Europe plus tard que les autres, mais Hyuga et Matsuyama ne voient pas d'un bon oeil son intégration dans l'équipe du Japon. Cependant, il fait ses preuves et parvient à rejoindre officiellement l'équipe. Une fois en poste, il réalise de superbes exploits contre des joueurs rivaux du monde entier.
+
+|jap
+|glo
+
+
+}}

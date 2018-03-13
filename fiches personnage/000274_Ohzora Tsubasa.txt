@@ -1,9 +1,8 @@
-
-{{Fiche joueur
-|id = 000275
+{{Fiche joueur new
+|id = 000274
 |joueur = Ohzora Tsubasa
 |nom_joueur = Le ballon est mon ami
-|image = 
+|image = 000274_Tsubasa-feuillemorte-technique-special.png
 |rarete = SSR
 |type = technique
 |acquisition = Récompense
@@ -41,9 +40,9 @@
 |balle_haute = Bon
 |balle_basse = Bon
 
-
-|team_skill = Priorité à la Technique B
-|team_skill_description = Joueurs technique : Tech +3%"
+|team_skill = Priorité à la Technique
+|team_skill_rang = B
+|team_skill_description = Joueurs technique : Tech +3%
 
 |spe_main = Tir de la feuille morte
 |spe_main_type = tir
@@ -51,10 +50,9 @@
 |spe_main_puissance = 255
 |spe_main_cout = 300
 
-|taille = 
-|poids = 
-
-|description = 
+|taille = 167
+|poids = 55
+|description = Tsubasa ne peut participer au camp d'entrainement des juniors parce qu'il se rétablit de ses blessures. Il arrive en Europe plus tard que les autres, mais Hyuga et Matsuyama ne voient pas d'un bon oeil son intégration dans l'équipe du Japon. Cependant, il fait ses preuves et parvient à rejoindre officiellement l'équipe. Une fois en poste, il réalise de superbes exploits contre des joueurs rivaux du monde entier.
 
 |jap
 |glo

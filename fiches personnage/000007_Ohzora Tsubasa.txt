@@ -1,0 +1,71 @@
+{{Fiche joueur new
+
+|id = 000007
+|joueur = Ohzora Tsubasa
+|nom_joueur = Le Champion de la Nankatsu
+|image = 000007 Ohzora Tsubasa-feuillemorte-force-invoc-thumb.jpg
+|rarete = SSR
+|type = force
+|poste = MO
+|pays = Japon
+|equipe = Collège Nankatsu
+|epoque = Collège
+|acquisition = Transfert
+
+|endurance = 1047
+
+|total_attaque = 17556
+|dribble = 5034
+|dribble_bonus = 839
+|tir = 6998
+|tir_bonus = 1166
+|passe = 5524
+|passe_bonus = 921
+
+|total_defense = 15904
+|tacle = 4838
+|tacle_bonus = 806
+|contre = 5674
+|contre_bonus = 946
+|interception = 5392
+|interception_bonus = 899
+
+|total_physique = 15869
+|vitesse = 4798
+|vitesse_bonus = 800
+|puissance = 5501
+|puissance_bonus = 917
+|technique = 5570
+|technique_bonus = 928
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Puissance d'Attaque d'un Enfant du Foot
+|team_skill_rang = S
+|team_skill_description = Collégiens : Atk +5%
+
+|spe_main = Tir de la feuille morte
+|spe_main_type = tir 
+|spe_main_rang = S
+|spe_main_puissance = 450
+|spe_main_cout = 415
+
+|spe_1 = Retourné acrobatique
+|spe_1_type = balle haute 
+|spe_1_rang = A
+|spe_1_puissance = 290
+|spe_1_cout = 285
+
+|taille = 167
+|poids = 55
+|description = Au collège, Tsubasa joue comme milieu offensif, sur la base des conseils figurant dans le cahier de Roberto. Il joue un  rôle actif à partir de sa première année et même deux années de suite le Collège Nankatsu à la victoire lors du Tournoi national. Ensuite, dans sa troisième année, pensant à étudier à l'étranger au Brésil, il remporte le titre pour la troisième année consécutive, malgré diverses blessures.
+
+|jap
+|glo
+
+
+}}
+
+
+
