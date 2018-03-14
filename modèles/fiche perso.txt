@@ -1,0 +1,84 @@
+{{Fiche joueur new
+|id = 
+|joueur = 
+|nom_joueur = 
+|image = 
+|rarete = 
+|type = 
+|poste = 
+|pays = 
+|equipe = 
+|epoque = 
+|acquisition = 
+
+|endurance = 
+
+|total_attaque = 
+|dribble = 
+|dribble_bonus = 
+|tir = 
+|tir_bonus = 
+|passe = 
+|passe_bonus = 
+
+|total_defense = 
+|tacle = 
+|tacle_bonus = 
+|contre = 
+|contre_bonus = 
+|interception = 
+|interception_bonus = 
+
+|total_physique = 
+|vitesse = 
+|vitesse_bonus = 
+|puissance = 
+|puissance_bonus = 
+|technique = 
+|technique_bonus = 
+
+|balle_haute = 
+|balle_basse = 
+
+|team_skill = 
+|team_skill_rang = 
+|team_skill_description = 
+
+|spe_main = 
+|spe_main_type = 
+|spe_main_rang = 
+|spe_main_cout = 
+|spe_main_puissance = 
+|spe_main_combinaison = 
+
+|spe_1 = 
+|spe_1_type = 
+|spe_1_rang = 
+|spe_1_puissance = 
+|spe_1_cout = 
+|spe_1_effet = 
+|spe_1_combinaison = 
+
+|spe_2 = 
+|spe_2_type = 
+|spe_2_rang = 
+|spe_2_puissance = 
+|spe_2_cout = 
+|spe_2_effet = 
+|spe_2_combinaison = 
+
+|passive_skill = 
+|passive_skill_rang = 
+|passive_skill_description = 
+
+|taille = 
+|poids = 
+
+|description = 
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}
