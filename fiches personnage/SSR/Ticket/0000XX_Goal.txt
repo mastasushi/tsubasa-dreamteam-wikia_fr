@@ -1,0 +1,57 @@
+{{Fiche joueur new
+|id = 000532
+|joueur = Hans Doleman
+|nom_joueur = Le Dieu des cages de la Hollande
+|image = 000532_doleman-coupdesdeuxpoings-force-invoc.png
+|rarete = SSR
+|type = force
+|poste = GB
+|pays = Hollande
+|equipe = Hollande (Juniors)
+|epoque = Coupe du monde espoirs
+|acquisition = Transfert
+
+|endurance = 811
+
+|total_parades = 9901
+|coup_de_poing = 6354
+|coup_de_poing_bonus = 1059
+|arrêt = 3547
+|arrêt_bonus = 591
+
+|total_physique = 12929
+|rapidité = 4517
+|rapidité_bonus = 753
+|puissance = 4808
+|puissance_bonus = 801
+|technicité = 3604
+|technicité_bonus = 601
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Défense Ultime de la Hollande
+|team_skill_rang = S
+|team_skill_description = Joueurs Hollandais : Défense +20%
+
+|spe_main = Coup des deux poings
+|spe_main_type = Coup de poing
+|spe_main_rang = S
+|spe_main_cout = 165
+|spe_main_puissance = 380
+
+|spe_1 = Super arrêt
+|spe_1_type = arret
+|spe_1_rang = A
+|spe_1_puissance = 260
+|spe_1_cout = 230
+
+|taille = 178
+|poids = 78
+
+|description = Ce gardien de but à la carrure imposante vient au Japon pour trois matchs amicaux contre l'équipe du Japon (Juniors). Son équipe a vaincu l'Allemagne (Juniors), devanant imbattable en Europe. Lors des premier et deuxième matchs, il ne laisse pas passer un seul but, mais il est blessé lors de la troisième rencontre.
+
+|jap = Oui
+|glo = Oui
+
+}}
