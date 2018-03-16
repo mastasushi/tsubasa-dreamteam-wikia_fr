@@ -6,7 +6,7 @@ http://fr.captain-tsubasa-tatakae-dream-team-fr.wikia.com/wiki/Sp%C3%A9cial:T%C3
 
 2/ Ajouter une page
 
-![Ajouter une page](doc/ajouter page.png)
+![Ajouter une page](doc/ajouter%20page.png)
 
 3/ Choisir un titre sur le format "Joueur - Nom joueur"
 ex: Elcide Pierre - L'Artiste du Terrain
@@ -17,13 +17,13 @@ En mode page vierge
 
 - Copier le contenu de "fiche perso.txt"
 
-[fiche perso.txt](fiche perso.txt)
+[fiche perso.txt](fiche%20perso.txt)
 
 - Remplir les infos
 
-[Exemple Goal](fiches personnage/SSR/Ticket/0000XX_Goal.txt)
+[Exemple Goal](fiches%20personnage/SSR/Ticket/0000XX_Goal.txt)
 
-[Exemple Joueur](fiches personnage/SSR/Ticket/0000XX_Joueur.txt)
+[Exemple Joueur](fiches%20personnage/SSR/Ticket/0000XX_Joueur.txt)
 
 Pour l'instant on rentre les stats des versions UR, mais dans le futur, on fera peut-être SSR + UR sur la même page ou alors sur 2 pages séparées, on verra.
 
