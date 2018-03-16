@@ -3,12 +3,12 @@
 |joueur = 
 |nom_joueur = 
 |image = 
-|rarete = 
+|rareté = 
 |type = 
 |poste = 
 |pays = 
-|equipe = 
-|epoque = 
+|équipe = 
+|époque = 
 |acquisition = 
 
 |endurance = 
@@ -27,7 +27,7 @@
 |passe = 
 |passe_bonus = 
 
-|total_defense = 
+|total_défense = 
 |tacle = 
 |tacle_bonus = 
 |contre = 

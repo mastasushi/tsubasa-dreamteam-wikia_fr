@@ -3,12 +3,12 @@
 |joueur = Robson
 |nom_joueur = Mur Défensif de l'Angleterre
 |image = 000550_robson-contredehautepuissance-vitesse-invoc.png
-|rarete = SSR
+|rareté = SSR
 |type = vitesse
 |poste = DF
 |pays = Angleterre
-|equipe = Angleterre (Juniors)
-|epoque = Tournoi international juniors
+|équipe = Angleterre (Juniors)
+|époque = Tournoi international juniors
 |acquisition = Transfert
 
 |endurance = 872
@@ -21,7 +21,7 @@
 |passe = 3818
 |passe_bonus = 636
 
-|total_defense = 19467
+|total_défense = 19467
 |tacle = 5928
 |tacle_bonus = 988
 |contre = 8147

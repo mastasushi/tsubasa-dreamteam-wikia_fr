@@ -17,13 +17,13 @@ En mode page vierge
 
 - Copier le contenu de "fiche perso.txt"
 
-[fiche perso.txt](fiche%20perso.txt)
+[fiche perso.txt](doc/fiche%20perso.txt)
 
 - Remplir les infos
 
-[Exemple Goal](fiches%20personnage/SSR/Ticket/0000XX_Goal.txt)
+[Exemple Goal](doc/0000XX_Goal.txt)
 
-[Exemple Joueur](fiches%20personnage/SSR/Ticket/0000XX_Joueur.txt)
+[Exemple Joueur](doc/0000XX_Joueur.txt)
 
 Pour l'instant on rentre les stats des versions UR, mais dans le futur, on fera peut-être SSR + UR sur la même page ou alors sur 2 pages séparées, on verra.
 
