@@ -33,18 +33,18 @@ Pour l'instant on rentre les stats des versions UR, mais dans le futur, on fera 
 
 Rareté
 ```
-rareté = N|R|SR|SSR|UR
+rareté = N | R | SR | SSR | UR
 ```
 
 Type
 ```
-type = force|vitesse|technique
+type = force | vitesse | technique
 ```
 
 Poste
 
 ```
-poste = GB|DF|MD|MO|AT
+poste = GB | DF | MD | MO | AT
 ```
 Quand le joueur a plusieurs postes, rajouter une nouvelle ligne avec _2, _3, ex:
 ```
@@ -57,11 +57,12 @@ Acquistion
 acquisition = Dream Fest | Dream Collection | Recrutement | Scénario | Grande Rencontre | Raid SSR | Confédération | PvP | Ligue | Evénements Spéciaux
 ```
 
-Techniques Spéciales
-La TS principale doit être renseignée TS_main, et tous ses paramètre ensuite TS_main_type, TS_main_effet, TS_main_coût...
-Idem pour les TS suivantes, TS_1_type, TS_2_type...
+### Techniques Spéciales
+La TS principale doit être renseignée TS_main, et tous ses paramètres ensuite TS_main_type, TS_main_effet, TS_main_coût, etc...
 
-Valeurs possibles
+Idem pour les TS suivantes, TS_1_type, TS_2_type, etc...
+
+#### Valeurs possibles
 
 Type:
 ```
