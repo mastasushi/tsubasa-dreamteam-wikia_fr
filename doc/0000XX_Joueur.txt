@@ -1,0 +1,73 @@
+{{Fiche joueur new
+|id = 000550
+|joueur = Robson
+|nom_joueur = Mur Défensif de l'Angleterre
+|image = 000550_robson-contredehautepuissance-vitesse-invoc.png
+|rareté = SSR
+|type = vitesse
+|poste = DF
+|pays = Angleterre
+|équipe = Angleterre (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Transfert
+
+|endurance = 872
+
+|dribble = 4386
+|dribble_bonus = 731
+|tir = 4249
+|tir_bonus = 708
+|passe = 3818
+|passe_bonus = 636
+
+|tacle = 5928
+|tacle_bonus = 988
+|contre = 8147
+|contre_bonus = 1358
+|interception = 5392
+|interception_bonus = 899
+
+|rapidité = 4978
+|rapidité_bonus = 830
+|puissance = 7042
+|puissance_bonus = 1174
+|technicité = 4918
+|technicité_bonus = 820
+
+|balle_haute = Bon
+|balle_basse = Normal
+
+|team_skill = Grande Défense Niveau Mondial
+|team_skill_rang = S
+|team_skill_description = Joueurs Non-Japonais : Défense +10%
+
+|TS_main = Contre de haute puissance
+|TS_main_type = contre
+|TS_main_rang = S
+|TS_main_puissance = 450
+|TS_main_coût = 445
+
+|TS_2 = Tacle à forte puissance
+|TS_2_type = tacle
+|TS_2_rang = A
+|TS_2_puissance = 320
+|TS_2_coût = 350
+
+|TS_3 = Interception forcée
+|TS_3_type = interception
+|TS_3_rang = A
+|TS_3_puissance = 255
+|TS_3_coût = 255
+
+|passive_skill = Tueur de Type Force
+|passive_skill_rang = C
+|passive_skill_description = Paramètres +5% face à type Force
+
+|taille = 178
+|poids = 80
+
+|description = Ce défenseur à la grosse carrure est l'un des éléments majeurs de la défense anglaise. Souvent grâce à de longues passes de ses coéquipiers attaquants de grande taille, il donne à l'équipe de la France du fil à retordre, mais son équipe finit par perdre face à Napoléon, qui rentre sur le terrain en cours de match.
+
+|jap = Oui
+|glo = Oui
+}}

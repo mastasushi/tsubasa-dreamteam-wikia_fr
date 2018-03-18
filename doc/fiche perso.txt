@@ -1,0 +1,87 @@
+{{Fiche joueur new
+|id = 
+|joueur = 
+|nom_joueur = 
+|image = 
+|rareté = 
+|type = 
+|poste = 
+|pays = 
+|équipe = 
+|époque = 
+|acquisition = 
+
+|endurance = 
+
+|coup_de_poing = 
+|coup_de_poing_bonus = 
+|arrêt = 
+|arrêt_bonus = 
+
+|dribble = 
+|dribble_bonus = 
+|tir = 
+|tir_bonus = 
+|passe = 
+|passe_bonus = 
+
+|tacle = 
+|tacle_bonus = 
+|contre = 
+|contre_bonus = 
+|interception = 
+|interception_bonus = 
+
+|rapidité = 
+|rapidité_bonus = 
+|puissance = 
+|puissance_bonus = 
+|technicité = 
+|technicité_bonus = 
+
+|balle_haute = 
+|balle_basse = 
+
+|team_skill = 
+|team_skill_rang = 
+|team_skill_description = 
+
+|TS_main = 
+|TS_main_type = 
+|TS_main_rang = 
+|TS_main_puissance = 
+|TS_main_coût = 
+|TS_main_effet = 
+|TS_main_combinaison = 
+
+|TS_2 = 
+|TS_2_type = 
+|TS_2_rang = 
+|TS_2_puissance = 
+|TS_2_coût = 
+|TS_2_effet = 
+|TS_2_combinaison = 
+
+|TS_3 = 
+|TS_3_type = 
+|TS_3_rang = 
+|TS_3_puissance = 
+|TS_3_coût = 
+|TS_3_effet = 
+|TS_3_combinaison = 
+
+|passive_skill = 
+|passive_skill_rang = 
+|passive_skill_description = 
+
+|taille = 
+|poids = 
+
+|description = 
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}
