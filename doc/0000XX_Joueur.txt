@@ -13,7 +13,6 @@
 
 |endurance = 872
 
-|total_attaque = 12453
 |dribble = 4386
 |dribble_bonus = 731
 |tir = 4249
@@ -21,7 +20,6 @@
 |passe = 3818
 |passe_bonus = 636
 
-|total_défense = 19467
 |tacle = 5928
 |tacle_bonus = 988
 |contre = 8147
@@ -29,7 +27,6 @@
 |interception = 5392
 |interception_bonus = 899
 
-|total_physique = 16938
 |rapidité = 4978
 |rapidité_bonus = 830
 |puissance = 7042
@@ -44,23 +41,23 @@
 |team_skill_rang = S
 |team_skill_description = Joueurs Non-Japonais : Défense +10%
 
-|spe_main = Contre de haute puissance
-|spe_main_type = Contre
-|spe_main_rang = S
-|spe_main_cout = 445
-|spe_main_puissance = 450
+|TS_main = Contre de haute puissance
+|TS_main_type = contre
+|TS_main_rang = S
+|TS_main_puissance = 450
+|TS_main_coût = 445
 
-|spe_1 = Tacle à forte puissance
-|spe_1_type = Tacle
-|spe_1_rang = A
-|spe_1_puissance = 320
-|spe_1_cout = 350
+|TS_2 = Tacle à forte puissance
+|TS_2_type = tacle
+|TS_2_rang = A
+|TS_2_puissance = 320
+|TS_2_coût = 350
 
-|spe_2 = Interception forcée
-|spe_2_type = Interception
-|spe_2_rang = A
-|spe_2_puissance = 255
-|spe_2_cout = 255
+|TS_3 = Interception forcée
+|TS_3_type = interception
+|TS_3_rang = A
+|TS_3_puissance = 255
+|TS_3_coût = 255
 
 |passive_skill = Tueur de Type Force
 |passive_skill_rang = C

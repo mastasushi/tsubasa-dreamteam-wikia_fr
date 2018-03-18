@@ -13,13 +13,11 @@
 
 |endurance = 811
 
-|total_parades = 9901
 |coup_de_poing = 6354
 |coup_de_poing_bonus = 1059
 |arrêt = 3547
 |arrêt_bonus = 591
 
-|total_physique = 12929
 |rapidité = 4517
 |rapidité_bonus = 753
 |puissance = 4808
@@ -34,17 +32,17 @@
 |team_skill_rang = S
 |team_skill_description = Joueurs Hollandais : Défense +20%
 
-|spe_main = Coup des deux poings
-|spe_main_type = Coup de poing
-|spe_main_rang = S
-|spe_main_cout = 165
-|spe_main_puissance = 380
+|TS_main = Coup des deux poings
+|TS_main_type = coup_de_poing
+|TS_main_rang = S
+|TS_main_puissance = 380
+|TS_main_coût = 165
 
-|spe_1 = Super arrêt
-|spe_1_type = arrét
-|spe_1_rang = A
-|spe_1_puissance = 260
-|spe_1_cout = 230
+|TS_2 = Super arrêt
+|TS_2_type = arrêt
+|TS_2_rang = A
+|TS_2_puissance = 260
+|TS_2_coût = 230
 
 |taille = 178
 |poids = 78

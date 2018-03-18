@@ -13,13 +13,11 @@
 
 |endurance = 
 
-|total_parades = 
 |coup_de_poing = 
 |coup_de_poing_bonus = 
 |arrêt = 
 |arrêt_bonus = 
 
-|total_attaque = 
 |dribble = 
 |dribble_bonus = 
 |tir = 
@@ -27,7 +25,6 @@
 |passe = 
 |passe_bonus = 
 
-|total_défense = 
 |tacle = 
 |tacle_bonus = 
 |contre = 
@@ -35,7 +32,6 @@
 |interception = 
 |interception_bonus = 
 
-|total_physique = 
 |rapidité = 
 |rapidité_bonus = 
 |puissance = 
@@ -50,28 +46,29 @@
 |team_skill_rang = 
 |team_skill_description = 
 
-|spe_main = 
-|spe_main_type = 
-|spe_main_rang = 
-|spe_main_cout = 
-|spe_main_puissance = 
-|spe_main_combinaison = 
+|TS_main = 
+|TS_main_type = 
+|TS_main_rang = 
+|TS_main_puissance = 
+|TS_main_coût = 
+|TS_main_effet = 
+|TS_main_combinaison = 
 
-|spe_1 = 
-|spe_1_type = 
-|spe_1_rang = 
-|spe_1_puissance = 
-|spe_1_cout = 
-|spe_1_effet = 
-|spe_1_combinaison = 
+|TS_2 = 
+|TS_2_type = 
+|TS_2_rang = 
+|TS_2_puissance = 
+|TS_2_coût = 
+|TS_2_effet = 
+|TS_2_combinaison = 
 
-|spe_2 = 
-|spe_2_type = 
-|spe_2_rang = 
-|spe_2_puissance = 
-|spe_2_cout = 
-|spe_2_effet = 
-|spe_2_combinaison = 
+|TS_3 = 
+|TS_3_type = 
+|TS_3_rang = 
+|TS_3_puissance = 
+|TS_3_coût = 
+|TS_3_effet = 
+|TS_3_combinaison = 
 
 |passive_skill = 
 |passive_skill_rang = 

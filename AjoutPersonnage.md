@@ -1,39 +1,91 @@
-Voici donc la petite procédure pour ajouter un perso, c'est assez simple !
+# Ajouter un personnage au Wikia
 
-1/ Ajouter les images dans le wikia :
+Voici la procédure pour ajouter un personnage
+
+1. Ajouter les images dans le wikia :
 
 http://fr.captain-tsubasa-tatakae-dream-team-fr.wikia.com/wiki/Sp%C3%A9cial:T%C3%A9l%C3%A9verser
 
-2/ Ajouter une page
+2. Ajouter une page
 
 ![Ajouter une page](doc/ajouter%20page.png)
 
-3/ Choisir un titre sur le format "Joueur - Nom joueur"
+3. Choisir un titre sur le format "Joueur - Nom joueur"
 ex: Elcide Pierre - L'Artiste du Terrain
 
-En mode page vierge
+Sélectionne le mode page vierge.
 
-4/ Passer en mode source
+4. Passer en mode source
 
 - Copier le contenu de "fiche perso.txt"
 
-[fiche perso.txt](doc/fiche%20perso.txt)
+    [fiche perso.txt](doc/fiche%20perso.txt)
 
 - Remplir les infos
 
-[Exemple Goal](doc/0000XX_Goal.txt)
+    [Exemple Goal](doc/0000XX_Goal.txt)
 
-[Exemple Joueur](doc/0000XX_Joueur.txt)
+    [Exemple Joueur](doc/0000XX_Joueur.txt)
 
 Pour l'instant on rentre les stats des versions UR, mais dans le futur, on fera peut-être SSR + UR sur la même page ou alors sur 2 pages séparées, on verra.
 
+### Voici les valeurs possibles pour chaque catégorie
 
-Les lignes qui ne sont pas applicables doivent être supprimées (ex: spe_1, farmable...)
+Rareté
+```
+rareté = N|R|SR|SSR|UR
+```
+
+Type
+```
+type = force|vitesse|technique
+```
+
+Poste
+
+```
+poste = GB|DF|MD|MO|AT
+```
+Quand le joueur a plusieurs postes, rajouter une nouvelle ligne avec _2, _3, ex:
+```
+|poste = AT
+|poste_2 = MO
+```
+
+Acquistion
+```
+acquisition = Dream Fest | Dream Collection | Recrutement | Scénario | Grande Rencontre | Raid SSR | Confédération | PvP | Ligue | Evénements Spéciaux
+```
+
+Techniques Spéciales
+La TS principale doit être renseignée TS_main, et tous ses paramètre ensuite TS_main_type, TS_main_effet, TS_main_coût...
+Idem pour les TS suivantes, TS_1_type, TS_2_type...
+
+Valeurs possibles
+
+Type:
+```
+_type = tir | balle_haute | balle_basse | passe | dribble | tacle | interception | contre | arrêt | coup_de_poing
+```
+
+Effet:
+```
+_effet = {{effet_souffle|nombre}} | {{effet_distance}} | {{effet_angle}}
+```
+
+Combinaison:
+```
+_combinaison = {{combinaison|joueur1|joueur2|joueur3}} | *
+```
+
+Les lignes qui ne sont pas applicables doivent être supprimées (ex: TS_1, TS_2, farmable, passive_skill...)
+
+Lorsque vous ne connaissez pas une info, mettez ?, si quelqu'un la connait, il le signalera.
 
 Pour les 4 dernières lignes, il ne faut pas mettre la valeur à Non, mais supprimer la ligne, si par exemple le perso n'est pas farmable.
 
 
-5/ Ajouter le perso dans la liste des personnages :
+5. Ajouter le perso dans la liste des personnages :
 
 http://fr.captain-tsubasa-tatakae-dream-team-fr.wikia.com/wiki/PERSONNAGES?action=edit
 
