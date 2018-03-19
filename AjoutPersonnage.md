@@ -66,7 +66,7 @@ Idem pour les TS suivantes, TS_1_type, TS_2_type, etc...
 
 Type:
 ```
-_type = tir | balle_haute | balle_basse | passe | dribble | tacle | interception | contre | arrêt | coup_de_poing
+_type = tir | balle_haute | balle_basse | passe | combinaison | dribble | tacle | interception | contre | arrêt | coup_de_poing
 ```
 
 Effet:
