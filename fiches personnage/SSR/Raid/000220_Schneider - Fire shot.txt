@@ -1,0 +1,61 @@
+{{Fiche joueur new
+|id = 000220
+|joueur = Karl-Heinz Schneider
+|nom_joueur = La Couronne du Champion
+|image = 000220_Karl-Heinz Schneider-fireshot-force-farm.jpg
+|rareté = SSR
+|type = force
+|poste = AT
+|pays = Allemagne
+|équipe = Allemagne (Junior Youth)
+|époque = Tournoi international juniors
+|acquisition = Raid SSR
+
+|endurance = 875
+
+|dribble = 3433
+|dribble_bonus = 572
+|tir = 5230
+|tir_bonus = 872
+|passe = 3571
+|passe_bonus = 595
+
+|tacle = 3491
+|tacle_bonus = 582
+|contre = 3923
+|contre_bonus = 654
+|interception = 3536
+|interception_bonus = 589
+
+|rapidité = 3398
+|rapidité_bonus = 566
+|puissance = 4170
+|puissance_bonus = 695
+|technicité = 3814
+|technicité_bonus = 636
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le Rôle de L'attaquant
+|team_skill_rang = B
+|team_skill_description = +5% au tir des attaquants
+
+|TS_main = Tir du feu
+|TS_main_type = tir
+|TS_main_rang = B
+|TS_main_puissance = 300
+|TS_main_coût = 255
+|TS_main_description = Le tir mortel du jeune empereur, Schneider. Il tient son nom du fait qu'une odeur de brulé se dégage du ballon avant qu'il entre dans le but à cause du frottement.
+|TS_main_effet = {{effet_souffle|2}}
+
+|taille = 171
+|poids = 58
+|description = Le "Jeune empereur d'Allemagne" combine puissance, vitesse et capacité technique. Son talent formidable et sa capacité à marquer des buts lui donnent une place centrale dans l'équipe. Il vise le but armé de son imparable "Tir du feu".
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

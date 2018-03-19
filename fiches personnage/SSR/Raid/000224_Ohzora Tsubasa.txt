@@ -1,18 +1,18 @@
 {{Fiche joueur new
 |id = 000224
 |joueur = Tsubasa Ohzora
+|nom_joueur = L'Aura du Vainqueur
 |image = 000224_Ohzora Tsubasa-tircontrefleche-vitesse-farm.jpg
-|rarete = SSR
+|rareté = SSR
 |type = vitesse
 |poste = MO
 |pays = Japon
-|equipe = Japon (Qualif. Zone Asie)
-|epoque = Coupe du monde espoirs
+|équipe = Japon (Qualif. Zone Asie)
+|époque = Coupe du monde espoirs
 |acquisition = Raid SSR
 
 |endurance = 900
 
-|total_attaque = 12677
 |dribble = 4297
 |dribble_bonus = 716
 |tir = 4694
@@ -20,7 +20,6 @@
 |passe = 3686
 |passe_bonus = 614
 
-|total_defense = 11577
 |tacle = 4124
 |tacle_bonus = 687
 |contre = 3836
@@ -28,31 +27,34 @@
 |interception = 3617
 |interception_bonus = 603
 
-|total_physique = 11514
-|vitesse = 4096
-|vitesse_bonus = 683
+|rapidité= 4096
+|rapidité_bonus = 683
 |puissance = 3703
 |puissance_bonus = 617
-|technique = 3715
-|technique_bonus = 619
+|technicité = 3715
+|technicité_bonus = 619
 
 |balle_haute = Bon
 |balle_basse = Bon
 
 |team_skill = Prodige du Milieu de terrain
 |team_skill_rang = B
-|team_skill_description = MO : Tir +5%
+|team_skill_description = Milieux Offensifs : Tir +5%
 
-|spe_main = Tir contre-flèche
-|spe_main_type = tir
-|spe_main_rang = B
-|spe_main_cout = 250
-|spe_main_puissance = 295
-|spe_main_description = Ce coup spécial a traversé l'esprit de Tsubasa lorsqu'il vit le "Contrecoup canon rapide" du joueur de l'équipe junior chinoise Junguang Xiao. Il tend sa jambe en arrière avec son bras comme un arc et la relâche en avant, retournant ainsi le tir de son adversaire avec deux fois plus de puissance.
+|TS_main = Tir contre-flèche
+|TS_main_type = tir
+|TS_main_rang = B
+|TS_main_puissance = 295
+|TS_main_coût = 250
 
 |taille = 173
 |poids = 59
 
-|description = Jurant de vaincre toutes les équipes dans exception et d'aller en finale du Tournoi international juniors, il motive ses coéquipiers et emmène lui-même l'équipe du Japon en finale. Cependant, il est renvoyé par son équipe de ligue qui lui demandait sans cesse de rentrer au brésil.
+|description = Jurant de vaincre toutes les équipes sans exception et d'aller en finale du Tournoi international juniors, il motive ses coéquipiers et emmène lui-même l'équipe du Japon en finale. Cependant, il est renvoyé par son équipe de ligue qui lui demandait sans cesse de rentrer au brésil.
 
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
 }}

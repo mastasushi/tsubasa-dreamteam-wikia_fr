@@ -1,0 +1,60 @@
+{{Fiche joueur new
+|id = 000227
+|joueur = Taro Misaki
+|nom_joueur = Football Champagne
+|image = 000227_Taro Misaki-champagneduo-vitesse-farm.jpg
+|rareté = SSR
+|type = vitesse
+|poste = MO
+|pays = Japon
+|équipe = Japon (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Raid SSR
+
+|endurance = 776
+
+|dribble = 4188
+|dribble_bonus = 698
+|tir = 3536
+|tir_bonus = 589
+|passe = 4458
+|passe_bonus = 743
+
+|tacle = 3790
+|tacle_bonus = 632
+|contre = 3254
+|contre_bonus = 542
+|interception = 3658
+|interception_bonus = 610
+
+|rapidité = 3802
+|rapidité_bonus = 634
+|puissance = 3353
+|puissance_bonus = 559
+|technicité = 3641
+|technicité_bonus = 607
+
+|balle_haute = Normal
+|balle_basse = Très bon
+
+|team_skill = Initiateur d'Attaque
+|team_skill_rang = B
+|team_skill_description = Milieux Offensifs : Passe +5%
+
+|TS_main = Champagne Duo
+|TS_main_type = combinaison
+|TS_main_rang = B
+|TS_main_puissance = 315
+|TS_main_coût = 270
+|TS_main_combinaison = {{combinaison|Pierre}}
+
+|taille = 165
+|poids = 53
+
+|description = Misaki décide de rejoindre l'équipe du Japon (Juniors) après une rencontre fortuite avec Tsubasa dans la rue. Même s'il n'est pas souvent sur le terrain, son jeu est incroyable et magnifiquement coordonné avec Tsubasa. Il montre également sa ferveur pour le jeu en défiant l'équipe de France afin de tester ses propres capacités.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+|fini = Oui
+}}
