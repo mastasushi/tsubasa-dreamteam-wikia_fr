@@ -1,0 +1,215 @@
+<div class="joueur type_{{{type}}}">
+{{Infobox joueur
+|joueur={{{joueur|Joueur}}}
+|image={{{image|SilhouetteNoire.png}}}
+|id = {{{id}}}
+|nom_joueur = {{{nom_joueur}}}
+|rareté = [[Fichier:Rarete {{{rareté|N}}}.png|50px|center|link=Catégorie:Rareté {{{rareté|N}}}]]
+|type = [[Fichier:Type {{{type|force}}}.png|50px|center|link=Catégorie:Type {{{type|force}}}]]
+|poste = [[Fichier:Poste {{{poste|AT}}}.png|80px|center|link=Catégorie:Poste {{{poste|AT}}}]] {{#if: {{{poste_2|}}} | [[Fichier:Poste {{{poste_2}}}.png|80px|center|link=Catégorie:Poste {{{poste_2}}}]] }} {{#if: {{{poste_3|}}} | [[Fichier:Poste {{{poste_3}}}.png|80px|center|link=Catégorie:Poste {{{poste_3}}}]] }}
+|pays = {{{pays}}}
+|équipe = {{{équipe}}}
+|époque = {{{époque}}}
+|acquisition = {{{acquisition}}}
+}}
+<div class="section">
+{{#if: {{{description|}}} |
+<div class="half"><span class="label">Taille</span> <span>{{{taille}}} cm</span></div>
+<div class="half"><span class="label">Poids</span> <span>{{{poids}}} kg</span></div>
+<p class="description">
+{{{description}}}
+</p>
+}}
+<table class="joueur_stats" cellspacing="0">
+<!--caption>STATISTIQUES INDIVIDUELLES</caption-->
+<tr class="gold">
+<th colspan="2">Endurance</th>
+<th>{{{endurance|0}}}</th>
+</tr>
+
+{{#if: {{{coup_de_poing|}}} |
+<tr class="blue">
+<th>Parades</th>
+<th>{{#expr: {{{coup_de_poing|0}}} + {{{arrêt|0}}} }}</th>
+<th>+{{#expr: {{{coup_de_poing_bonus|0}}} + {{{arrêt_bonus|0}}} }} Max</th>
+</tr>
+<tr>
+<td>Coup de poing</td>
+<td>{{{coup_de_poing|0}}}</td>
+<td>+{{{coup_de_poing_bonus|0}}} Max</td>
+</tr>
+<tr>
+<td>Arrêt</td>
+<td>{{{arrêt|0}}}</td>
+<td>+{{{arrêt_bonus|0}}} Max</td>
+</tr>
+}}
+
+{{#if: {{{dribble|}}} |
+<tr class="blue">
+<th>Attaque</th>
+<th>{{#expr: {{{dribble|0}}} + {{{tir|0}}} + {{{passe|0}}} }}</th>
+<th>+{{#expr: {{{dribble_bonus|0}}} + {{{tir_bonus|0}}} + {{{passe_bonus|0}}} }} Max</th>
+</tr>
+<tr>
+<td>Dribble</td>
+<td>{{{dribble|0}}}</td>
+<td>+{{{dribble_bonus|0}}} Max</td>
+</tr>
+<tr>
+<td>Tir</td>
+<td>{{{tir|0}}}</td>
+<td>+{{{tir_bonus|0}}} Max</td>
+</tr>
+<tr>
+<td>Passe</td>
+<td>{{{passe|0}}}</td>
+<td>+{{{passe_bonus|0}}} Max</td>
+</tr>
+}}
+
+{{#if: {{{tacle|}}} |
+<tr class="blue">
+<th>Défense</th>
+<th>{{#expr: {{{tacle|0}}} + {{{contre|0}}} + {{{interception|0}}} }}</th>
+<th>+{{#expr: {{{tacle_bonus|0}}} + {{{contre_bonus|0}}} + {{{interception_bonus|0}}} }} Max</th>
+</tr>
+<tr>
+<td>Tacle</td>
+<td>{{{tacle|0}}}</td>
+<td>+{{{tacle_bonus|0}}} Max</td>
+</tr>
+<tr>
+<td>Contre</td>
+<td>{{{contre|0}}}</td>
+<td>+{{{contre_bonus|0}}} Max</td>
+</tr>
+<tr>
+<td>Interception</td>
+<td>{{{interception|0}}}</td>
+<td>+{{{interception_bonus|0}}} Max</td>
+</tr>
+}}
+<tr class="blue">
+<th>Physique</th>
+<th>{{#expr: {{{rapidité|0}}} + {{{puissance|0}}} + {{{technicité|0}}} }}</th>
+<th>+{{#expr: {{{rapidité_bonus|0}}} + {{{puissance_bonus|0}}} + {{{technicité_bonus|0}}} }} Max</th>
+</tr>
+
+<tr>
+<td>Rapidité</td>
+<td>{{{rapidité|0}}}</td>
+<td>+{{{rapidité_bonus|0}}} Max</td>
+</tr>
+<tr>
+<td>Puissance</td>
+<td>{{{puissance|0}}}</td>
+<td>+{{{puissance_bonus|0}}} Max</td>
+</tr>
+<tr>
+<td>Technicité</td>
+<td>{{{technicité|0}}}</td>
+<td>+{{{technicité_bonus|0}}} Max</td>
+</tr>
+
+
+<tr class="total">
+<td>Total</td>
+<td>{{#expr: {{{coup_de_poing|0}}} + {{{arrêt|0}}} + {{{dribble|0}}} + {{{tir|0}}} + {{{passe|0}}} + {{{tacle|0}}} + {{{contre|0}}} + {{{interception|0}}} + {{{rapidité|0}}} + {{{puissance|0}}} + {{{technicité|0}}} }}</td>
+<td>+{{#expr: {{{coup_de_poing_bonus|0}}} + {{{arrêt_bonus|0}}} + {{{dribble_bonus|0}}} + {{{tir_bonus|0}}} + {{{passe_bonus|0}}} + {{{tacle_bonus|0}}} + {{{contre_bonus|0}}} + {{{interception_bonus|0}}} + {{{rapidité_bonus|0}}} + {{{puissance_bonus|0}}} + {{{technicité_bonus|0}}} }} Max</td>
+</tr>
+
+</table>
+
+<table class="balles">
+<tr>
+<th>Balle haute</th>
+<th>Balle basse</th>
+</tr>
+<tr>
+<td>{{{balle_haute|Nul}}}</td>
+<td>{{{balle_basse|Nul}}}</td>
+</tr>
+</table>
+</div>
+
+{{#if: {{{team_skill|}}} |
+<table class="team_skill">
+<tr><th colspan="3">Aptitude d'équipe</th></tr>
+<tr>
+<td>{{{team_skill}}}</td>
+<td>{{{team_skill_rang}}}</td>
+<td>{{{team_skill_description}}}</td>
+</tr>
+</table>
+}}
+{{#if: {{{TS_main|}}} |
+<table class="spe_new">
+<tr>
+<th>Technique spéciale</th>
+<th>Rang</th>
+<th>Puissance</th>
+<th>Coût</th>
+<th>Effet</th>
+<th>Combinaison</th>
+</tr>
+{{#if: {{{TS_main|}}} |
+{{TS_new
+|nom = {{{TS_main}}}
+|rang = {{{TS_main_rang}}}
+|puissance = {{{TS_main_puissance}}}
+|coût = {{{TS_main_coût}}}
+|description = {{{TS_main_description}}}
+|effet = {{{TS_main_effet|Pas d'effet spécial}}}
+|combinaison = {{{TS_main_combinaison|Pas d'info de combinaison}}}
+|main = Oui
+}}
+}}
+{{#if: {{{TS_2|}}} |
+{{TS_new
+|nom = {{{TS_2}}}
+|rang = {{{TS_2_rang}}}
+|puissance = {{{TS_2_puissance}}}
+|coût = {{{TS_2_coût}}}
+|effet = {{{TS_2_effet|Pas d'effet spécial}}}
+|combinaison = {{{TS_2_combinaison|Pas d'info de combinaison}}}
+}}
+}}
+{{#if: {{{TS_3|}}} |
+{{TS_new
+|nom = {{{TS_3}}}
+|rang = {{{TS_3_rang}}}
+|puissance = {{{TS_3_puissance}}}
+|coût = {{{TS_3_coût}}}
+|description = {{{TS_3_description}}}
+|effet = {{{TS_3_effet|Pas d'effet spécial}}}
+|combinaison = {{{TS_3_combinaison|Pas d'info de combinaison}}}
+}}
+}}
+</table>
+}}
+{{#if: {{{passive_skill|}}} |
+<table class="passive_skill">
+<tr><th colspan="3">Aptitude personnelle</th></tr>
+<tr>
+<td>{{{passive_skill}}}</td>
+<td>{{{passive_skill_rang}}}</td>
+<td>{{{passive_skill_description}}}</td>
+</tr>
+</table>
+}}
+</div>
+
+[[Catégorie:Personnage]]
+[[Catégorie:{{{joueur|}}}]]
+[[Catégorie:{{{pays|}}}]]
+[[Catégorie:Equipe {{{équipe|}}}]]
+[[Catégorie:Epoque {{{époque|}}}]]
+[[Catégorie:Poste {{{poste|}}}]]
+{{#if: {{{poste_2|}}} | [[Catégorie:Poste {{{poste_2}}}]] }}
+{{#if: {{{poste_3|}}} | [[Catégorie:Poste {{{poste_3}}}]] }}
+[[Catégorie:Type {{{type|}}}]]
+[[Catégorie:Rareté {{{rareté|}}}]]
+{{#if: {{{farmable|}}} | [[Catégorie:Farmable]]}}
+{{#ifeq: {{{jap}}} | Oui |[[Catégorie:Version Japonaise]]}}
+{{#ifeq: {{{glo}}} | Oui |[[Catégorie:Version Globale]]}}
