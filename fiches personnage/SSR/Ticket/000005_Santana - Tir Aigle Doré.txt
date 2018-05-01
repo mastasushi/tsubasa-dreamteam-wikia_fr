@@ -1,0 +1,76 @@
+{{Fiche joueur new
+|joueur = Carlos Santana
+|nom_joueur = Soldat Parfait
+|type = technique
+|poste = AT
+|pays = Brésil
+|équipe = Rio
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|base_id = 000005
+|base_image = 000005_Santana-tirAigleDoré-technique-invoc.png
+|base_rareté = SSR
+
+|id = 000029
+|image = 000029_Santana-tirAigleDoré-technique-invoc.png
+|_rareté = UR
+|rareté = SSR
+
+|endurance = 937
+
+|dribble = 4711
+|dribble_bonus = 785
+|tir = 5484
+|tir_bonus = 914
+|passe = 4960
+|passe_bonus = 827
+
+|tacle = 4544
+|tacle_bonus = 757
+|contre = 4067
+|contre_bonus = 678
+|interception = 4822
+|interception_bonus = 804
+
+|rapidité = 4711
+|rapidité_bonus = 785
+|puissance = 4246
+|puissance_bonus = 708
+|technicité = 5161
+|technicité_bonus = 860
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = Attaque Subtile
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Technique : Attaque 5%
+
+|TS_main = Tir de l'aigle doré
+|TS_main_type = tir
+|TS_main_rang = S
+|TS_main_puissance = 440
+|TS_main_coût = 405
+|TS_main_effet = {{effet_souffle|2}} {{effet_distance}}
+
+|TS_2 = Santana Turn
+|TS_2_type = dribble
+|TS_2_rang = A
+|TS_2_puissance = 315
+|TS_2_coût = 210
+
+|passive_skill = Renforcement TS (Tir)
+|passive_skill_rang = A
+|passive_skill_description = Intensité de la TS Tir +30%
+
+|taille = 177
+|poids = 64
+
+|description = Santana possède un talent naturel incroyable si bien qu'on le surnomme "l'Enfant de Dieu". En raison d'un mauvais coaching, cependant, il n'a qu'une seule idée en tête : marquer. Cette obsession lui vaut le nom de "Cyborg du football". Quand il joue contre Tsubasa, il se souvient de la vraie joie que procure le football.
+
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

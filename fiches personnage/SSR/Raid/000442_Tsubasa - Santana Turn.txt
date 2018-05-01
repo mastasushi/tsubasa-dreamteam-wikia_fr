@@ -1,0 +1,66 @@
+{{Fiche joueur new
+|joueur = Ohzora Tsubasa
+|nom_joueur = Le Numéro 10 de Sao Paulo
+|type = technique
+|poste = MO
+|pays = Japon
+|équipe = Sao Paulo
+|époque = Coupe du monde espoirs
+|acquisition = Raid SSR
+
+|base_id = 000441
+|base_image = 000441-Tsubasa-SantanaTurn-technique-farm.png
+|base_rareté = SSR
+
+|id = 000442
+|image = 000442-Tsubasa-SantanaTurn-technique-farm.png
+|rareté = UR
+|rareté = SSR
+
+|endurance = 900
+
+|dribble = 4852
+|dribble_bonus = 809
+|tir = 3770
+|tir_bonus = 628
+|passe = 3955
+|passe_bonus = 659
+
+|tacle = 3584
+|tacle_bonus = 597
+|contre = 3509
+|contre_bonus = 585
+|interception = 3691
+|interception_bonus = 615
+
+|rapidité = 4336
+|rapidité_bonus = 723
+|puissance = 3473
+|puissance_bonus = 579
+|technicité = 3881
+|technicité_bonus = 647
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Techniques Solo Remarquables
+|team_skill_rang = B
+|team_skill_description = Milieux Offensifs : Dribble +5%
+
+|TS_main = Santana Turn
+|TS_main_type = dribble
+|TS_main_rang = B
+|TS_main_puissance = 250
+|TS_main_coût = 185
+
+|taille = 173
+|poids = 59
+
+|description = Après avoir terminé le collège, Tsubasa va au Brésil et, peu de temps après, il passe les sélections pour Sao Paulo FC. Son talent est reconnu et il devient l'attaquant de l'équipe. Grâce à sa nouvelle technique, la "Feuille morte voletante", il mène son équipe à la victoire du Championnat du Brésil au terme d'une bataille acharnée contre Santana.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

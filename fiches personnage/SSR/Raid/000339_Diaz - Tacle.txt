@@ -1,0 +1,67 @@
+{{Fiche joueur new
+
+|joueur = Juan Diaz
+|nom_joueur = Un Beau Jeu Plein d'Idées
+|type = force
+|poste = MO
+|pays = Argentine
+|équipe = Argentine (Juniors)
+|époque = 
+|acquisition = Raid SSR
+
+|base_id = 000339
+|base_image = 000339_Juan Diaz-taclecritique-force-farm.png
+|base_rareté = SSR
+
+|id = 000362
+|image = 000362_Juan Diaz-taclecritique-force-farm.png
+|_rareté = UR
+|rareté = SSR
+
+|endurance = 827
+
+|dribble = 3727
+|dribble_bonus = 621
+|tir = 4020
+|tir_bonus = 670
+|passe = 3785
+|passe_bonus = 631
+
+|tacle = 4049
+|tacle_bonus = 675
+|contre = 3750
+|contre_bonus = 625
+|interception = 3571
+|interception_bonus = 595
+
+|rapidité = 3526
+|rapidité_bonus = 588
+|puissance = 3594
+|puissance_bonus = 599
+|technicité = 4038
+|technicité_bonus = 673
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = Pression de la Ligne Avant
+|team_skill_rang = B
+|team_skill_description = Milieux Offensifs : Tacle +5%
+
+|TS_main = Tacle situation critique
+|TS_main_type = tacle
+|TS_main_rang = B
+|TS_main_puissance = 260
+|TS_main_coût = 365
+
+|taille = 164
+|poids = 51
+
+|description = Diaz est un génie du football. Il affine ses techniques depuis son plus jeune âge. Bien plus que sa capacité en tant que joueur solo, elle-même déjà impressionnante, son jeu combiné avec Pascual est vraiment exceptionnel. Il ressent un sentiment de rivalité envers un autre "génie" : Tsubasa.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

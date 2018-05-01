@@ -1,0 +1,76 @@
+{{Fiche joueur new
+|joueur = Hermann Kaltz
+|nom_joueur = Le Bosseur
+|type = force
+|poste = MD
+|pays = Allemagne
+|équipe = Allemagne (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|base_id = 000013
+|base_image = 000013_Kaltz-dribbleHérisson-force-invoc.png
+|base_rareté = SSR
+
+|id = 000037
+|image = 000037_Kaltz-dribbleHérisson-force-invoc.png
+|_rareté = UR
+|rareté = SSR
+
+|endurance = 961
+
+|dribble = 4994
+|dribble_bonus = 832
+|tir = 4567
+|tir_bonus = 761
+|passe = 4394
+|passe_bonus = 732
+
+|tacle = 4176
+|tacle_bonus = 696
+|contre = 4832
+|contre_bonus = 805
+|interception = 4487
+|interception_bonus = 748
+
+|rapidité = 3871
+|rapidité_bonus = 645
+|puissance = 4608
+|puissance_bonus = 768
+|technicité = 4343
+|technicité_bonus = 724
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Ligne Défensive Robuste
+|team_skill_rang = A
+|team_skill_description = Milieux Défensifs et Défenseurs : Physique +5%
+
+|TS_main = Dribble du hérisson
+|TS_main_type = dribble
+|TS_main_rang = A
+|TS_main_puissance = 295
+|TS_main_coût = 200
+
+|TS_2 = Passe boucle
+|TS_2_type = passe
+|TS_2_rang = A
+|TS_2_puissance = 255
+|TS_2_coût = 140
+
+|passive_skill = Système Renforcement de TS (Tacle)
+|passive_skill_rang = A
+|passive_skill_description = Intensité de la TS de tacle +30%
+
+|taille = 162
+|poids = 55
+
+|description = Ce milieu de terrain défensif est connu sous le nom de "bosseur". Il agit normalement paresseusement, mais une fois qu'il crache son cure-dent qui le caractérise et devient sérieux, personne ne peut plus l'arrêter. Il joue pour le même club de Wakabayashi et Schneider.
+
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}
+

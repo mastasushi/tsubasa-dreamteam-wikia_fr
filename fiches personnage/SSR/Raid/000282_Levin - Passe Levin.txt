@@ -1,0 +1,71 @@
+{{Fiche joueur new
+|joueur = Stefan Levin
+|nom_joueur = La Sentence du Dieu de la Destruction
+|type = vitesse
+|poste = MO
+|pays = Suède
+|équipe = Suède (Espoirs)
+|époque = Coupe du monde espoirs
+|acquisition = Raid SSR
+
+|base_id = 000282
+|base_image = 000282-Levin-passeLevin-vitesse-farm.png
+|base_rareté = SSR
+
+|id = 000283
+|image = 000283-Levin-passeLevin-vitesse-farm.png
+|rareté = UR
+
+|endurance = 826
+
+|dribble = 4102
+|dribble_bonus = 684
+|tir = 3946
+|tir_bonus = 658
+|passe = 4217
+|passe_bonus = 703
+
+|tacle = 3790
+|tacle_bonus = 632
+|contre = 3427
+|contre_bonus = 571
+|interception = 3295
+|interception_bonus = 549
+
+|rapidité = 3974
+|rapidité_bonus = 662
+|puissance = 3818
+|puissance_bonus = 636
+|technicité = 3542
+|technicité_bonus = 590
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Initiateur d'Attaque
+|team_skill_rang = B
+|team_skill_description = Milieux Offensifs : Passe +5%
+
+|TS_main = Passe à la Levin
+|TS_main_type = passe
+|TS_main_rang = B
+|TS_main_puissance = 260
+|TS_main_coût = 165
+
+|TS_2 = Feinte à angle droit
+|TS_2_type = dribble
+|TS_2_rang = B
+|TS_2_puissance = 250
+|TS_2_coût = 185
+
+|taille = 175
+|poids = 64
+
+|description = L'un des "Quatre Chevaliers du Soleil de minuit", Levin est également connu sous le nom de "Dieu destructeur du terrain". Il a acquis cette musculature grâce à une entrainement scientifique. Il utilise une combinaison incroyable de techniques puissantes. Ayant perdu sa fiancée dans un accident de voiture, il s'ouvre peu aux autres.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

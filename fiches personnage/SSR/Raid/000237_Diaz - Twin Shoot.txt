@@ -1,0 +1,68 @@
+{{Fiche joueur new
+|joueur = Juan Diaz
+|nom_joueur = La Superstar de l'Argentine
+
+|type = force
+|poste = MO
+|pays = Argentine
+|équipe = Argentine (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Raid SSR
+
+|base_id = 000237
+|base_image = 000237_Juan Diaz-twinDriveShoot-force-farm.png
+|base_rareté = SSR
+
+|id = 000265
+|image = 000265_Juan Diaz-twinDriveShoot-force-farm.png
+|rareté = UR
+
+|endurance = 829
+
+|dribble = 3721
+|dribble_bonus = 620
+|tir = 4838
+|tir_bonus = 806
+|passe = 3785
+|passe_bonus = 631
+
+|tacle = 3370
+|tacle_bonus = 562
+|contre = 3761
+|contre_bonus = 627
+|interception = 3571
+|interception_bonus = 595
+
+|rapidité = 3530
+|rapidité_bonus = 588
+|puissance = 3588
+|puissance_bonus = 598
+|technicité = 4038
+|technicité_bonus = 673
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = Le Prodige du Milieu de Terrain
+|team_skill_rang = B
+|team_skill_description = Milieux Offensifs : Tir +5%
+
+|TS_main = Tir de la feuille morte combiné
+|TS_main_type = tir
+|TS_main_rang = B
+|TS_main_puissance = 270
+|TS_main_coût = 315
+|TS_main_effet = ?
+|TS_main_combinaison = {{combinaison|Diaz|Tsubasa}}
+
+|taille = 164
+|poids = 51
+
+|description = Diaz est un génie du football. Il affine ses techniques depuis son plus jeune âge. Bien plus que sa capacité en tant que joueur solo, elle-même déjà impressionnante, son jeu combiné avec Pascual est vraiment exceptionnel. Il ressent un sentiment de rivalité envers un autre "génie" : Tsubasa.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

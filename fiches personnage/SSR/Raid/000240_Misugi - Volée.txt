@@ -1,0 +1,66 @@
+{{Fiche joueur new
+|joueur = Jun Misugi
+|nom_joueur = L'arme Secrète du Japon
+|type = technique
+|poste = MO
+|pays = Japon
+|équipe = Japon (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Raid SSR
+
+|base_id = 240
+|base_image = 000240_Jun Misugi-retourneUltime-technique-farm.png
+|base_rareté = SSR
+
+|id = 268
+|image = 000268_Jun Misugi-retourneUltime-technique-farm.png
+|_rareté = UR
+|rareté = SSR
+
+|endurance = 724
+
+|dribble = 3847
+|dribble_bonus = 641
+|tir = 4118
+|tir_bonus = 686
+|passe = 4176
+|passe_bonus = 696
+
+|tacle = 3629
+|tacle_bonus = 605
+|contre = 3254
+|contre_bonus = 542
+|interception = 4038
+|interception_bonus = 673
+
+|rapidité = 3444
+|rapidité_bonus = 574
+|puissance = 3094
+|puissance_bonus = 516
+|technicité = 4205
+|technicité_bonus = 701
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = Capacité Décisive d'un Jeune Samouraï
+|team_skill_rang = B
+|team_skill_description = Japon (Juniors) : Tir +3%
+
+|TS_main = Retourné acrobatique ultime
+|TS_main_type = balle_haute
+|TS_main_rang = B
+|TS_main_puissance = 270
+|TS_main_coût = 290
+
+|taille = 169
+|poids = 57
+
+|description = Misugi rejoint initialement l'équipe du Japon (Juniors) en tant qu'entraîneur. Il aide Matsuyama à changer de poste sur le terrain et Tsubasa à rejoindre l'équipe. Il apparaît également sur le terrain en tant que joueur, démontrant des capacités de classe mondiale et jouant un rôle important dans le chemin de son équipe vers la finale.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

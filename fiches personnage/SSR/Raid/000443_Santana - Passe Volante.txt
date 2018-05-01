@@ -1,0 +1,66 @@
+{{Fiche joueur new
+|joueur = Carlos Santana
+|nom_joueur = Le génie ayant reçu une bénédiction divine
+|type = force
+|poste = AT
+|pays = Brésil
+|équipe = Rio
+|époque = Coupe du monde espoirs
+|acquisition = Raid SSR
+
+|base_id = 000443
+|base_image = 000443_Santana-passeVolante-force-farm.png
+|base_rareté = SSR
+
+|id = 000444
+|image = 000444_Santana-passeVolante-force-farm.png
+|_rareté = UR
+|rareté = SSR
+
+|endurance = 841
+
+|dribble = 3798
+|dribble_bonus = 633
+|tir = 4142
+|tir_bonus = 690
+|passe = 4613
+|passe_bonus = 769
+
+|tacle = 3612
+|tacle_bonus = 602
+|contre = 3397
+|contre_bonus = 566
+|interception = 3504
+|interception_bonus = 584
+
+|rapidité = 3760
+|rapidité_bonus = 627
+|puissance = 3684
+|puissance_bonus = 614
+|technicité = 4639
+|technicité_bonus = 773
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = Attaque coordonnée
+|team_skill_rang = B
+|team_skill_description = Attaquants : Passe +5%
+
+|TS_main = Passe feuille morte volante
+|TS_main_type = passe
+|TS_main_rang = B
+|TS_main_puissance = 260
+|TS_main_coût = 165
+
+|taille = 177
+|poids = 64
+
+|description = Santana possède un talent naturel incroyable si bien qu'on le surnomme "l'Enfant de Dieu". En raison d'un mauvais coaching, cependant, il n'a qu'une seule idée en tête : marquer. Cette obsession lui vaut le nom de "Cyborg du football". Quand il joue contre Tsubasa, il se souvient de la vraie joie que procure le football.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

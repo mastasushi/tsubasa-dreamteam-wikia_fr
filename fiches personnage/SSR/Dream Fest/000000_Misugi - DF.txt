@@ -1,0 +1,79 @@
+{{Fiche joueur new
+|joueur = Jun Misugi
+|nom_joueur = DF
+|type = technique
+|poste = MD
+|poste_2 = DF
+|pays = Japon
+|équipe = ?
+|époque = ?
+|acquisition = Dream Fest
+
+|base_id = ?
+|base_image = ?
+|base_rareté = SSR
+
+|id = ?
+|_image =
+|rareté = UR
+
+|endurance = 923
+
+|dribble = 5800
+|dribble_bonus = 967
+|tir = 5761
+|tir_bonus = 960
+|passe = 6100
+|passe_bonus = 1017
+
+|tacle = 6058
+|tacle_bonus = 1010
+|contre = 7058
+|contre_bonus = 1176
+|interception = 6113
+|interception_bonus = 1019
+
+|rapidité = 5425
+|rapidité_bonus = 904
+|puissance = 6355
+|puissance_bonus = 1059
+|technicité = 6221
+|technicité_bonus = 1037
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = L'éveil du guerrier [Technique]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Technique : Tous les paramètres +10%
+
+|TS_main = Contre sauté
+|TS_main_type = contre
+|TS_main_rang = S
+|TS_main_puissance = 420
+|TS_main_coût = 400
+
+|TS_2 = Passe de la feuille morte
+|TS_2_type = passe
+|TS_2_rang = A
+|TS_2_puissance = 315
+|TS_2_coût = 185
+
+|TS_3 = Interception magnifique
+|TS_3_type = interception
+|TS_3_rang = A
+|TS_3_puissance = 295
+|TS_3_coût = 280
+
+|passive_skill = Courage
+|passive_skill_rang = A
+|passive_skill_description =  Si Misugi a 1pt de Stamina ou plus il pourra utiliser une technique normale sans perte de puissance
+
+|taille = -
+|poids = -
+
+|description = -
+
+|jap = Oui
+
+}}

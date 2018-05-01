@@ -4,18 +4,16 @@
 |joueur = Taro Misaki
 |nom_joueur = Artiste Ambitieux
 |image = 000208 Misaki-doubletete-vitesse-ligue.png
-|rarete = SSR
+|rareté = SSR
 |type = vitesse
 |poste = MO
 |pays = Japon
-|equipe = Japon (Juniors)
-|epoque = Tournoi international juniors
-|acquisition = ligue
+|équipe = Japon (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Ligue
 
 |endurance = 819
 
-
-|total_attaque = 14871
 |dribble = 4711
 |dribble_bonus = 785
 |tir = 5984
@@ -23,7 +21,6 @@
 |passe = 4176
 |passe_bonus = 696
 
-|total_defense = 12048
 |tacle = 4256
 |tacle_bonus = 709
 |contre = 3680
@@ -31,40 +28,40 @@
 |interception = 4112
 |interception_bonus = 685
 
-|total_physique = 12160
-|vitesse = 4279
-|vitesse_bonus = 713
+|rapidité = 4279
+|rapidité_bonus = 713
 |puissance = 3779
 |puissance_bonus = 630
-|technique = 4102
-|technique_bonus = 684
+|technicité = 4102
+|technicité_bonus = 684
 
 |balle_haute = Normal
 |balle_basse = Très bon
 
 |team_skill = Centre du Terrain Offensif
 |team_skill_rang = A
-|team_skill_description = MO : Atk +5%
+|team_skill_description = Milieux Offensifs : Attaque +5%
 
-|spe_main = Double tête plongeante
-|spe_main_type = balle basse
-|spe_main_rang = A
-|spe_main_puissance = 340
-|spe_main_cout = 355
-|spe_main_combinaison = Tsubasa
+|TS_main = Double tête plongeante
+|TS_main_type = balle basse
+|TS_main_rang = A
+|TS_main_puissance = 340
+|TS_main_coût = 355
+|TS_main_combinaison = {{combinaison|Misaki|Tsubasa}}
 
-|spe_1 = Dribble magnifique
-|spe_1_type = dribble
-|spe_1_rang = A
-|spe_1_puissance = 320
-|spe_1_cout = 215
+|TS_2 = Dribble magnifique
+|TS_2_type = dribble
+|TS_2_rang = A
+|TS_2_puissance = 320
+|TS_2_coût = 215
 
 |taille = 165
 |poids = 53
 |description = Misaki décide de rejoindre l'équipe du Japon (Juniors) après une rencontre fortuite avec Tsubasa dans la rue. Même s'il n'est pas souvent sur le terrain, son jeu est incroyable et magnifiquement coordonné avec Tsubasa. Il montre également sa ferveur pour le jeu en défiant l'équipe de France afin de tester ses propres capacités.
 
-|jap
-|glo
+|jap = Oui
+|glo = Oui
 
+|fini = Oui
 
 }}

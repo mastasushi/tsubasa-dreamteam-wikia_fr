@@ -1,0 +1,66 @@
+{{Fiche joueur new
+|joueur = Carlos Santana
+|nom_joueur = Le Cyborg du Football
+|type = technique
+|poste = AT
+|pays = Brésil
+|équipe = Rio
+|époque = Coupe du monde espoirs
+|acquisition = Raid SSR
+
+|base_id = 000221
+|base_image = 000221_Santana-retourneRoulant-technique-farm.png
+|base_rareté = SSR
+
+|id = 000249
+|image = 000249_Santana-retourneRoulant-technique-farm.png
+|_rareté = UR
+|rareté = SSR
+
+|endurance = 843
+
+|dribble = 3761
+|dribble_bonus = 627
+|tir = 4394
+|tir_bonus = 732
+|passe = 3974
+|passe_bonus = 662
+
+|tacle = 3629
+|tacle_bonus = 605
+|contre = 3266
+|contre_bonus = 544
+|interception = 3871
+|interception_bonus = 645
+
+|rapidité = 3761
+|rapidité_bonus = 627
+|puissance = 3410
+|puissance_bonus = 588
+|technicité = 4135
+|technicité_bonus = 689
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = Le Devoir de l'Attaquant
+|team_skill_rang = B
+|team_skill_description = Attaquants : Attaque +5%"
+
+|TS_main = Retourné acrobatique roulant
+|TS_main_type = balle_haute
+|TS_main_rang = B
+|TS_main_puissance = 235
+|TS_main_coût = 255
+
+|taille = 177
+|poids = 64
+
+|description = Santana possède un talent naturel incroyable si bien qu'on le surnomme "l'Enfant de Dieu". En raison d'un mauvais coaching, cependant, il n'a qu'une seule idée en tête : marquer. Cette obsession lui vaut le nom de "Cyborg du football". Quand il joue contre Tsubasa, il se souvient de la vraie joie que procure le footbal.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

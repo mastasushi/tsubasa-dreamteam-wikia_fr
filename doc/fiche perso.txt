@@ -1,15 +1,20 @@
 {{Fiche joueur new
-|id = 
 |joueur = 
 |nom_joueur = 
-|image = 
-|rareté = 
 |type = 
 |poste = 
 |pays = 
 |équipe = 
 |époque = 
 |acquisition = 
+
+|base_id = 
+|base_image = 
+|base_rareté = 
+
+|id = 
+|image = 
+|rareté = 
 
 |endurance = 
 

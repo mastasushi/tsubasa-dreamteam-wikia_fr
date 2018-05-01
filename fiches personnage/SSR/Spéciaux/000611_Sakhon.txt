@@ -1,0 +1,178 @@
+{{Fiche joueur new
+|id = 000611
+|base_id = 000610
+|joueur = Sakhon Konsawatt
+|nom_joueur = Combinaison de frères
+|image = 000611-Sakhon Konsawatt-TripleRetourneAcrobatique-vitesse-Conf.png
+|base_image = 000610-Sakhon Konsawatt-TripleRetourneAcrobatique-vitesse-Conf.png
+|rareté = UR
+|base_rareté = SSR
+|type = vitesse
+|poste = AT
+|pays = Thaïlande
+|équipe = Thaïlande (qualif. zone Asie)
+|époque = Coupe du monde Espoirs
+|acquisition = Confédération
+
+|endurance = 820
+
+|dribble = 4032
+|dribble_bonus = 672
+|tir = 7084
+|tir_bonus = 1181
+|passe = 4111
+|passe_bonus = 685
+
+|tacle = 3906
+|tacle_bonus = 651
+|contre = 3906
+|contre_bonus = 651
+|interception = 3989
+|interception_bonus = 665
+
+|rapidité = 3594
+|rapidité_bonus = 599
+|puissance = 5096
+|puissance_bonus = 849
+|technicité = 3662
+|technicité_bonus = 610
+
+|base_endurance = 684
+
+|base_dribble = 2688
+|base_dribble_bonus = 448
+|base_tir = 4723
+|base_tir_bonus = 787
+|base_passe = 2741
+|base_passe_bonus = 457
+
+|base_tacle = 2604
+|base_tacle_bonus = 434
+|base_contre = 2604
+|base_contre_bonus = 434
+|base_interception = 2659
+|base_interception_bonus = 443
+
+|base_rapidité = 2396
+|base_rapidité_bonus = 399
+|base_puissance = 3397
+|base_puissance_bonus = 566
+|base_technicité = 2442
+|base_technicité_bonus = 407
+
+|balle_haute = Très bon
+|balle_basse = Bon
+
+|team_skill = Grosse attaque thaïlandaise
+|team_skill_rang = A
+|team_skill_description = Joueurs thaïlandais : attaque +10%.
+
+|TS_main = Triple retourné acrobatique
+|TS_main_type = balle_haute
+|TS_main_rang = S
+|TS_main_puissance = 475
+|TS_main_coût = 400
+|TS_main_effet = -
+|TS_main_combinaison = {{combinaison|Faran|Sakhon|Chana}} | *
+
+|TS_2 = Tête plongeante
+|TS_2_type = balle_basse
+|TS_2_rang = A
+|TS_2_puissance = 260
+|TS_2_coût = 255
+|TS_2_effet = -
+|TS_2_combinaison = -
+
+|taille = 180
+|poids = 72
+
+|description = Le cadet des trois frères Konsawatt. Il fait bon usage de sa grande taille et est habile pour tirer sous des angles élevés. Il sert parfois de tremplin pour les attaques aériennes de son jeune frère. Son avenir dans le football se joue lors des qualifications zone Asie.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|date_glo = 13/04/2018
+|date_jap = ?
+|expiré = non
+
+|fini = non manque miniature
+}}
+
+<tabber>
+|-|SSR =
+{{stats
+|endurance = 684
+
+|dribble = 2688
+|dribble_bonus = 448
+|tir = 4723
+|tir_bonus = 787
+|passe = 2741
+|passe_bonus = 457
+
+|tacle = 2604
+|tacle_bonus = 434
+|contre = 2604
+|contre_bonus = 434
+|interception = 2659
+|interception_bonus = 443
+
+|rapidité = 2396
+|rapidité_bonus = 399
+|puissance = 3397
+|puissance_bonus = 566
+|technicité = 2442
+|technicité_bonus = 407
+}}
+
+|-|UR=
+{{stats
+
+|endurance = 820
+
+|dribble = 4032
+|dribble_bonus = 672
+|tir = 7084
+|tir_bonus = 1181
+|passe = 4111
+|passe_bonus = 685
+
+|tacle = 3906
+|tacle_bonus = 651
+|contre = 3906
+|contre_bonus = 651
+|interception = 3989
+|interception_bonus = 665
+
+|rapidité = 3594
+|rapidité_bonus = 599
+|puissance = 5096
+|puissance_bonus = 849
+|technicité = 3662
+|technicité_bonus = 610
+
+|base_endurance = 684
+
+|base_dribble = 2688
+|base_dribble_bonus = 448
+|base_tir = 4723
+|base_tir_bonus = 787
+|base_passe = 2741
+|base_passe_bonus = 457
+
+|base_tacle = 2604
+|base_tacle_bonus = 434
+|base_contre = 2604
+|base_contre_bonus = 434
+|base_interception = 2659
+|base_interception_bonus = 443
+
+|base_rapidité = 2396
+|base_rapidité_bonus = 399
+|base_puissance = 3397
+|base_puissance_bonus = 566
+|base_technicité = 2442
+|base_technicité_bonus = 407
+}}
+</tabber>

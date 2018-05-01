@@ -1,0 +1,66 @@
+{{Fiche joueur new
+|joueur = Hikaru Matsuyama
+|nom_joueur = Un leadership plein de vitalité
+|type = vitesse
+|poste = MO
+|pays = Japon
+|équipe = Collège Furano
+|époque = Collège
+|acquisition = Raid SSR
+
+|base_id = 000342
+|base_image = 000342_Hikaru Matsuyama-interceptionForcee-vitesse-farm.png
+|base_rareté = SSR
+
+|id = 000365
+|image = 000365_Hikaru Matsuyama-interceptionForcee-vitesse-farm.png
+|_rareté = UR
+|rareté = SSR
+
+|endurance = 886
+
+|dribble = 3986
+|dribble_bonus = 664
+|tir = 3491
+|tir_bonus = 582
+|passe = 3260
+|passe_bonus = 543
+
+|tacle = 4032
+|tacle_bonus = 672
+|contre = 3548
+|contre_bonus = 591
+|interception = 3876
+|interception_bonus = 646
+
+|rapidité = 3703
+|rapidité_bonus = 617
+|puissance = 3485
+|puissance_bonus = 581
+|technicité = 3318
+|technicité_bonus = 553
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Défense Audacieuse en Ligne Avant
+|team_skill_rang = B
+|team_skill_description = Milieux Offensifs : Interc. +5%
+
+|TS_main = Interception forcée
+|TS_main_type = interception
+|TS_main_rang = B
+|TS_main_puissance = 205
+|TS_main_coût = 220
+
+|taille = 168
+|poids = 57
+
+|description = Connu sous le nom "d'Aigle Sauvage du Nord", ce joueur croit fermememnt dans le travail acharné et la rigueur. En tant que capitaine, ses coéquipiers ont une totale confiance en lui. Sa spécialité : son tir long au ras du sol.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}

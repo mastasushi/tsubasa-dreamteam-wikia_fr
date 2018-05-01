@@ -1,0 +1,23 @@
+
+|endurance = 684
+
+|dribble = 2688
+|dribble_bonus = 448
+|tir = 4723
+|tir_bonus = 787
+|passe = 2741
+|passe_bonus = 457
+
+|tacle = 2604
+|tacle_bonus = 434
+|contre = 2604
+|contre_bonus = 434
+|interception = 2659
+|interception_bonus = 443
+
+|rapidité = 2396
+|rapidité_bonus = 399
+|puissance = 3397
+|puissance_bonus = 566
+|technicité = 2442
+|technicité_bonus = 407

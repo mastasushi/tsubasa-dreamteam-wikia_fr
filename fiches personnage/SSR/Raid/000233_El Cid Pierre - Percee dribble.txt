@@ -1,0 +1,61 @@
+{{Fiche joueur new
+|base_id = 000233
+|id = 000261
+|joueur = Elcide Pierre
+|nom_joueur = Le Chevalier de la Rose
+|image = 000233 Pierre-dribbleartistique-vitesse-farm.jpg
+|rareté = SSR
+|type = vitesse
+|poste = MO
+|pays = France
+|équipe = France (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Raid SSR
+
+|endurance = 841
+
+|dribble = 5040
+|dribble_bonus = 840
+|tir = 3554
+|tir_bonus = 592
+|passe = 3577
+|passe_bonus = 596
+
+|tacle = 4130
+|tacle_bonus = 688
+|contre = 3818
+|contre_bonus = 636
+|interception = 3410
+|interception_bonus = 568
+
+|rapidité = 3830
+|rapidité_bonus = 638
+|puissance = 3548
+|puissance_bonus = 591
+|technicité = 3600
+|technicité_bonus = 600
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Techniques Solo Remarquables
+|team_skill_rang = B
+|team_skill_description = Milieux Offensifs : Dribble +3%
+
+|TS_main = Percée dribble artistique
+|TS_main_type = dribble
+|TS_main_rang = B
+|TS_main_puissance = 255
+|TS_main_coût = 185
+
+|taille = 171
+|poids = 62
+
+|description = Connu sous le nom "d'Artiste du terrain", Pierre possède à la fois de grandes capacités à l'attaque et en défense. Lui et Misaki sont rivaux. Il est très charismatique et a une capacité surprenante à rassembler son équipe en tant que capitaine.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+}}
