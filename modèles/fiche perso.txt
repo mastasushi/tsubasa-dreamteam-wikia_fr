@@ -1,15 +1,19 @@
 {{Fiche joueur new
-|id = 
+
 |joueur = 
 |nom_joueur = 
-|image = 
-|rarete = 
 |type = 
 |poste = 
+|poste_2 = 
+|poste_3 = 
 |pays = 
 |equipe = 
 |epoque = 
 |acquisition = 
+
+|id = 
+|image = 
+|rarete = 
 
 |endurance = 
 
@@ -36,6 +40,36 @@
 |puissance_bonus = 
 |technique = 
 |technique_bonus = 
+
+|base_id = 
+|base_image = 
+|base_rarete = 
+
+|base_endurance = 
+
+|base_total_attaque = 
+|base_dribble = 
+|base_dribble_bonus = 
+|base_tir = 
+|base_tir_bonus = 
+|base_passe = 
+|base_passe_bonus = 
+
+|base_total_defense = 
+|base_tacle = 
+|base_tacle_bonus = 
+|base_contre = 
+|base_contre_bonus = 
+|base_interception = 
+|base_interception_bonus = 
+
+|base_total_physique = 
+|base_vitesse = 
+|base_vitesse_bonus = 
+|base_puissance = 
+|base_puissance_bonus = 
+|base_technique = 
+|base_technique_bonus = 
 
 |balle_haute = 
 |balle_basse = 
@@ -70,6 +104,7 @@
 |passive_skill = 
 |passive_skill_rang = 
 |passive_skill_description = 
+|passive_skill_jap_only = Oui
 
 |taille = 
 |poids = 
