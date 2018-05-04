@@ -7,13 +7,16 @@ Voici la procédure pour ajouter un personnage
 http://fr.captain-tsubasa-tatakae-dream-team-fr.wikia.com/wiki/Sp%C3%A9cial:T%C3%A9l%C3%A9verser
 
 - Le format de l'image pour les portraits doit être sous la forme suivante :
-![Portrait](doc/000208%20Misaki-doubletete-vitesse-ligue.png =100x)
+
+  <img src="doc/000208_Misaki-doubletete-vitesse-ligue.png " alt="portrait" style="width: 120px;"/>
 
 `{idJoueur}_{nom_personnage}-{TS_principage}-{type}-{acquisition}.png`
 
 ex: 000208 Misaki-doubletete-vitesse-ligue.png
 
 - Pour la miniature :
+
+  <img src="doc/000208_Misaki-doubletete-vitesse-ligue-thumb.png" alt="portrait" style="width: 120px;"/>
 
 `{idJoueur}_{nom_personnage}-{TS_principage}-{type}-{acquisition}-thumb.png`
 
