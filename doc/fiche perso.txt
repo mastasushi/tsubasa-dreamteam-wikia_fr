@@ -88,5 +88,10 @@
 |jap = Oui
 |glo = Oui
 
+|date_glo =
+|date_jap =
+|expiré = Non
+
 |fini = Oui
+
 }}
