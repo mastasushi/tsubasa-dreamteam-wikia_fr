@@ -8,10 +8,6 @@
 |époque = 
 |acquisition = 
 
-|base_id = 
-|base_image = 
-|base_rareté = 
-
 |id = 
 |image = 
 |rareté = 
@@ -43,6 +39,38 @@
 |puissance_bonus = 
 |technicité = 
 |technicité_bonus = 
+
+|base_id = 
+|base_image = 
+|base_rareté = 
+
+|base_endurance = 
+
+|base_coup_de_poing = 
+|base_coup_de_poing_bonus = 
+|base_arrêt = 
+|base_arrêt_bonus = 
+
+|base_dribble = 
+|base_dribble_bonus = 
+|base_tir = 
+|base_tir_bonus = 
+|base_passe = 
+|base_passe_bonus = 
+
+|base_tacle = 
+|base_tacle_bonus = 
+|base_contre = 
+|base_contre_bonus = 
+|base_interception = 
+|base_interception_bonus = 
+
+|base_rapidité = 
+|base_rapidité_bonus = 
+|base_puissance = 
+|base_puissance_bonus = 
+|base_technicité = 
+|base_technicité_bonus = 
 
 |balle_haute = 
 |balle_basse = 
