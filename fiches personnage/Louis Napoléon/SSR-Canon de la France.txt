@@ -1,0 +1,104 @@
+{{Fiche joueur new
+|joueur = Louis Napoléon
+|nom_joueur = Canon de la France
+|type = vitesse
+|poste = AT
+|pays = France
+|équipe = France (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Shop Evènement ticket
+
+|id = 000737
+|image = 000737-Napoléon-passepuissanteEX-vitesse-event.png
+|rareté = UR
+
+|endurance = 928
+
+|dribble = 3540
+|dribble_bonus = 590
+|tir = 4012
+|tir_bonus = 669
+|passe = 7554
+|passe_bonus = 1259
+
+|tacle = 6636
+|tacle_bonus = 1106
+|contre = 2421
+|contre_bonus = 420
+|interception = 2468
+|interception_bonus = 411
+
+|rapidité = 4668
+|rapidité_bonus = 778
+|puissance = 5065
+|puissance_bonus = 844
+|technicité = 5650
+|technicité_bonus = 942
+
+|base_id = 000736
+|base_image = 000736-Napoléon-passepuissanteEX-vitesse-event.png
+|base_rareté = SSR
+
+|base_endurance = 773
+
+|base_dribble = 2359
+|base_dribble_bonus = 393
+|base_tir = 2675
+|base_tir_bonus = 446
+|base_passe = 5036
+|base_passe_bonus = 839
+
+|base_tacle = 4424
+|base_tacle_bonus = 737
+|base_contre = 1680
+|base_contre_bonus = 280
+|base_interception = 1645
+|base_interception_bonus = 274
+
+|base_rapidité = 3112
+|base_rapidité_bonus = 519
+|base_puissance = 3377
+|base_puissance_bonus = 563
+|base_technicité = 3767
+|base_technicité_bonus = 628
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le Réveil du Foot Européen
+|team_skill_rang = S
+|team_skill_description = Joueur Européens : Tous Paramètres +5%
+
+|TS_main = Passe puissante (EX)
+|TS_main_type = passe
+|TS_main_rang = A
+|TS_main_puissance = 340
+|TS_main_coût = 350
+
+|TS_2 = Gros tacle
+|TS_2_type = tacle
+|TS_2_rang = A
+|TS_2_puissance = 265
+|TS_2_coût = 280
+
+|TS_3 = Attaque de la Tour Eiffel
+|TS_3_type = combinaison
+|TS_3_rang = A
+|TS_3_puissance = 325
+|TS_3_coût = 350
+|TS_3_combinaison = {{combinaison|Napoléon|Pierre}}
+
+|passive_skill = Tueur de Soda
+|passive_skill_rang = C
+|passive_skill_description = Face à Soda : Paramètres +5%
+
+|taille = 170
+|poids = 63
+
+|description = Napoléon est un joueur talentueux, mais il a mauvais caractère et finit souvent par être expulsé. Sa capacité est le "Tir boulet de canon", un tir extrêmement puissant. Il rêve de faire un coup du chapeau à chaque match du Tournoi international juniors. Bien que cela ne se voie pas à son caractère, il fait également d'excellentes passes.
+
+|jap = Oui
+|glo = Oui
+
+|expiré = Oui
+}}

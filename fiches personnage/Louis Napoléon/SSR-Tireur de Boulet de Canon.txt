@@ -1,0 +1,98 @@
+{{Fiche joueur new
+|joueur = Louis Napoléon
+|nom_joueur = Tireur de Boulet de Canon
+|type = vitesse
+|poste = AT
+|pays = France
+|équipe = France (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000028
+|image = 000028-Napoléon-tirbouletdecanon-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 924
+
+|dribble = 4735
+|dribble_bonus = 789
+|tir = 5772
+|tir_bonus = 962
+|passe = 4211
+|passe_bonus = 702
+
+|tacle = 4798
+|tacle_bonus = 800
+|contre = 4355
+|contre_bonus = 726
+|interception = 3871
+|interception_bonus = 645
+
+|rapidité = 4631
+|rapidité_bonus = 772
+|puissance = 4596
+|puissance_bonus = 766
+|technicité = 3934
+|technicité_bonus = 656
+
+|base_id = 000004
+|base_image = 000004-Napoléon-tirbouletdecanon-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 771
+
+|base_dribble = 3156
+|base_dribble_bonus = 526
+|base_tir = 3847
+|base_tir_bonus = 641
+|base_passe = 2807
+|base_passe_bonus = 468
+
+|base_tacle = 3198
+|base_tacle_bonus = 533
+|base_contre = 2903
+|base_contre_bonus = 484
+|base_interception = 2580
+|base_interception_bonus = 430
+
+|base_rapidité = 3088
+|base_rapidité_bonus = 515
+|base_puissance = 3065
+|base_puissance_bonus = 511
+|base_technicité = 2622
+|base_technicité_bonus = 437
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Tempête et Déchainement
+|team_skill_rang = A
+|team_skill_description = Joueurs Type Vitesse : Tir +5%
+
+|TS_main = Tir boulet de canon
+|TS_main_type = tir
+|TS_main_rang = A
+|TS_main_puissance = 300
+|TS_main_coût = 325
+|TS_main_effet = {{effet_souffle|1}}
+
+|TS_2 = Gros tacle
+|TS_2_type = tacle
+|TS_2_rang = A
+|TS_2_puissance = 265
+|TS_2_coût = 280
+
+|passive_skill = Maître en lecture de jeu
+|passive_skill_rang = S
+|passive_skill_description = Si vous gagnez en lisant les matchs, vous obtiendrez 50%
+|passive_skill_jap_only = Oui
+
+|taille = 170
+|poids = 63
+
+|description = Napoléon est un joueur talentueux, mais il a mauvais caractère et finit souvent par être expulsé. Sa capacité est le "Tir boulet de canon", un tir extrêmement puissant. Il rêve de faire un coup du chapeau à chaque match du Tournoi international juniors. Bien que cela ne se voie pas à son caractère, il fait également d'excellentes passes.
+
+|jap = Oui
+|glo = Oui
+
+}}
