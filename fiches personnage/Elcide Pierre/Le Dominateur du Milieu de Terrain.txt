@@ -1,0 +1,103 @@
+{{Fiche joueur new
+|joueur = Elcide Pierre
+|nom_joueur = Le Dominateur du Milieu de Terrain
+|type = technique
+|poste = MO
+|pays = France
+|équipe = France (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000466
+|image = 000466-pierre-taclepapillon-tech-invoc.png
+|rareté = UR
+
+|endurance = 818
+
+|dribble = 3529
+|dribble_bonus = 588
+|tir = 3158
+|tir_bonus = 526
+|passe = 3601
+|passe_bonus = 600
+
+|tacle = 4285
+|tacle_bonus = 714
+|contre = 3322
+|contre_bonus = 554
+|interception = 3262
+|interception_bonus = 544
+
+|rapidité = 3790
+|rapidité_bonus = 632
+|puissance = 3126
+|puissance_bonus = 521
+|technicité = 3527
+|technicité_bonus = 588
+
+|base_id = 000465
+|base_image = 000465-pierre-taclepapillon-tech-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 982
+
+|base_dribble = 5293
+|base_dribble_bonus = 882
+|base_tir = 4735
+|base_tir_bonus = 789
+|base_passe = 5394
+|base_passe_bonus = 899
+
+|base_tacle = 6425
+|base_tacle_bonus = 1071
+|base_contre = 4988
+|base_contre_bonus = 831
+|base_interception = 4894
+|base_interception_bonus = 816
+
+|base_rapidité = 5683
+|base_rapidité_bonus = 947
+|base_puissance = 4691
+|base_puissance_bonus = 782
+|base_technicité = 5291
+|base_technicité_bonus = 882
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Défense Subtile
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Technique : Défense +5%
+
+|TS_main = Tacle papillon
+|TS_main_type = Tacle
+|TS_main_rang = S
+|TS_main_coût = 415
+|TS_main_puissance = 465
+
+|TS_2 = Tir glissant
+|TS_2_type = Tir
+|TS_2_rang = A
+|TS_2_puissance = 300
+|TS_2_coût = 325
+
+|TS_3 = Percée dribble artistique
+|TS_3_type = Dribble
+|TS_3_rang = A
+|TS_3_puissance = 320
+|TS_3_coût = 215
+
+|passive_skill = Combinaison (Napoléon)
+|passive_skill_rang = ?
+|passive_skill_description = Si Louis Napoléon est dans la même équipe : Paramètres +10%
+|passive_skill_jap_only = Oui
+
+|taille = 171
+|poids = 62
+
+|description = Connu sous le nom d'"Artiste du terrain", Pierre possède à la fois de grandes capacités à l'attaque et en défense. Lui et Misaki sont rivaux. Il est très charismatique et a une capacité surprenante à rassembler son équipe en tant que capitaine.
+
+|jap = Oui
+|glo = Oui
+
+}}

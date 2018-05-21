@@ -1,0 +1,94 @@
+{{Fiche joueur new
+|joueur = Salvatore Gentile
+|nom_joueur = Défense Offensive de l'Italie
+|type = vitesse
+|poste = DF
+|pays = Italie
+|équipe = Italie (Espoirs)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000922
+|image = 000922-Gentile-dribblePuissant-vitesse-invoc.png
+|image = SilhouetteNoire.png
+|rareté = SSR
+
+|endurance = 726
+
+|dribble = 3132
+|dribble_bonus = 522
+|tir = 2459
+|tir_bonus = 410
+|passe = 2594
+|passe_bonus = 432
+
+|tacle = 3332
+|tacle_bonus = 555
+|contre = 3191
+|contre_bonus = 532
+|interception = 3182
+|interception_bonus = 530
+
+|rapidité = 3168
+|rapidité_bonus = 528
+|puissance = 2953
+|puissance_bonus = 492
+|technicité = 2676
+|technicité_bonus = 446
+
+|base_id = 000921
+|base_image = 000921-Gentile-dribblePuissant-vitesse-invoc.png
+|base_image = SilhouetteNoire.png
+|base_rareté = SR
+
+|base_endurance = 605
+
+|base_dribble = 1650
+|base_dribble_bonus = 275
+|base_tir = 1294
+|base_tir_bonus = 216
+|base_passe = 1364
+|base_passe_bonus = 227
+
+|base_tacle = 1753
+|base_tacle_bonus = 292
+|base_contre = 1679
+|base_contre_bonus = 280
+|base_interception = 1675
+|base_interception_bonus = 279
+
+|base_rapidité = 1669
+|base_rapidité_bonus = 278
+|base_puissance = 1555
+|base_puissance_bonus = 259
+|base_technicité = 1408
+|base_technicité_bonus = 235
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Puissance d'Infiltration Incisive
+|team_skill_rang = A
+|team_skill_description = Joueur Type Vitesse : Dribble +5%
+
+|TS_main = Dribble puissant
+|TS_main_type = dribble
+|TS_main_rang = A
+|TS_main_puissance = 265
+|TS_main_coût = 190
+
+|taille = 181
+|poids = 71
+
+|description = Dans la phase finale du Tournoi international juniors, l'Italie est dans le même groupe que l'équipe du Japon. Gentile a étudié avec soin le style de jeu d'Aoi. Il veut une confrontation directe avec lui. Cependant, après sa blessure pendant le match contre l'Uruguay, il n'est plus au meilleur de sa forme. Incapable de résister à la nouvelle technique d'Aoi, son équipe est vaincue.
+
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+|expiré = Non
+
+|fini = Oui
+
+}}

@@ -1,0 +1,104 @@
+{{Fiche joueur new
+|joueur = Juan Diaz
+|nom_joueur = Superstar
+|type = force
+|poste = AT
+|poste_2 = MO
+|pays = Argentine
+|équipe = Argentine (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Dream Fest
+
+|id = 000383
+|image = 000383-Diaz-TirTroisMouvementGym-force-fest.png
+|rareté = UR
+
+|endurance = 1011
+
+|dribble = 6413
+|dribble_bonus = 1069
+|tir = 7514
+|tir_bonus = 1252
+|passe = 5887
+|passe_bonus = 981
+
+|tacle = 5663
+|tacle_bonus = 944
+|contre = 5156
+|contre_bonus = 859
+|interception = 5434
+|interception_bonus = 906
+
+|rapidité = 5952
+|rapidité_bonus = 992
+|puissance = 6090
+|puissance_bonus = 1015
+|technicité = 6353
+|technicité_bonus = 1059
+
+|base_id = 000382
+|base_image = 000382-Diaz-TirTroisMouvementGym-force-fest.png
+|base_rareté = SSR
+
+|base_endurance = 843
+
+|base_dribble = 4274
+|base_dribble_bonus = 712
+|base_tir = 5767
+|base_tir_bonus = 961
+|base_passe = 3535
+|base_passe_bonus = 589
+
+|base_tacle = 3778
+|base_tacle_bonus = 630
+|base_contre = 3268
+|base_contre_bonus = 545
+|base_interception = 3622
+|base_interception_bonus = 589
+
+|base_rapidité = 3961
+|base_rapidité_bonus = 660
+|base_puissance = 4063
+|base_puissance_bonus = 677
+|base_technicité = 4229
+|base_technicité_bonus = 705
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = Super attaque féroce
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Force : Attaque +10%
+
+|TS_main = Tir en trois mouvements de gym
+|TS_main_type = tir
+|TS_main_rang = S
+|TS_main_puissance = 475
+|TS_main_coût = 435
+
+|TS_2 = Percée dribble de génie
+|TS_2_type = dribble
+|TS_2_rang = A
+|TS_2_puissance = 350
+|TS_2_coût = 235
+
+|TS_3 = Passe feuille morte
+|TS_3_type = passe
+|TS_3_rang = A
+|TS_3_puissance = 315
+|TS_3_coût = 185
+
+|passive_skill = ?
+|passive_skill_rang = ?
+|passive_skill_description = Contre les joueurs de type technique : Paramètres +15%
+|passive_skill_jap_only = Oui
+
+|taille = 164
+|poids = 51
+
+|description = Diaz est un génie du football. Il affine ses techniques depuis son plus jeune âge. Bien plus que sa capacité en tant que joueur solo, elle-même déjà impressionnante, son jeu combiné avec Pascual est vraiment exceptionnel. Il ressent un sentiment de rivalité envers un autre "génie" : Tsubasa.
+
+|jap = Oui
+|glo = Oui
+
+}}

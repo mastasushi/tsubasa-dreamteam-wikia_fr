@@ -1,0 +1,91 @@
+{{Fiche joueur new
+|joueur = Salvatore Gentile
+|nom_joueur = Le Pivot du Catenaccio
+|type = technique
+|poste = DF
+|pays = Italie
+|équipe = Piémont Juniors
+|époque = Coupe du monde espoirs
+|acquisition = Raid SR
+
+|id = 000257
+|image = 000257-Gentile-défenseAngleDroit-technique-farm.png
+|rareté = SSR
+
+|endurance = 585
+
+|dribble = 1798
+|dribble_bonus = 300
+|tir = 1668
+|tir_bonus = 278
+|passe = 2046
+|passe_bonus = 341
+
+|tacle = 2695
+|tacle_bonus = 449
+|contre = 1981
+|contre_bonus = 330
+|interception = 2364
+|interception_bonus = 394
+
+|rapidité = 1861
+|rapidité_bonus = 310
+|puissance = 1898
+|puissance_bonus = 316
+|technicité = 2046
+|technicité_bonus = 341
+
+|base_id = 000229
+|base_image = 000229-Gentile-défenseAngleDroit-technique-farm.png
+|base_rareté = SR
+
+|base_endurance = 514
+
+|base_dribble = 943
+|base_dribble_bonus = 157
+|base_tir = 878
+|base_tir_bonus = 146
+|base_passe = 1079
+|base_passe_bonus = 180
+
+|base_tacle = 1417
+|base_tacle_bonus = 236
+|base_contre = 1044
+|base_contre_bonus = 174
+|base_interception = 1244
+|base_interception_bonus = 207
+
+|base_rapidité = 982
+|base_rapidité_bonus = 164
+|base_puissance = 998
+|base_puissance_bonus = 166
+|base_technicité = 1079
+|base_technicité_bonus = 180
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Défense Entêtée
+|team_skill_rang = C
+|team_skill_description = Défenseurs : Tacle +3%
+
+|TS_main = Défense en agle droit
+|TS_main_type = tacle
+|TS_main_rang = C
+|TS_main_puissance = 200
+|TS_main_coût = 220
+
+|taille = 181
+|poids = 71
+
+|description = La "Nouvelle star de l'Italie" a fait ses débuts dans la meilleure ligue du pays lorsqu'il était très jeune. Pour lui, le football est une affaire d'honneur. Il est rival avec Shingo Aoi qui n'est pas de la même nationalité que lui. Lors de leur première confrontation, il bloque de manière spectaculaire toutes les attaques d'Aoi.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+|expiré = Non
+
+}}

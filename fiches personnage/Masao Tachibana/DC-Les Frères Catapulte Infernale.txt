@@ -1,0 +1,107 @@
+{{Fiche joueur new
+|joueur = Masao Tachibana
+|nom_joueur = Les Frères Catapulte Infernale
+|type = technique
+|poste = MO
+|poste_2 = MD
+|pays = Japon
+|équipe = Japon (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Dream Collection
+
+|id = 000408
+|image = 000408-masao-interceptioninfernale-tech-invoc.png
+|rareté = UR
+
+|endurance = 968
+
+|dribble = 5455
+|dribble_bonus = 909
+|tir = 4954
+|tir_bonus = 826
+|passe = 5004
+|passe_bonus = 834
+
+|tacle = 5317
+|tacle_bonus = 886
+|contre = 5426
+|contre_bonus = 904
+|interception = 7127
+|interception_bonus = 1188
+
+|rapidité = 5533
+|rapidité_bonus = 922
+|puissance = 4854
+|puissance_bonus = 809
+|technicité = 6006
+|technicité_bonus = 1001
+
+|base_id = 000407
+|base_image = 000407-masao-interceptioninfernale-tech-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 770
+
+|base_dribble = 3828
+|base_dribble_bonus = 638
+|base_tir = 3481
+|base_tir_bonus = 580
+|base_passe = 3510
+|base_passe_bonus = 585
+
+|base_tacle = 3372
+|base_tacle_bonus = 562
+|base_contre = 3445
+|base_contre_bonus = 574
+|base_interception = 4526
+|base_interception_bonus = 754
+
+|base_rapidité = 3517
+|base_rapidité_bonus = 586
+|base_puissance = 3238
+|base_puissance_bonus = 540
+|base_technicité = 4212
+|base_technicité_bonus = 702
+
+|balle_haute = Très bon
+|balle_basse = Très bon
+
+|team_skill = Défense solide du jeune samouraï
+|team_skill_rang = S
+|team_skill_description = Équipe du Japon (Juniors) : Défense +10%
+
+|TS_main = Interception catapulte infernale
+|TS_main_type = Interception
+|TS_main_rang = S
+|TS_main_puissance = 450
+|TS_main_coût = 365
+|TS_main_combinaison = {{combinaison|Kazuo|Jito}}
+
+|TS_2 = Twin Shoot catapulte infernale
+|TS_2_type = Balle haute
+|TS_2_rang = A
+|TS_2_puissance = 350
+|TS_2_coût = 345
+|TS_2_combinaison = {{combinaison|Kazuo|Masao|Jito}}
+
+|TS_3 = Contre catapulte infernale
+|TS_3_type = Contre
+|TS_3_rang = A
+|TS_3_puissance = 320
+|TS_3_coût = 355
+|TS_3_combinaison = {{combinaison|Kazuo|Masao}}
+
+|passive_skill = Renforcement Interception Automatique
+|passive_skill_rang = S
+|passive_skill_description = Au moment d'une Interception automatique, la Technique Spéciale correspondante a 50% de chance de s'activer (Endurance utilisée : 0)
+|passive_skill_jap_only = Oui 
+
+|taille = 163
+|poids = 53
+
+|description = Masao a été sélectionné pour faire partie de l'équipe du Japon avec son frère jumeau Kazuo. Les techniques de la Catapulte infernale des jumeaux contribuent à la fois à l'attaque et à la défense. Avec Jito, leur "Double catapulte infernale" donne une attaque puissante. Leurs techniques aériennes sont également très performantes en défense.
+
+|jap = Oui
+|glo = Oui
+
+}}

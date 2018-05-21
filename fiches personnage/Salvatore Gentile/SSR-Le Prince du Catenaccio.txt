@@ -1,0 +1,96 @@
+{{Fiche joueur new
+|joueur = Salvatore Gentile
+|nom_joueur = Le Prince du Catenaccio
+|poste = DF
+|pays = Italie
+|équipe = Italie (Espoirs)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+|type = technique
+
+|id = 000725
+|image = 000725-gentile-interceptiondudandy-tech-invoc.png
+|rareté = UR
+
+|endurance = 915
+
+|dribble = 4410
+|dribble_bonus = 735
+|tir = 4369
+|tir_bonus = 728
+|passe = 4609
+|passe_bonus = 768
+
+|tacle = 5923
+|tacle_bonus = 987
+|contre = 5660
+|contre_bonus = 943
+|interception = 6784
+|interception_bonus = 1131
+
+|rapidité = 4649
+|rapidité_bonus = 775
+|puissance = 5255
+|puissance_bonus = 876
+|technicité = 5748
+|technicité_bonus = 958
+
+|base_id = 000724
+|base_image = 000724-gentile-interceptiondudandy-tech-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 763
+
+|base_dribble = 2940
+|base_dribble_bonus = 490
+|base_tir = 2912
+|base_tir_bonus = 485
+|base_passe = 3073
+|base_passe_bonus = 512
+
+|base_tacle = 3949
+|base_tacle_bonus = 658
+|base_contre = 3774
+|base_contre_bonus = 629
+|base_interception = 4523
+|base_interception_bonus = 754
+
+|base_rapidité = 3100
+|base_rapidité_bonus = 517
+|base_puissance = 3504
+|base_puissance_bonus = 584
+|base_technicité = 3833
+|base_technicité_bonus = 639
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = L'Évolution du Foot Européen
+|team_skill_rang = B
+|team_skill_description = Joueurs Européens : Tous Paramètres +7%
+
+|TS_main = Interception du dandy
+|TS_main_type = Interception
+|TS_main_rang = S
+|TS_main_puissance = 415
+|TS_main_coût = 335
+
+|TS_2 = Défense en angle droit
+|TS_2_type = Tacle
+|TS_2_rang = A
+|TS_2_puissance = 315
+|TS_2_coût = 325
+
+|passive_skill = Tueur de Sud-Américains
+|passive_skill_rang = B
+|passive_skill_description = Face aux Joueurs Sud-Américains : Tous Paramètres +10%
+
+|taille = 181
+|poids = 71
+
+|description = Dans la phase finale du Tournoi international juniors, l'Italie est dans le même groupe que l'équipe du Japon. Gentile a étudié avec soin le style de jeu d'Aoi. Il veut une confrontation directe avec lui. Cependant, après sa blessure pendant le match contre l'Uruguay, il n'est plus au meilleur de sa forme. Incapable de résister à la nouvelle technique d'Aoi, son équipe est vaincue.
+
+|jap = Oui
+|glo = Oui
+
+}}

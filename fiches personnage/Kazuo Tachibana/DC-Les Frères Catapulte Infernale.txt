@@ -1,0 +1,107 @@
+{{Fiche joueur new
+|joueur = Kazuo Tachibana
+|nom_joueur = Les Frères Catapulte Infernale
+|type = technique
+|poste = MO
+|poste_2 = MD
+|pays = Japon
+|équipe = Japon (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Dream Collection
+
+|id = 000410
+|image = 000410-kazuo-interceptioninfernale-tech-invoc.png
+|rareté = UR
+
+|endurance = 922
+
+|dribble = 5743
+|dribble_bonus = 957
+|tir = 5215
+|tir_bonus = 869
+|passe = 5266
+|passe_bonus = 878
+
+|tacle = 5068
+|tacle_bonus = 845
+|contre = 5167
+|contre_bonus = 861
+|interception = 6784
+|interception_bonus = 1131
+
+|rapidité = 5266
+|rapidité_bonus = 878
+|puissance = 4849
+|puissance_bonus = 808
+|technicité = 6314
+|technicité_bonus = 1052
+
+|base_id = 000409
+|base_image = 000409-kazuo-interceptioninfernale-tech-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 731
+
+|base_dribble = 4021
+|base_dribble_bonus = 670
+|base_tir = 3653
+|base_tir_bonus = 609
+|base_passe = 3684
+|base_passe_bonus = 614
+
+|base_tacle = 3206
+|base_tacle_bonus = 534
+|base_contre = 3271
+|base_contre_bonus = 545
+|base_interception = 4302
+|base_interception_bonus = 717
+
+|base_rapidité = 3407
+|base_rapidité_bonus = 568
+|base_puissance = 3331
+|base_puissance_bonus = 555
+|base_technicité = 4213
+|base_technicité_bonus = 702
+
+|balle_haute = Très bon
+|balle_basse = Très bon
+
+|team_skill = Attaque féroce du jeune samouraï
+|team_skill_rang = S
+|team_skill_description = Équipe du Japon (Juniors) : Attaque +10%
+
+|TS_main = Interception catapulte infernale
+|TS_main_type = Interception
+|TS_main_rang = S
+|TS_main_puissance = 450
+|TS_main_coût = 365
+|TS_main_combinaison = {{combinaison|Kazuo|Jito}}
+
+|TS_2 = Twin Shoot catapulte infernale
+|TS_2_type = Balle haute
+|TS_2_rang = A
+|TS_2_puissance = 350
+|TS_2_coût = 345
+|TS_2_combinaison = {{combinaison|Kazuo|Masao|Jito}}
+
+|TS_3 = Twin Shoot
+|TS_3_type = Tir
+|TS_3_rang = A
+|TS_3_puissance = 315
+|TS_3_coût = 340
+|TS_3_combinaison = {{combinaison|Kazuo|Masao}}
+
+|passive_skill = Renforcement Interception Automatique
+|passive_skill_rang = S
+|passive_skill_description = Au moment d'une Interception automatique, la Technique Spéciale correspondante a 50% de chance de s'activer (Endurance utilisée : 0)
+|passive_skill_jap_only = Oui 
+
+|taille = 163
+|poids = 53
+
+|description = Kazuo a été sélectionné pour faire partie de l'équipe du Japon avec son frère jumeau Masao. Il joue comme milieu de terrain en défense. Les techniques de la Catapulte infernale des jumeaux contribuent à la fois à l'attaque et à la défense. Avec Jito, leur "Double catapulte infernale" donne une attaque puissante. Leurs techniques aériennes sont également très performantes en défense.
+
+|jap = Oui
+|glo = Oui
+
+}}

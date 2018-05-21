@@ -1,0 +1,92 @@
+{{Fiche joueur new
+|joueur = Salvatore Gentile
+|nom_joueur = Le Meilleur Libéro d'Europe
+|type = force
+|poste = DF
+|pays = Italie
+|équipe = Piémont Juniors
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000393
+|image = 000393-Gentile-tacleFortePuissance-force-invoc.png
+|rareté = SSR
+
+|endurance = 725
+
+|dribble = 2483
+|dribble_bonus = 414
+|tir = 2459
+|tir_bonus = 410
+|passe = 2596
+|passe_bonus = 433
+
+|tacle = 4211
+|tacle_bonus = 702
+|contre = 3188
+|contre_bonus = 531
+|interception = 3181
+|interception_bonus = 530
+
+|rapidité = 3170
+|rapidité_bonus = 528
+|puissance = 2956
+|puissance_bonus = 493
+|technicité = 2674
+|technicité_bonus = 446
+
+|base_id = 000392
+|base_image = 000392-Gentile-tacleFortePuissance-force-invoc.png
+|base_rareté = SR
+
+|base_endurance = 605
+
+|base_dribble = 1307
+|base_dribble_bonus = 218
+|base_tir = 1292
+|base_tir_bonus = 215
+|base_passe = 1364
+|base_passe_bonus = 227
+
+|base_tacle = 2215
+|base_tacle_bonus = 369
+|base_contre = 1678
+|base_contre_bonus = 280
+|base_interception = 1678
+|base_interception_bonus = 280
+
+|base_rapidité = 1670
+|base_rapidité_bonus = 278
+|base_puissance = 1556
+|base_puissance_bonus = 259
+|base_technicité = 1409
+|base_technicité_bonus = 235
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Puissance défensive robuste
+|team_skill_rang = B
+|team_skill_description = Défenseurs et Milieux Défensifs : Défense +3%
+
+|TS_main = Tacle à forte puissance
+|TS_main_type = tacle
+|TS_main_rang = A
+|TS_main_puissance = 320
+|TS_main_coût = 350
+
+|taille = 181
+|poids = 71
+
+|description = La "Nouvelle star de l'Italie" a fait ses débuts dans la meilleure ligue du pays lorsqu'il était très jeune. Pour lui, le football est une affaire d'honneur. Il est rival avec Shingo Aoi qui n'est pas de la même nationalité que lui. Lors de leur première confrontation, il bloque de manière spectaculaire toutes les attaques d'Aoi.
+
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+|expiré = Non
+
+|fini = Oui
+
+}}
