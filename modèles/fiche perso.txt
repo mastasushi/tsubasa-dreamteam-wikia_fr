@@ -1,5 +1,4 @@
 {{Fiche joueur new
-
 |joueur = 
 |nom_joueur = 
 |type = 
@@ -7,17 +6,21 @@
 |poste_2 = 
 |poste_3 = 
 |pays = 
-|equipe = 
-|epoque = 
+|équipe = 
+|époque = 
 |acquisition = 
 
 |id = 
 |image = 
-|rarete = 
+|rareté = 
 
 |endurance = 
 
-|total_attaque = 
+|coup_de_poing = 
+|coup_de_poing_bonus = 
+|arrêt = 
+|arrêt_bonus = 
+
 |dribble = 
 |dribble_bonus = 
 |tir = 
@@ -25,7 +28,6 @@
 |passe = 
 |passe_bonus = 
 
-|total_defense = 
 |tacle = 
 |tacle_bonus = 
 |contre = 
@@ -33,21 +35,24 @@
 |interception = 
 |interception_bonus = 
 
-|total_physique = 
-|vitesse = 
-|vitesse_bonus = 
+|rapidité = 
+|rapidité_bonus = 
 |puissance = 
 |puissance_bonus = 
-|technique = 
-|technique_bonus = 
+|technicité = 
+|technicité_bonus = 
 
 |base_id = 
 |base_image = 
-|base_rarete = 
+|base_rareté = 
 
 |base_endurance = 
 
-|base_total_attaque = 
+|base_coup_de_poing = 
+|base_coup_de_poing_bonus = 
+|base_arrêt = 
+|base_arrêt_bonus = 
+
 |base_dribble = 
 |base_dribble_bonus = 
 |base_tir = 
@@ -55,7 +60,6 @@
 |base_passe = 
 |base_passe_bonus = 
 
-|base_total_defense = 
 |base_tacle = 
 |base_tacle_bonus = 
 |base_contre = 
@@ -63,13 +67,12 @@
 |base_interception = 
 |base_interception_bonus = 
 
-|base_total_physique = 
-|base_vitesse = 
-|base_vitesse_bonus = 
+|base_rapidité = 
+|base_rapidité_bonus = 
 |base_puissance = 
 |base_puissance_bonus = 
-|base_technique = 
-|base_technique_bonus = 
+|base_technicité = 
+|base_technicité_bonus = 
 
 |balle_haute = 
 |balle_basse = 
@@ -78,28 +81,29 @@
 |team_skill_rang = 
 |team_skill_description = 
 
-|spe_main = 
-|spe_main_type = 
-|spe_main_rang = 
-|spe_main_cout = 
-|spe_main_puissance = 
-|spe_main_combinaison = 
+|TS_main = 
+|TS_main_type = 
+|TS_main_rang = 
+|TS_main_puissance = 
+|TS_main_coût = 
+|TS_main_effet = 
+|TS_main_combinaison = 
 
-|spe_1 = 
-|spe_1_type = 
-|spe_1_rang = 
-|spe_1_puissance = 
-|spe_1_cout = 
-|spe_1_effet = 
-|spe_1_combinaison = 
+|TS_2 = 
+|TS_2_type = 
+|TS_2_rang = 
+|TS_2_puissance = 
+|TS_2_coût = 
+|TS_2_effet = 
+|TS_2_combinaison = 
 
-|spe_2 = 
-|spe_2_type = 
-|spe_2_rang = 
-|spe_2_puissance = 
-|spe_2_cout = 
-|spe_2_effet = 
-|spe_2_combinaison = 
+|TS_3 = 
+|TS_3_type = 
+|TS_3_rang = 
+|TS_3_puissance = 
+|TS_3_coût = 
+|TS_3_effet = 
+|TS_3_combinaison = 
 
 |passive_skill = 
 |passive_skill_rang = 
@@ -115,5 +119,10 @@
 |jap = Oui
 |glo = Oui
 
+|date_glo =
+|date_jap =
+|expiré = Non
+
 |fini = Oui
+
 }}

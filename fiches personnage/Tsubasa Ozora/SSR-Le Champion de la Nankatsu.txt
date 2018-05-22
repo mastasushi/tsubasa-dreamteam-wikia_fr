@@ -1,0 +1,98 @@
+{{Fiche joueur new
+|joueur = Tsubasa Ozora
+|nom_joueur = Le Champion de la Nankatsu
+|type = force
+|poste = MO
+|pays = Japon
+|équipe = Collège Nankatsu
+|époque = Collège
+|acquisition = Recrutement
+
+|id = 000031
+|image = 000031-Tsubasa-feuillemorte-force-invoc.png
+|rareté = UR
+
+|endurance = 1047
+
+|dribble = 5034
+|dribble_bonus = 839
+|tir = 6998
+|tir_bonus = 1166
+|passe = 5524
+|passe_bonus = 921
+
+|tacle = 4838
+|tacle_bonus = 806
+|contre = 5674
+|contre_bonus = 946
+|interception = 5392
+|interception_bonus = 899
+
+|rapidité = 4798
+|rapidité_bonus = 800
+|puissance = 5501
+|puissance_bonus = 917
+|technicité = 5570
+|technicité_bonus = 928
+
+
+|base_id = 000007
+|base_image = 000007-Tsubasa-feuillemorte-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 873
+
+|base_dribble = 3355
+|base_dribble_bonus = 559
+|base_tir = 4668
+|base_tir_bonus = 778
+|base_passe = 3682
+|base_passe_bonus = 614
+
+|base_tacle = 3226
+|base_tacle_bonus = 538
+|base_contre = 3784
+|base_contre_bonus = 631
+|base_interception = 3594
+|base_interception_bonus = 599
+
+|base_rapidité = 3198
+|base_rapidité_bonus = 533
+|base_puissance = 3668
+|base_puissance_bonus = 611
+|base_technicité = 3714
+|base_technicité_bonus = 619
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Puissance d'Attaque d'un Enfant du Foot
+|team_skill_rang = S
+|team_skill_description = Collégiens : Attaque +5%
+
+|TS_main = Tir de la feuille morte
+|TS_main_type = tir 
+|TS_main_rang = S
+|TS_main_puissance = 450
+|TS_main_coût = 415
+
+|TS_2 = Retourné acrobatique
+|TS_2_type = balle haute 
+|TS_2_rang = A
+|TS_2_puissance = 290
+|TS_2_coût = 285
+
+|passive_skill = Tueur de Japonais
+|passive_skill_rang = B
+|passive_skill_description = +20% aux paramètres face à des joueurs japonais
+|passive_skill_jap_only = Oui
+
+|taille = 167
+|poids = 55
+|description = Au collège, Tsubasa joue comme milieu offensif, sur la base des conseils figurant dans le cahier de Roberto. Il joue un  rôle actif à partir de sa première année et même deux années de suite le Collège Nankatsu à la victoire lors du Tournoi national. Ensuite, dans sa troisième année, pensant à étudier à l'étranger au Brésil, il remporte le titre pour la troisième année consécutive, malgré diverses blessures.
+
+|jap = Oui
+|glo = Oui
+
+
+}}

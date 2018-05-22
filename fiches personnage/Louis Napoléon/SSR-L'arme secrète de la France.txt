@@ -1,0 +1,104 @@
+{{Fiche joueur new
+|joueur = Louis Napoléon
+|nom_joueur = L'arme secrète de la France
+|type = technique
+|poste = AT
+|pays = France
+|équipe = France (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000470
+|image = 000470-napoleon-attaquedelatoureiffel-tech-invoc.png
+|rareté = UR
+
+|endurance = 973
+
+|dribble = 4972
+|dribble_bonus = 829
+|tir = 5640
+|tir_bonus = 940
+|passe = 6535
+|passe_bonus = 1089
+
+|tacle = 4979
+|tacle_bonus = 830
+|contre = 4727
+|contre_bonus = 788
+|interception = 4628
+|interception_bonus = 771
+
+|rapidité = 4775
+|rapidité_bonus = 796
+|puissance = 5182
+|puissance_bonus = 864
+|technicité = 5784
+|technicité_bonus = 964
+
+|base_id = 000469
+|base_image = 000469-napoleon-attaquedelatoureiffel-tech-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 811
+
+|base_dribble = 3317
+|base_dribble_bonus = 553
+|base_tir = 3757
+|base_tir_bonus = 626
+|base_passe = 4357
+|base_passe_bonus = 726
+
+|base_tacle = 3320
+|base_tacle_bonus = 553
+|base_contre = 3154
+|base_contre_bonus = 526
+|base_interception = 3089
+|base_interception_bonus = 515
+
+|base_rapidité = 3186
+|base_rapidité_bonus = 531
+|base_puissance = 3452
+|base_puissance_bonus = 575
+|base_technicité = 3857
+|base_technicité_bonus = 643
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Attaque Subtile
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Technique : Attaque +5%
+
+|TS_main = Attaque de la Tour Eiffel
+|TS_main_type = Combinaison
+|TS_main_rang = S
+|TS_main_coût = 420
+|TS_main_puissance = 455
+|TS_main_combinaison = {{combinaison|Pierre|Napoléon}}
+
+|TS_2 = Tir boulet de canon
+|TS_2_type = Tir
+|TS_2_rang = S
+|TS_2_puissance = 420
+|TS_2_coût = 390
+|TS_2_effet = {{effet_souffle|1}}
+
+|TS_3 = Interception forcée
+|TS_3_type = Interception
+|TS_3_rang = A
+|TS_3_puissance = 255
+|TS_3_coût = 255
+
+|passive_skill = 
+|passive_skill_rang = 
+|passive_skill_description = 
+
+|taille = 170
+|poids = 63
+
+|description = Napoléon est un joueur talentueux, mais il a mauvais caractère et finit souvent par être expulsé. Sa spécialité est le "Tir boulet de canon", un tir extrêmement puissant. Il rêve de faire un coup du chapeau à chaque match du Tournoi international juniors. Bien que cela ne se voie pas à son caractère, il fais également d'excellentes passes.
+
+|jap = Oui
+|glo = Oui
+
+}}

@@ -1,0 +1,103 @@
+{{Fiche joueur new
+|joueur = Taro Misaki
+|nom_joueur = La persévérance menant à la Victoire
+|type = force
+|poste = MO
+|pays = Japon
+|équipe = Japon (Rising Sun)
+|époque = Rising Sun
+|acquisition = Recrutement
+
+|id = 000335
+|image = 000335_misaki-senkouraijushoot-force-invoc.png
+|rareté = UR
+
+|endurance = 913
+
+|dribble = 5017
+|dribble_bonus = 836
+|tir = 6451
+|tir_bonus = 1075
+|passe = 5674
+|passe_bonus = 946
+
+|tacle = 4528
+|tacle_bonus = 755
+|contre = 4948
+|contre_bonus = 825
+|interception = 5581
+|interception_bonus = 930
+
+|rapidité = 4516
+|rapidité_bonus = 753
+|puissance = 5092
+|puissance_bonus = 849
+|technicité = 5536
+|technicité_bonus = 923
+
+|base_id = 000332
+|base_image = 000332_misaki-senkouraijushoot-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 761
+
+|base_dribble = 3341
+|base_dribble_bonus = 557
+|base_tir = 4300
+|base_tir_bonus = 717
+|base_passe = 3784
+|base_passe_bonus = 631
+
+|base_tacle = 3018
+|base_tacle_bonus = 503
+|base_contre = 3299
+|base_contre_bonus = 550
+|base_interception = 3719
+|base_interception_bonus = 620
+
+|base_rapidité = 3010
+|base_rapidité_bonus = 502
+|base_puissance = 3396
+|base_puissance_bonus = 566
+|base_technicité = 3691
+|base_technicité_bonus = 615
+
+|balle_haute = Normal
+|balle_basse = Très bon
+
+|team_skill = Football japonais
+|team_skill_rang = S
+|team_skill_description = Joueurs Japonais : Attaque +5%
+
+|TS_main = Tir flash du tigre foudroyant
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 525
+|TS_main_coût = 535
+|TS_main_combinaison = {{combinaison|Misaki|Tsubasa|Hyuga}}
+
+|TS_2 = Dribble classe mondiale
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 315
+|TS_2_coût = 210
+
+|TS_3 = Volée sautée
+|TS_3_type = Balle_basse
+|TS_3_rang = A
+|TS_3_puissance = 280
+|TS_3_coût = 280
+
+|passive_skill = Renforcement TS (Tir)
+|passive_skill_rang = B
+|passive_skill_description = Intensité de TS tir +15%
+
+|taille = 172
+|poids = 57
+
+|description = Cet "Artiste du Terrain" a mené l'équipe du Japon des moins de 23 ans jusqu'à la phase finale du tournoi sans l'aide de ses coéquipiers jouant à l'étranger. A l'aide du "Golden Duo" qu'il forme avec Tsubasa, il est bien déterminé à obtenir cette médaille d'or dont il a toujours rêvé.
+
+|jap = Oui
+|glo = Oui
+
+}}

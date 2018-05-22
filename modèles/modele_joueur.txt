@@ -1,0 +1,483 @@
+<includeonly>
+    <div class="joueur type_{{{type}}}">
+        {{Infobox joueur
+          |joueur={{{joueur|Joueur}}}
+          |image =
+            {{#tag:tabber |
+                {{#if: {{{image|}}} |
+                    {{{rareté}}}=[[Fichier:{{{image}}}]]
+                }}
+                {{#if: {{{base_image|}}} |
+                    {{!}}-{{!}}
+                    {{{base_rareté}}}=[[Fichier:{{{base_image}}}]]
+                }}
+                {{#if: {{{UR_image|}}} |
+                    {{!}}-{{!}}
+                    UR=[[Fichier:{{{UR_image}}}]]
+                }}
+                {{#if: {{{SSR_image|}}} |
+                    {{!}}-{{!}}
+                    SSR=[[Fichier:{{{SSR_image}}}]]
+                }}
+                {{#if: {{{SR_image|}}} |
+                    {{!}}-{{!}}
+                    SR=[[Fichier:{{{SR_image}}}]]
+                }}
+                {{#if: {{{R_image|}}} |
+                    {{!}}-{{!}}
+                    R=[[Fichier:{{{R_image}}}]]
+                }}
+                {{#if: {{{N_image|}}} |
+                    {{!}}-{{!}}
+                    N=[[Fichier:{{{N_image}}}]]
+                }}
+            }}
+          |id = {{{id}}}
+          |nom_joueur = {{{nom_joueur}}}
+          |rareté = {{rareté|{{{rareté}}}}}
+          |type = [[Fichier:Type {{{type|force}}}.png|50px|center|link=Catégorie:Type {{{type|force}}}]]
+          |poste = [[Fichier:Poste {{{poste|AT}}}.png|80px|center|link=Catégorie:Poste {{{poste|AT}}}]] {{#if: {{{poste_2|}}} | [[Fichier:Poste {{{poste_2}}}.png|80px|center|link=Catégorie:Poste {{{poste_2}}}]] }} {{#if: {{{poste_3|}}} | [[Fichier:Poste {{{poste_3}}}.png|80px|center|link=Catégorie:Poste {{{poste_3}}}]] }}
+          |joueur = [[:Category:{{{joueur}}}|{{{joueur}}}]]
+          |pays = [[:Category:Pays {{{pays}}}|{{{pays}}}]]
+          |équipe = [[:Category:Equipe {{{équipe}}}|{{{équipe}}}]]
+          |époque = [[:Category:Epoque {{{époque}}}|{{{époque}}}]]
+          |acquisition = {{#if: {{{farmable|}}} | {{coffre}} }}
+            {{#switch:{{{acquisition|}}}
+              |Dream Fest = {{Logo_DreamFest}}
+              |Dream Collection = {{Logo_DreamCollection}}
+              |World Cup = {{Logo_WorldCup}}
+              |{{{acquisition}}}
+            }}
+          |versions = {{#if: {{{jap|}}} | {{Jap}} }} {{#if: {{{glo|}}} | {{Glo}} }}
+          |date_glo = {{{date_glo}}}
+          |date_jap = {{{date_jap}}}
+        }}
+        <div class="section">
+            {{#if: {{{description|}}} |
+                <div class="half"><span class="label">Taille</span> <span>{{{taille}}} cm</span></div>
+                <div class="half"><span class="label">Poids</span> <span>{{{poids}}} kg</span></div>
+                <p class="description">{{{description}}}</p>
+            }}
+            {{#tag:tabber|
+                {{#if: {{{endurance|}}} |     
+                    {{{rareté}}}=
+                    {{stats
+                    |endurance = {{{endurance|}}}
+
+                    |coup_de_poing = {{{coup_de_poing|}}}
+                    |arrêt = {{{arrêt|}}}
+                    |coup_de_poing_bonus = {{{coup_de_poing_bonus|}}}
+                    |arrêt_bonus = {{{arrêt_bonus|}}}
+
+                    |dribble = {{{dribble|}}}
+                    |dribble_bonus = {{{dribble_bonus|}}}
+                    |tir = {{{tir|}}}
+                    |tir_bonus = {{{tir_bonus|}}}
+                    |passe = {{{passe|}}}
+                    |passe_bonus = {{{passe_bonus|}}}
+
+                    |tacle = {{{tacle|}}}
+                    |tacle_bonus = {{{tacle_bonus|}}}
+                    |contre = {{{contre|}}}
+                    |contre_bonus = {{{contre_bonus|}}}
+                    |interception = {{{interception|}}}
+                    |interception_bonus = {{{interception_bonus|}}}
+
+                    |rapidité = {{{rapidité|}}}
+                    |rapidité_bonus = {{{rapidité_bonus|}}}
+                    |puissance = {{{puissance|}}}
+                    |puissance_bonus = {{{puissance_bonus|}}}
+                    |technicité = {{{technicité|}}}
+                    |technicité_bonus = {{{technicité_bonus|}}}
+                    }}
+                }}
+                {{#if: {{{base_endurance|}}} |            
+                    {{!}}-{{!}}
+                    {{{base_rareté|-}}}=
+                    {{stats
+                      |endurance = {{{base_endurance|}}}
+
+                      |coup_de_poing = {{{base_coup_de_poing|}}}
+                      |arrêt = {{{base_arrêt|}}}
+                      |coup_de_poing_bonus = {{{base_coup_de_poing_bonus|}}}
+                      |arrêt_bonus = {{{base_arrêt_bonus|}}}
+
+                      |dribble = {{{base_dribble|}}}
+                      |dribble_bonus = {{{base_dribble_bonus|}}}
+                      |tir = {{{base_tir|}}}
+                      |tir_bonus = {{{base_tir_bonus|}}}
+                      |passe = {{{base_passe|}}}
+                      |passe_bonus = {{{base_passe_bonus|}}}
+
+                      |tacle = {{{base_tacle|}}}
+                      |tacle_bonus = {{{base_tacle_bonus|}}}
+                      |contre = {{{base_contre|}}}
+                      |contre_bonus = {{{base_contre_bonus|}}}
+                      |interception = {{{base_interception|}}}
+                      |interception_bonus = {{{base_interception_bonus|}}}
+
+                      |rapidité = {{{base_rapidité|}}}
+                      |rapidité_bonus = {{{base_rapidité_bonus|}}}
+                      |puissance = {{{base_puissance|}}}
+                      |puissance_bonus = {{{base_puissance_bonus|}}}
+                      |technicité = {{{base_technicité|}}}
+                      |technicité_bonus = {{{base_technicité_bonus|}}}
+                    }}
+                }}
+                {{#if: {{{UR_endurance|}}} |
+                    {{!}}-{{!}}
+                    UR=
+                    {{stats
+                      |endurance = {{{UR_endurance|}}}
+
+                      |coup_de_poing = {{{UR_coup_de_poing|}}}
+                      |arrêt = {{{UR_arrêt|}}}
+                      |coup_de_poing_bonus = {{{UR_coup_de_poing_bonus|}}}
+                      |arrêt_bonus = {{{UR_arrêt_bonus|}}}
+
+                      |dribble = {{{UR_dribble|}}}
+                      |dribble_bonus = {{{UR_dribble_bonus|}}}
+                      |tir = {{{UR_tir|}}}
+                      |tir_bonus = {{{UR_tir_bonus|}}}
+                      |passe = {{{UR_passe|}}}
+                      |passe_bonus = {{{UR_passe_bonus|}}}
+
+                      |tacle = {{{UR_tacle|}}}
+                      |tacle_bonus = {{{UR_tacle_bonus|}}}
+                      |contre = {{{UR_contre|}}}
+                      |contre_bonus = {{{UR_contre_bonus|}}}
+                      |interception = {{{UR_interception|}}}
+                      |interception_bonus = {{{UR_interception_bonus|}}}
+
+                      |rapidité = {{{UR_rapidité|}}}
+                      |rapidité_bonus = {{{UR_rapidité_bonus|}}}
+                      |puissance = {{{UR_puissance|}}}
+                      |puissance_bonus = {{{UR_puissance_bonus|}}}
+                      |technicité = {{{UR_technicité|}}}
+                      |technicité_bonus = {{{UR_technicité_bonus|}}}
+                    }}
+                }}
+                {{#if: {{{SSR_endurance|}}} |
+                    {{!}}-{{!}}
+                    SSR=
+                    {{stats
+                      |endurance = {{{SSR_endurance|}}}
+
+                      |coup_de_poing = {{{SSR_coup_de_poing|}}}
+                      |arrêt = {{{SSR_arrêt|}}}
+                      |coup_de_poing_bonus = {{{SSR_coup_de_poing_bonus|}}}
+                      |arrêt_bonus = {{{SSR_arrêt_bonus|}}}
+
+                      |dribble = {{{SSR_dribble|}}}
+                      |dribble_bonus = {{{SSR_dribble_bonus|}}}
+                      |tir = {{{SSR_tir|}}}
+                      |tir_bonus = {{{SSR_tir_bonus|}}}
+                      |passe = {{{SSR_passe|}}}
+                      |passe_bonus = {{{SSR_passe_bonus|}}}
+
+                      |tacle = {{{SSR_tacle|}}}
+                      |tacle_bonus = {{{SSR_tacle_bonus|}}}
+                      |contre = {{{SSR_contre|}}}
+                      |contre_bonus = {{{SSR_contre_bonus|}}}
+                      |interception = {{{SSR_interception|}}}
+                      |interception_bonus = {{{SSR_interception_bonus|}}}
+
+                      |rapidité = {{{SSR_rapidité|}}}
+                      |rapidité_bonus = {{{SSR_rapidité_bonus|}}}
+                      |puissance = {{{SSR_puissance|}}}
+                      |puissance_bonus = {{{SSR_puissance_bonus|}}}
+                      |technicité = {{{SSR_technicité|}}}
+                      |technicité_bonus = {{{SSR_technicité_bonus|}}}
+                    }}
+                }}
+                {{#if: {{{SR_endurance|}}} |
+                    {{!}}-{{!}}
+                    SR=
+                    {{stats
+                      |endurance = {{{SR_endurance|}}}
+
+                      |coup_de_poing = {{{SR_coup_de_poing|}}}
+                      |arrêt = {{{SR_arrêt|}}}
+                      |coup_de_poing_bonus = {{{SR_coup_de_poing_bonus|}}}
+                      |arrêt_bonus = {{{SR_arrêt_bonus|}}}
+
+                      |dribble = {{{SR_dribble|}}}
+                      |dribble_bonus = {{{SR_dribble_bonus|}}}
+                      |tir = {{{SR_tir|}}}
+                      |tir_bonus = {{{SR_tir_bonus|}}}
+                      |passe = {{{SR_passe|}}}
+                      |passe_bonus = {{{SR_passe_bonus|}}}
+
+                      |tacle = {{{SR_tacle|}}}
+                      |tacle_bonus = {{{SR_tacle_bonus|}}}
+                      |contre = {{{SR_contre|}}}
+                      |contre_bonus = {{{SR_contre_bonus|}}}
+                      |interception = {{{SR_interception|}}}
+                      |interception_bonus = {{{SR_interception_bonus|}}}
+
+                      |rapidité = {{{SR_rapidité|}}}
+                      |rapidité_bonus = {{{SR_rapidité_bonus|}}}
+                      |puissance = {{{SR_puissance|}}}
+                      |puissance_bonus = {{{SR_puissance_bonus|}}}
+                      |technicité = {{{SR_technicité|}}}
+                      |technicité_bonus = {{{SR_technicité_bonus|}}}
+                    }}
+                }}
+                {{#if: {{{R_endurance|}}} |            
+                    {{!}}-{{!}}
+                    R=
+                    {{stats
+                      |endurance = {{{R_endurance|}}}
+
+                      |coup_de_poing = {{{R_coup_de_poing|}}}
+                      |arrêt = {{{R_arrêt|}}}
+                      |coup_de_poing_bonus = {{{R_coup_de_poing_bonus|}}}
+                      |arrêt_bonus = {{{R_arrêt_bonus|}}}
+
+                      |dribble = {{{R_dribble|}}}
+                      |dribble_bonus = {{{R_dribble_bonus|}}}
+                      |tir = {{{R_tir|}}}
+                      |tir_bonus = {{{R_tir_bonus|}}}
+                      |passe = {{{R_passe|}}}
+                      |passe_bonus = {{{R_passe_bonus|}}}
+
+                      |tacle = {{{R_tacle|}}}
+                      |tacle_bonus = {{{R_tacle_bonus|}}}
+                      |contre = {{{R_contre|}}}
+                      |contre_bonus = {{{R_contre_bonus|}}}
+                      |interception = {{{R_interception|}}}
+                      |interception_bonus = {{{R_interception_bonus|}}}
+
+                      |rapidité = {{{R_rapidité|}}}
+                      |rapidité_bonus = {{{R_rapidité_bonus|}}}
+                      |puissance = {{{R_puissance|}}}
+                      |puissance_bonus = {{{R_puissance_bonus|}}}
+                      |technicité = {{{R_technicité|}}}
+                      |technicité_bonus = {{{R_technicité_bonus|}}}
+                    }}
+                }}
+                {{#if: {{{N_endurance|}}} |            
+                    {{!}}-{{!}}
+                    N=
+                    {{stats
+                      |endurance = {{{N_endurance|}}}
+
+                      |coup_de_poing = {{{N_coup_de_poing|}}}
+                      |arrêt = {{{N_arrêt|}}}
+                      |coup_de_poing_bonus = {{{N_coup_de_poing_bonus|}}}
+                      |arrêt_bonus = {{{N_arrêt_bonus|}}}
+
+                      |dribble = {{{N_dribble|}}}
+                      |dribble_bonus = {{{N_dribble_bonus|}}}
+                      |tir = {{{N_tir|}}}
+                      |tir_bonus = {{{N_tir_bonus|}}}
+                      |passe = {{{N_passe|}}}
+                      |passe_bonus = {{{N_passe_bonus|}}}
+
+                      |tacle = {{{N_tacle|}}}
+                      |tacle_bonus = {{{N_tacle_bonus|}}}
+                      |contre = {{{N_contre|}}}
+                      |contre_bonus = {{{N_contre_bonus|}}}
+                      |interception = {{{N_interception|}}}
+                      |interception_bonus = {{{N_interception_bonus|}}}
+
+                      |rapidité = {{{N_rapidité|}}}
+                      |rapidité_bonus = {{{N_rapidité_bonus|}}}
+                      |puissance = {{{N_puissance|}}}
+                      |puissance_bonus = {{{N_puissance_bonus|}}}
+                      |technicité = {{{N_technicité|}}}
+                      |technicité_bonus = {{{N_technicité_bonus|}}}
+                    }}
+                }}
+                  
+            }}
+            <table class="balles">
+                <tr>
+                    <th>Balle haute</th>
+                    <th>Balle basse</th>
+                </tr>
+                <tr>
+                    <td>{{{balle_haute|Nul}}}</td>
+                    <td>{{{balle_basse|Nul}}}</td>
+                </tr>
+            </table>
+        </div>
+
+        {{#if: {{{team_skill|}}} |
+            <table class="team_skill">
+            <tr><th colspan="3">Aptitude d'équipe</th></tr>
+            <tr>
+            <td>{{{team_skill}}}</td>
+            <td>{{{team_skill_rang}}}</td>
+            <td>{{{team_skill_description}}}</td>
+            </tr>
+            </table>
+        }}
+        {{#if: {{{TS_main|}}} |
+            <table class="spe_new">
+                <tr>
+                    <th></th>
+                    <th>Technique spéciale</th>
+                    <th>Puissance</th>
+                    <th>Coût</th>
+                    <th>Effet</th>
+                    <th>Combinaison</th>
+                </tr>
+                {{#if: {{{TS_main|}}} |
+                    {{TS_new
+                      |nom = {{{TS_main}}}
+                      |type = {{{TS_main_type}}}
+                      |rang = {{{TS_main_rang}}}
+                      |puissance = {{{TS_main_puissance}}}
+                      |coût = {{{TS_main_coût}}}
+                      |description = {{{TS_main_description}}}
+                      |effet = {{{TS_main_effet|-}}}
+                      |combinaison = {{{TS_main_combinaison|-}}}
+                      |main = Oui
+                    }}
+                }}
+                {{#if: {{{TS_2|}}} |
+                    {{TS_new
+                      |nom = {{{TS_2}}}
+                      |type = {{{TS_2_type}}}
+                      |rang = {{{TS_2_rang}}}
+                      |puissance = {{{TS_2_puissance}}}
+                      |coût = {{{TS_2_coût}}}
+                      |effet = {{{TS_2_effet|-}}}
+                      |combinaison = {{{TS_2_combinaison|-}}}
+                    }}
+                }}
+                {{#if: {{{TS_3|}}} |
+                    {{TS_new
+                      |nom = {{{TS_3}}}
+                      |type = {{{TS_3_type}}}
+                      |rang = {{{TS_3_rang}}}
+                      |puissance = {{{TS_3_puissance}}}
+                      |coût = {{{TS_3_coût}}}
+                      |description = {{{TS_3_description}}}
+                      |effet = {{{TS_3_effet|-}}}
+                      |combinaison = {{{TS_3_combinaison|-}}}
+                    }}
+                }}
+            </table>
+        }}
+        {{#if: {{{passive_skill|}}} |
+            <table class="passive_skill">
+                <tr><th colspan="4">Aptitude personnelle</th></tr>
+                <tr>
+                    <td>{{#if: {{{passive_skill_jap_only|}}} | {{Jap}} }}</td>
+                    <td>{{{passive_skill}}}</td>
+                    <td>{{{passive_skill_rang}}}</td>
+                    <td>{{{passive_skill_description}}}</td>
+                </tr>
+            </table>
+        }}
+
+        {{#tag:tabview |
+            Top - {{{joueur}}}{{!}}Autres versions
+
+            TS - {{{joueur}}}{{!}}Techniques héritables
+        }}
+
+    </div>
+
+    [[Catégorie:{{{joueur|}}}]]
+    [[Catégorie:Pays {{{pays|}}}]]
+    [[Catégorie:Equipe {{{équipe|}}}]]
+    [[Catégorie:Epoque {{{époque|}}}]]
+    [[Catégorie:Poste {{{poste|}}}]]
+    {{#if: {{{poste_2|}}} | [[Catégorie:Poste {{{poste_2}}}]] }}
+    {{#if: {{{poste_3|}}} | [[Catégorie:Poste {{{poste_3}}}]] }}
+    [[Catégorie:Type {{{type|}}}]]
+    [[Catégorie:Rareté {{{rareté|}}}]]
+    {{#if: {{{base_rareté|}}} | [[Catégorie:Rareté {{{base_rareté}}}]] }}
+    [[Catégorie:Acquisition {{{acquisition|}}}]]
+    {{#if: {{{farmable|}}} | [[Catégorie:Farmable]]}}
+    {{#ifeq: {{{jap}}} | Oui | [[Catégorie:Version Japonaise]]}}
+    {{#ifeq: {{{glo}}} | Oui | [[Catégorie:Version Globale]]}}
+    [[Catégorie:Personnage]]
+
+</includeonly>
+
+<noinclude>
+    <div class="joueur type_force">
+        {{Infobox joueur
+          |joueur=Joueur
+          |image = {{#tag:tabber|UR=[[Fichier:SilhouetteNoire.png]] {{!}}-{{!}} SSR=[[Fichier:SilhouetteNoire.png]] }}
+          |nom_joueur = Joueur fantôme
+          |rareté = {{rareté|UR}}
+          |type = {{type|force}}
+          |poste = {{poste|AT}} {{poste|DF}}
+          |pays = [[:Category:France|France]]
+          |équipe = Toulouse Football Club
+          |époque = 2018
+          |acquisition = {{coffre}} {{Logo_DreamFest}}
+          |versions = {{Jap}} {{Glo}} 
+        }}
+        <div class="section">
+            <div class="half"><span class="label">Taille</span> <span>167 cm</span></div>
+            <div class="half"><span class="label">Poids</span> <span>65 kg</span></div>
+            <p class="description">Description du joueur</p>
+
+            {{#tag:tabber|
+            UR={{stats}}
+            {{!}}-{{!}}
+            SSR={{stats}}
+            }}
+
+        <table class="balles">
+            <tr>
+                <th>Balle haute</th>
+                <th>Balle basse</th>
+            </tr>
+            <tr>
+                <td>Très bon</td>
+                <td>Très bon</td>
+            </tr>
+        </table>
+
+        </div>
+
+        <table class="team_skill">
+            <tr><th colspan="3">Aptitude d'équipe</th></tr>
+            <tr>
+                <td>Team skill</td>
+                <td>S</td>
+                <td>Paramètres +20% à tous les joueurs</td>
+            </tr>
+        </table>
+
+
+        <table class="spe_new">
+            <tr>
+                <th></th>
+                <th>Technique spéciale</th>
+                <th>Puissance</th>
+                <th>Coût</th>
+                <th>Effet</th>
+                <th>Combinaison</th>
+            </tr>
+            {{TS_new
+              |nom = Tir du dragon
+              |type = tir
+              |rang = S
+              |puissance = 450
+              |coût = 450
+              |description = N/A
+              |effet = {{effet_souffle|4}}
+              |combinaison = {{combinaison|Ce joueur|Un autre joueur}}
+              |main = Oui
+            }}
+        </table>
+
+        <table class="passive_skill">
+            <tr><th colspan="4">Aptitude personnelle</th></tr>
+            <tr>
+                <td>{{Jap}}</td>
+                <td>Passif</td>
+                <td>A</td>
+                <td>Booste les paramètres de 10%</td>
+            </tr>
+        </table>
+    </div>
+</noinclude>

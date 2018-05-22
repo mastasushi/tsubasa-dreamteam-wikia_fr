@@ -1,0 +1,104 @@
+{{Fiche joueur new
+|joueur = Tsubasa Ozora
+|nom_joueur = Gamin du Foot à la Poursuite d'un Rêve
+|type = force
+|poste = MO
+|pays = Japon
+|équipe = Équipe du Japon (2017)
+|époque = World Cup
+|acquisition = World Cup
+
+|id = 000607
+|image = 000607-tsubasa-goldentwinshoot-force-invoc.png
+|rareté = UR
+
+|endurance = 1100
+
+|dribble = 5959
+|dribble_bonus = 993
+|tir = 6640
+|tir_bonus = 1107
+|passe = 6133
+|passe_bonus = 1022
+
+|tacle = 6107
+|tacle_bonus = 1018
+|contre = 5437
+|contre_bonus = 906
+|interception = 5723
+|interception_bonus = 954
+
+|rapidité = 6115
+|rapidité_bonus = 1019
+|puissance = 6521
+|puissance_bonus = 1087
+|technicité = 6008
+|technicité_bonus = 1001
+
+|base_id = 000606
+|base_image = 000606-tsubasa-goldentwinshoot-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 917
+
+|base_dribble = 3972
+|base_dribble_bonus = 662
+|base_tir = 4427
+|base_tir_bonus = 738
+|base_passe = 4088
+|base_passe_bonus = 681
+
+|base_tacle = 4070
+|base_tacle_bonus = 678
+|base_contre = 3625
+|base_contre_bonus = 604
+|base_interception = 3816
+|base_interception_bonus = 636
+
+|base_rapidité = 4076
+|base_rapidité_bonus = 679
+|base_puissance = 4348
+|base_puissance_bonus = 725
+|base_technicité = 4006
+|base_technicité_bonus = 668
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = L'Éveil des Guerriers en Bleu [Force]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Force : Tous Paramètres +10%
+
+|TS_main = Golden Twin Shoot
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_coût = 455
+|TS_main_puissance = 490
+|TS_main_combinaison = {{combinaison|Tsubasa|Misaki}}
+|TS_main_effet = {{effet_souffle|1}}
+
+|TS_2 = Dribble ailé
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 365
+|TS_2_coût = 245
+
+|TS_3 = Rideau aurore boréale
+|TS_3_type = Tacle
+|TS_3_rang = A
+|TS_3_puissance = 325
+|TS_3_coût = 340
+
+|passive_skill = Tueur de Joueurs Non-Japonais
+|passive_skill_rang = B
+|passive_skill_description = Face aux joueurs Non-Japonais : Paramètres +10%
+
+|taille = 167
+|poids = 55
+
+|description = "Éternel Enfant du Foot" qui ne cesse de progresser, il vise le sommet mondial. N'abandonnant jamais la victoire quelle que soit la situation, il a mené son équipe vers la victoire dans de nombreux matchs. Il arrive à donner du courage à ses camarades et possède naturellement un tempérament de capitaine.
+
+|jap = Oui
+|glo = Oui
+
+}}

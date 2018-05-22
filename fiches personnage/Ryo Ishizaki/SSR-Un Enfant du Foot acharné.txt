@@ -1,0 +1,96 @@
+{{Fiche joueur new
+|joueur = Ryo Ishizaki
+|nom_joueur = Lycée
+|type = vitesse
+|poste = DF
+|pays = Japon
+|équipe = Lycée Nankatsu
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000751
+|image = 000751-ishizaki-defensetripes-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 927
+
+|dribble = 4236
+|dribble_bonus = 706
+|tir = 3899
+|tir_bonus = 650
+|passe = 4103
+|passe_bonus = 684
+
+|tacle = 6653
+|tacle_bonus = 1109
+|contre = 5792
+|contre_bonus = 965
+|interception = 3890
+|interception_bonus = 648
+
+|rapidité = 5485
+|rapidité_bonus = 914
+|puissance = 4706
+|puissance_bonus = 784
+|technicité = 3774
+|technicité_bonus = 629
+
+|base_id = 000750
+|base_image = 000750-ishizaki-defensetripes-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 773
+
+|base_dribble = 2822
+|base_dribble_bonus = 470
+|base_tir = 2600
+|base_tir_bonus = 433
+|base_passe = 2738
+|base_passe_bonus = 456
+
+|base_tacle = 4433
+|base_tacle_bonus = 739
+|base_contre = 3864
+|base_contre_bonus = 644
+|base_interception = 2591
+|base_interception_bonus = 432
+
+|base_rapidité = 3655
+|base_rapidité_bonus = 609
+|base_puissance = 3136
+|base_puissance_bonus = 523
+|base_technicité = 2512
+|base_technicité_bonus = 419
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le réveil des guerriers [Vitesse]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Vitesse : Tous paramètres +5%
+
+|TS_main = Défense avec les tripes
+|TS_main_type = Tacle
+|TS_main_rang = S
+|TS_main_puissance = 405
+|TS_main_coût = 390
+
+|TS_2 = Interception forcée
+|TS_2_type = Interception
+|TS_2_rang = A
+|TS_2_puissance = 255
+|TS_2_coût = 255
+
+|passive_skill = Tueur d'Endurance
+|passive_skill_rang = A
+|passive_skill_description = Endurance Techniques Adverses Utilisée en Duel : +15%
+
+|taille = 174
+|poids = 66
+
+|description = Ishizaki entre au lycée Nankatsu suite à un désistement. Avec Misaki, il devient l'un des joueurs principaux de l'équipe de l'école, et ses coéquipiers lui font tellement confiance qu'ils le choisissent comme capitaine. Son équipe termine deuxième en finale du Tournoi national des lycées trois ans de suite mais l'emporte au Festival sportif d'été des lycées.
+
+|jap = Oui
+|glo = Oui
+
+}}

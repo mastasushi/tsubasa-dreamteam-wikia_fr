@@ -1,0 +1,103 @@
+{{Fiche joueur new
+|joueur = Tsubasa Ozora
+|nom_joueur = Milieu de Terrain Doré Fierté du Japon
+|type = vitesse
+|poste = MO
+|pays = Japon
+|équipe = Équipe du Japon (2017)
+|époque = World Cup
+|acquisition = World Cup
+
+|id = 000555
+|image = 000555-tsubasa-flyingdriveshoot-vitesse-wc.png
+|rareté = UR
+
+|endurance = 1050
+
+|dribble = 5501
+|dribble_bonus = 917
+|tir = 6876
+|tir_bonus = 1146
+|passe = 5395
+|passe_bonus = 899
+
+|tacle = 5560
+|tacle_bonus = 927
+|contre = 4309
+|contre_bonus = 718
+|interception = 5234
+|interception_bonus = 872
+
+|rapidité = 5423
+|rapidité_bonus = 904
+|puissance = 5794
+|puissance_bonus = 966
+|technicité = 5339
+|technicité_bonus = 890
+
+|base_id = 000554
+|base_image = 000554-tsubasa-flyingdriveshoot-vitesse-wc.png
+|base_rareté = SSR
+
+|base_endurance = 876
+
+|base_dribble = 3667
+|base_dribble_bonus = 611
+|base_tir = 4584
+|base_tir_bonus = 764
+|base_passe = 3596
+|base_passe_bonus = 599
+
+|base_tacle = 3707
+|base_tacle_bonus = 618
+|base_contre = 2873
+|base_contre_bonus = 479
+|base_interception = 3490
+|base_interception_bonus = 582
+
+|base_rapidité = 3616
+|base_rapidité_bonus = 603
+|base_puissance = 3862
+|base_puissance_bonus = 644
+|base_technicité = 3559
+|base_technicité_bonus = 593
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = L'Éveil des Guerriers en Bleu [Vitesse]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Vitesse : Tous paramètres +10%
+
+|TS_main = Tir de la feuille morte volante
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 455
+|TS_main_coût = 420
+|TS_main_effet = {{effet_angle}}
+
+|TS_2 = Rideau aurore boréale
+|TS_2_type = Tacle
+|TS_2_rang = A
+|TS_2_puissance = 325
+|TS_2_coût = 340
+
+|TS_3 = Passe feuille morte
+|TS_3_type = Passe
+|TS_3_rang = A
+|TS_3_puissance = 315
+|TS_3_coût = 185
+
+|passive_skill = Tueur de Type Force
+|passive_skill_rang = A
+|passive_skill_description = Paramètres +10% face à type Force
+
+|taille = 167
+|poids = 55
+
+|description = "Éternel Enfant du Foot" qui ne cesse de progresser, il vise le sommet mondial. N'abandonnant jamais la victoire quelle que soit la situation, il a mené son équipe vers la victoire dans de nombreux matchs. Il arrive à donner du courage à ses camarades et possède naturellement un tempérament de capitaine.
+
+|glo = Oui
+|jap = Oui
+
+}}

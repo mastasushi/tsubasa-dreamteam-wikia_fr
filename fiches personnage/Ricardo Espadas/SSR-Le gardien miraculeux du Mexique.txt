@@ -1,0 +1,79 @@
+{{Fiche joueur new
+|joueur = Ricardo Espadas
+|nom_joueur = Le gardien miraculeux du Mexique
+|type = vitesse
+|poste = GB
+|pays = Méxique
+|équipe = Méxique (Rising Sun)
+|époque = Rising Sun
+|acquisition = Recrutement
+
+|id = 000357
+|image = 000357-espadas-arretmiraculeux-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 1008
+
+|coup_de_poing = 4700
+|coup_de_poing_bonus = 783
+|arrêt = 5772
+|arrêt_bonus = 962
+
+|rapidité = 5587
+|rapidité_bonus = 931
+|puissance = 5172
+|puissance_bonus = 862
+|technicité = 5386
+|technicité_bonus = 898
+
+
+|base_id = 000334
+|base_image = 000334 espadas-arretmiraculeux-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 841
+
+|base_coup_de_poing = 3133
+|base_coup_de_poing_bonus = 522
+|base_arrêt = 3847
+|base_arrêt_bonus = 641
+
+|base_rapidité = 3724
+|base_rapidité_bonus = 621
+|base_puissance = 3446
+|base_puissance_bonus = 574
+|base_technicité = 3589
+|base_technicité_bonus = 598
+
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Puissance Offensive de Classe Mondiale
+|team_skill_rang = S
+|team_skill_description = Joueurs Non-Japonais : Attaque +5%
+
+|TS_main = Arrêt miraculeux
+|TS_main_type = Arrêt
+|TS_main_rang = S
+|TS_main_puissance = 455
+|TS_main_coût = 350
+
+|TS_2 = Poing du Condor
+|TS_2_type = Coup_de_poing
+|TS_2_rang = B
+|TS_2_puissance = 240
+|TS_2_coût = 140
+
+|passive_skill = 
+|passive_skill_rang = 
+|passive_skill_description = 
+
+|taille = 165
+|poids = 55
+
+|description = Afin de ramener à la maison la médaille d'or aux jeux olympiques, avec Garcia, Lopez et Arbez, le "Gardien Miraculeux" a endurci son corps avec des techniques spéciales de Lucha pour améliorer sa vitesse et son agilité. Son objectif est d'être le meilleur gardien du tournoi.
+
+|jap = Oui
+|glo = Oui
+}}

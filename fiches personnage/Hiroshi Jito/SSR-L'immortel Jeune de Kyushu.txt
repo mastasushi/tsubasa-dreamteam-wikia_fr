@@ -1,0 +1,95 @@
+{{Fiche joueur new
+|joueur = Hiroshi Jito
+|nom_joueur = L'immortel Jeune de Kyushu
+|type = technique
+|poste = DF
+|pays = Japon
+|équipe = Lycée Kunimi
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000755
+|image = 000755-jito-interceptionforcee-tech-invoc.png
+|rareté = UR
+
+|endurance = 838
+
+|dribble = 4140
+|dribble_bonus = 690
+|tir = 4140
+|tir_bonus = 690
+|passe = 4055
+|passe_bonus = 676
+
+|tacle = 5215
+|tacle_bonus = 869
+|contre = 5173
+|contre_bonus = 862
+|interception = 5500
+|interception_bonus = 917
+
+|rapidité = 3998
+|rapidité_bonus = 666
+|puissance = 5153
+|puissance_bonus = 859
+|technicité = 4897
+|technicité_bonus = 816
+
+|base_id = 000754
+|base_image = 000754-jito-interceptionforcee-tech-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 699
+
+|base_dribble = 2760
+|base_dribble_bonus = 460
+|base_tir = 2758
+|base_tir_bonus = 460
+|base_passe = 2702
+|base_passe_bonus = 450
+
+|base_tacle = 3482
+|base_tacle_bonus = 580
+|base_contre = 3451
+|base_contre_bonus = 575
+|base_interception = 3671
+|base_interception_bonus = 612
+
+|base_rapidité = 2669
+|base_rapidité_bonus = 445
+|base_puissance = 3437
+|base_puissance_bonus = 573
+|base_technicité = 3263
+|base_technicité_bonus = 544
+
+|balle_haute = Bon
+|balle_basse = Normal
+
+|team_skill = Le réveil des guerriers [Technique]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Technique : Tous paramètres +5%
+
+|TS_main = Interception forcée
+|TS_main_type = Interception
+|TS_main_rang = S
+|TS_main_puissance = 355
+|TS_main_coût = 305
+
+|TS_2 = Passe puissante
+|TS_2_type = Passe
+|TS_2_rang = A
+|TS_2_puissance = 250
+|TS_2_coût = 150
+
+|passive_skill = Renforcement interception Automatique
+|passive_skill_rang = S
+|passive_skill_description = Au moment d'une interception automatique, la Technique Spéciale est activée sous une probabilité de 50%. (Endurance utilisée : 0)
+
+|taille = 184
+|poids = 83
+
+|description = En tant que lycéen, ce "Défenseur en puissance" doit toujours être à la hauteur de son surnom. Lors de son dernier Tournoi national des lycées, il envoie son équipe en quarts de finales, avec son partenaire Sano. Il est sélectionné pour représenter le Japon au Tournoi international juniors.
+
+|jap = Oui
+|glo = Oui
+}}
