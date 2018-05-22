@@ -1,0 +1,105 @@
+{{Fiche joueur new
+|joueur = Vulcan
+|nom_joueur = Vulcain le Djinn
+|type = force
+|poste = AT
+|poste_2 = DF
+|pays = Arabie Saoudite
+|équipe = Arabie Saoudite (Qualif. Zone Asie)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000468
+|image = 000468-vulcan-canonvulcan-force-invoc.png
+|rareté = UR
+
+|endurance = 863
+
+|dribble = 4769
+|dribble_bonus = 795
+|tir = 6724
+|tir_bonus = 1121
+|passe = 4920
+|passe_bonus = 820
+
+|tacle = 5118
+|tacle_bonus = 853
+|contre = 5304
+|contre_bonus = 884
+|interception = 4723
+|interception_bonus = 787
+
+|rapidité = 4572
+|rapidité_bonus = 762
+|puissance = 6806
+|puissance_bonus = 1134
+|technicité = 4825
+|technicité_bonus = 804
+
+|base_id = 000467
+|base_image = 000467-vulcan-canonvulcan-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 720
+
+|base_dribble = 3176
+|base_dribble_bonus = 529
+|base_tir = 4489
+|base_tir_bonus = 748
+|base_passe = 3280
+|base_passe_bonus = 547
+
+|base_tacle = 3418
+|base_tacle_bonus = 570
+|base_contre = 3539
+|base_contre_bonus = 590
+|base_interception = 3148
+|base_interception_bonus = 525
+
+|base_rapidité = 3047
+|base_rapidité_bonus = 508
+|base_puissance = 4531
+|base_puissance_bonus = 755
+|base_technicité = 3215
+|base_technicité_bonus = 536
+
+|balle_haute = Très bon
+|balle_basse = Normal
+
+|team_skill = Capacités Physiques Surhumaines
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Force : Physique +5%
+
+|TS_main = Canon Vulcan
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_coût = 405
+|TS_main_puissance = 440
+|TS_main_effet = {{effet_souffle|2}}
+
+|TS_2 = Reprise de la tête du djinn
+|TS_2_type = Balle basse
+|TS_2_rang = A
+|TS_2_puissance = 325
+|TS_2_coût = 320
+
+|TS_3 = Mets-la de la tête !
+|TS_3_type = Balle haute
+|TS_3_rang = A
+|TS_3_puissance = 325
+|TS_3_coût = 320
+
+|passive_skill = Tueur d'endurance
+|passive_skill_rang = ?
+|passive_skill_description = Les adversaires consomment 15% d'endurance supplémentaire lors d'une confrontation
+|passive_skill_jap_only = Oui
+
+|taille = 210
+|poids = 120
+
+|description = L'atout non négligeable de l'Arabie Saoudite (Juniors). Il mesure 2m10 et pèse 120kg. Ce joueur géant se fait appeler "Vulcain le Djinn". Son tir, le "boulet de canon de Vulcain" est si puissant qu'il envoie Wakabayashi dans les airs lorsqu'il l'arrête.
+
+|jap = Oui
+|glo = Oui
+
+}}

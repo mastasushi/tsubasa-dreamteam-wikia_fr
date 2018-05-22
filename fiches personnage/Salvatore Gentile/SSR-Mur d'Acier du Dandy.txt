@@ -1,0 +1,96 @@
+{{Fiche joueur new
+|joueur = Salvatore Gentile
+|nom_joueur = Mur d'Acier du Dandy
+|type = vitesse
+|poste = DF
+|pays = Italie
+|équipe = Piemont juniors
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000043
+|image = 000043-gentile-defenseangledroit-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 873
+
+|dribble = 4372
+|dribble_bonus = 729
+|tir = 4084
+|tir_bonus = 681
+|passe = 3929
+|passe_bonus = 655
+
+|tacle = 6550
+|tacle_bonus = 1092
+|contre = 4867
+|contre_bonus = 811
+|interception = 4550
+|interception_bonus = 758
+
+|rapidité = 4544
+|rapidité_bonus = 757
+|puissance = 4660
+|puissance_bonus = 777
+|technicité = 3929
+|technicité_bonus = 655
+
+|base_id = 000019
+|base_image = 000019-gentile-defenseangledroit-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 728
+
+|base_dribble = 2912
+|base_dribble_bonus = 485
+|base_tir = 2723
+|base_tir_bonus = 454
+|base_passe = 2617
+|base_passe_bonus = 436
+
+|base_tacle = 4368
+|base_tacle_bonus = 728
+|base_contre = 3244
+|base_contre_bonus = 541
+|base_interception = 3032
+|base_interception_bonus = 505
+
+|base_rapidité = 3028
+|base_rapidité_bonus = 505
+|base_puissance = 3110
+|base_puissance_bonus = 518
+|base_technicité = 2617
+|base_technicité_bonus = 436
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Mouvements Super Rapides
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Vitesse : Tacle +10%
+
+|TS_main = Défense en angle droit
+|TS_main_type = tacle
+|TS_main_rang = S
+|TS_main_puissance = 440
+|TS_main_coût = 390
+
+|TS_2 = Contre de haute puissance
+|TS_2_type = contre
+|TS_2_rang = A
+|TS_2_puissance = 320
+|TS_2_coût = 370
+
+|passive_skill = Tueur de japonais
+|passive_skill_rang = B
+|passive_skill_description = Contre les joueurs Japonais : Paramètres + 30%
+|passive_skill_jap_only = Oui
+
+|taille = 181
+|poids = 71
+
+|description = La "Nouvelle star de l'Italie" a fait ses débuts dans la meilleure ligue du pays lorsqu'il était très jeune. Pour lui, le football est une affaire d'honneur. Il est rival avec Shingo Aoi qui n'est pas de la même nationalité que lui. Lors de leur première confrontation, il bloque de manière spectaculaire toutes les attaques d'Aoi.
+
+|jap = Oui
+|glo = Oui
+}}

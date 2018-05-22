@@ -1,0 +1,109 @@
+{{Fiche joueur new
+|joueur = Shun Nitta
+|nom_joueur = Le Faucon volant à travers le Monde
+|type = force
+|poste = AT
+|pays = Japon
+|équipe = Japon (Qualif. Zone Asie)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000325
+|image = 000325-Nitta-voléeSautéeFauconGauche-force-invoc.png
+|id_foil = 000287
+|image_foil = 000287-Nitta-voléeSautéeFauconGauche-force-invoc.png
+|rareté = UR
+
+|endurance = 869
+
+|dribble = 3946
+|dribble_bonus = 658
+|tir = 5783
+|tir_bonus = 964
+|passe = 4199
+|passe_bonus = 700
+
+|tacle = 3796
+|tacle_bonus = 633
+|contre = 4320
+|contre_bonus = 720
+|interception = 4291
+|interception_bonus = 715
+
+|rapidité = 4952
+|rapidité_bonus = 792
+|puissance = 3940
+|puissance_bonus = 657
+|technicité = 4108
+|technicité_bonus = 718
+
+|base_id = 000324
+|base_image = 000324-Nitta-voléeSautéeFauconGauche-force-invoc.png
+|base_id_foil = 000286
+|base_image_foil = 000286-Nitta-voléeSautéeFauconGauche-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 727
+
+|base_dribble = 2617
+|base_dribble_bonus = 436
+|base_tir = 3875
+|base_tir_bonus = 646
+|base_passe = 2802
+|base_passe_bonus = 467
+
+|base_tacle = 2530
+|base_tacle_bonus = 422
+|base_contre = 2880
+|base_contre_bonus = 480
+|base_interception = 2848
+|base_interception_bonus = 475
+
+|base_rapidité = 3377
+|base_rapidité_bonus = 546
+|base_puissance = 2612
+|base_puissance_bonus = 435
+|base_technicité = 2664
+|base_technicité_bonus = 461
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = Déferlante de Puissance et de Vitesse
+|team_skill_rang = A
+|team_skill_description = Joueurs Type Force : Rapidité +5%
+
+|TS_main = Volée sautée du faucon de pied gauche
+|TS_main_type = balle_basse
+|TS_main_rang = S
+|TS_main_puissance = 425
+|TS_main_coût = 325
+
+|TS_2 = Tir du faucon
+|TS_2_type = tir
+|TS_2_rang = A
+|TS_2_puissance = 295
+|TS_2_coût = 320
+
+|TS_3 = Interception rapide
+|TS_3_type = interception
+|TS_3_rang = A
+|TS_3_puissance = 295
+|TS_3_coût = 280
+
+|passive_skill = Renforcement TS (Flottant bas)
+|passive_skill_rang = A
+|passive_skill_description = Intensité de la TS sur ballon flottant bas +30%
+|passive_skill_jap_only = Oui
+
+|taille = 170
+|poids = 57
+
+|description = Après la défaite de l'équipe du Japon contre la RJ7, l'entraineur Gamo ordonne à Nitta de quitter l'équipe. Ayant amélioré son tir du pied gauche en s'entrainant au lycée Nankatsu, il est maintenant capable de tirer sa "Volée tir du faucon sans amorti" des deux pieds. Il marque un but lors du match contre l'Ouzbékistan.
+
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+}}

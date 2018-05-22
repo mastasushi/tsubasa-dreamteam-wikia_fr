@@ -1,0 +1,89 @@
+{{Fiche joueur new
+|joueur = Salvatore Gentile
+|nom_joueur = Star Italienne de la prochaine génération
+|type = force
+|poste = DF
+|pays = Italie
+|équipe = Piémont Juniors
+|époque = Coupe du monde espoirs
+|acquisition = Raid SSR
+
+|id = 000402
+|image = 000402-Gentile-contrePuissant-force-farm.png
+|rareté = UR
+
+|endurance = 784
+
+|dribble = 3268
+|dribble_bonus = 545
+|tir = 3238
+|tir_bonus = 540
+|passe = 3414
+|passe_bonus = 569
+
+|tacle = 4387
+|tacle_bonus = 731
+|contre = 5304
+|contre_bonus = 884
+|interception = 4194
+|interception_bonus = 699
+
+|rapidité = 3448
+|rapidité_bonus = 575
+|puissance = 4704
+|puissance_bonus = 784
+|technicité = 3518
+|technicité_bonus = 586
+
+|base_id = 000401
+|base_image = 000401-Gentile-contrePuissant-force-farm.png
+|base_rareté = SSR
+
+|base_endurance = 653
+
+|base_dribble = 2178
+|base_dribble_bonus = 363
+|base_tir = 2155
+|base_tir_bonus = 359
+|base_passe = 2275
+|base_passe_bonus = 379
+
+|base_tacle = 2923
+|base_tacle_bonus = 487
+|base_contre = 3533
+|base_contre_bonus = 589
+|base_interception = 2792
+|base_interception_bonus = 465
+
+|base_rapidité = 2298
+|base_rapidité_bonus = 383
+|base_puissance = 3140
+|base_puissance_bonus = 523
+|base_technicité = 2347
+|base_technicité_bonus = 391
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Mur Rigide devant les buts
+|team_skill_rang = B
+|team_skill_description = Défenseurs : contre +5%
+
+|TS_main = Contre puissant
+|TS_main_type = contre
+|TS_main_rang = B
+|TS_main_puissance = 240
+|TS_main_coût = 300
+
+|taille = 181
+|poids = 71
+
+|description = La "Nouvelle star de l'Italie" a fait ses débuts dans la meilleure ligue du pays lorsqu'il était très jeune. Pour lui, le football est une affaire d'honneur. Il est rival avec Shingo Aoi qui n'est pas de la même nationalité que lui. Lors de leur première confrontation, il bloque de manière spectaculaire toutes les attaques d'Aoi.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+}}

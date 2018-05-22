@@ -1,0 +1,89 @@
+{{Fiche joueur new
+|joueur = Salvatore Gentile
+|nom_joueur = Le Défenseur Dandy de l'Italie
+|type = force
+|poste = DF
+|pays = Italie
+|équipe = Piémont Juniors
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000113
+|image = 000113-Gentile-taclePuissant-force-invoc.png
+|rareté = SSR
+
+|endurance = 691
+
+|dribble = 2350
+|dribble_bonus = 392
+|tir = 2792
+|tir_bonus = 465
+|passe = 2714
+|passe_bonus = 452
+
+|tacle = 3529
+|tacle_bonus = 588
+|contre = 3331
+|contre_bonus = 555
+|interception = 3133
+|interception_bonus = 522
+
+|rapidité = 2442
+|rapidité_bonus = 407
+|puissance = 3184
+|puissance_bonus = 531
+|technicité = 2714
+|technicité_bonus = 452
+
+|base_id = 000076
+|base_image = 000076-Gentile-taclePuissant-force-invoc.png
+|base_rareté = SR
+
+|base_endurance = 606
+
+|base_dribble = 1237
+|base_dribble_bonus = 206
+|base_tir = 1469
+|base_tir_bonus = 245
+|base_passe = 1427
+|base_passe_bonus = 238
+
+|base_tacle = 1859
+|base_tacle_bonus = 310
+|base_contre = 1752
+|base_contre_bonus = 292
+|base_interception = 1649
+|base_interception_bonus = 275
+
+|base_rapidité = 1285
+|base_rapidité_bonus = 214
+|base_puissance = 1676
+|base_puissance_bonus = 279
+|base_technicité = 1427
+|base_technicité_bonus = 238
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Défense Entêtée
+|team_skill_rang = C
+|team_skill_description = Défenseurs : Tacle +3%
+
+|TS_main = Tacle puissant
+|TS_main_type = tacle
+|TS_main_rang = A
+|TS_main_puissance = 300
+|TS_main_coût = 330
+
+|taille = 181
+|poids = 71
+
+|description = La "Nouvelle star de l'Italie" a fait ses débuts dans la meilleure ligue du pays lorsqu'il était très jeune. Pour lui, le football est une affaire d'honneur. Il est rival avec Shingo Aoi qui n'est pas de la même nationalité que lui. Lors de leur première confrontation, il bloque de manière spectaculaire toutes les attaques d'Aoi.
+
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+
+}}

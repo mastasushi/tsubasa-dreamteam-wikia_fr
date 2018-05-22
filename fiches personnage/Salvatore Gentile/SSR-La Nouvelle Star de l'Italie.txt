@@ -1,0 +1,100 @@
+{{Fiche joueur new
+|joueur = Salvatore Gentile
+|nom_joueur = La Nouvelle Star de l'Italie
+|type = force
+|poste = DF
+|pays = Italie
+|équipe = Piémont Juniors
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000386
+|image = 000386-Gentile-contreDandy-force-invoc.png
+|rareté = UR
+
+|endurance = 914
+
+|dribble = 4408
+|dribble_bonus = 735
+|tir = 4368
+|tir_bonus = 728
+|passe = 4614
+|passe_bonus = 769
+
+|tacle = 5922
+|tacle_bonus = 987
+|contre = 6446
+|contre_bonus = 1074
+|interception = 5652
+|interception_bonus = 942
+
+|rapidité = 4649
+|rapidité_bonus = 775
+|puissance = 6354
+|puissance_bonus = 1059
+|technicité = 4754
+|technicité_bonus = 792
+
+|base_id = 000387
+|base_image = 000387-Gentile-contreDandy-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 763
+
+|base_dribble = 2940
+|base_dribble_bonus = 490
+|base_tir = 2910
+|base_tir_bonus = 485
+|base_passe = 3073
+|base_passe_bonus = 512
+
+|base_tacle = 3948
+|base_tacle_bonus = 658
+|base_contre = 4292
+|base_contre_bonus = 715
+|base_interception = 3767
+|base_interception_bonus = 628
+
+|base_rapidité = 3098
+|base_rapidité_bonus = 516
+|base_puissance = 4235
+|base_puissance_bonus = 706
+|base_technicité = 3169
+|base_technicité_bonus = 528
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Défense solide
+|team_skill_rang = A
+|team_skill_description = Défenseurs et Milieux Défensifs : Défense +5%
+
+|TS_main = Contre du dandy
+|TS_main_type = contre
+|TS_main_rang = S
+|TS_main_puissance = 415
+|TS_main_coût = 390
+
+|TS_2 = Passe du dandy
+|TS_2_type = passe
+|TS_2_rang = A
+|TS_2_puissance = 290
+|TS_2_coût = 170
+
+|passive_skill = Résistant
+|passive_skill_rang = A
+|passive_skill_description =	Le joueur ne se fait plus envoyer en l'air par un tir.
+|passive_skill_jap_only = Oui
+
+|taille = 181
+|poids = 71
+
+|description = La "Nouvelle star de l'Italie" a fait ses débuts dans la meilleure ligue du pays lorsqu'il était très jeune. Pour lui, le football est une affaire d'honneur. Il est rival avec Shingo Aoi qui n'est pas de la même nationalité que lui. Lors de leur première confrontation, il bloque de manière spectaculaire toutes les attaques d'Aoi.
+
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+
+}}

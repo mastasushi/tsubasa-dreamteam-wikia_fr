@@ -1,0 +1,111 @@
+{{Fiche joueur new
+|joueur = Natureza
+|nom_joueur = Le Sauveur du Brésil
+|type = vitesse
+|poste = MO
+|pays = Brésil
+|équipe = Brésil (juniors)
+|époque = Coupe du monde espoirs
+|acquisition = Dream Fest
+
+|id = 000271
+|image = 000271-Natureza-tirMiraculeux-vitesse-fest.png
+|rareté = UR
+
+|endurance = 1107
+
+|dribble = 6388
+|dribble_bonus = 1065
+|tir = 7188
+|tir_bonus = 1198
+|passe = 5398
+|passe_bonus = 900
+
+|tacle = 6256
+|tacle_bonus = 1043
+|contre = 5645
+|contre_bonus = 941
+|interception = 5225
+|interception_bonus = 871
+
+|rapidité = 6233
+|rapidité_bonus = 1039
+|puissance = 5639
+|puissance_bonus = 940
+|technicité = 5552
+|technicité_bonus = 925
+
+|base_id = 000270
+|base_image = 000270-Natureza-tirMiraculeux-vitesse-fest.png
+|base_rareté = SSR
+
+|base_endurance = 924
+
+|base_dribble = 4272
+|base_dribble_bonus = 712
+|base_tir = 4811
+|base_tir_bonus = 802
+|base_passe = 3594
+|base_passe_bonus = 599
+
+|base_tacle = 4165
+|base_tacle_bonus = 694
+|base_contre = 3760
+|base_contre_bonus = 627
+|base_interception = 3484
+|base_interception_bonus = 581
+
+|base_rapidité = 4175
+|base_rapidité_bonus = 696
+|base_puissance = 3760
+|base_puissance_bonus = 627
+|base_technicité = 3682
+|base_technicité_bonus = 614
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Attaque Vitesse Folle
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Vitesse : Attaque +10%
+
+|TS_main = Tir feuille morte planeur miraculeux
+|TS_main_type = tir
+|TS_main_rang = S
+|TS_main_puissance = 510
+|TS_main_coût = 470
+|TS_main_effet = {{effet_angle}}
+
+|TS_2 = Feinte dédoublement à grande vitesse
+|TS_2_type = dribble
+|TS_2_rang = A
+|TS_2_puissance = 300
+|TS_2_coût = 215
+
+|TS_3 = Tacle mouvement arrière
+|TS_3_type = tacle
+|TS_3_rang = A
+|TS_3_puissance = 300
+|TS_3_coût = 315
+
+|passive_skill = Tueur de Japonais
+|passive_skill_rang = ?
+|passive_skill_description = Contre un joueur Japonais : Paramètres +15%
+|passive_skill_jap_only = Oui
+
+
+|taille = 174
+|poids = 62
+
+|description = Natureza a grandi dans un petit village dans les profondeurs de l'Amazonie. Roberto Hongo, qui voit en lui le potentiel de surpasser même Tsubasa, l'invite à se joindre à l'équipe du Brésil. Il entre sur le terrain juste avant la fin de la seconde mi-temps de la finale et marque un but contre Wakabayashi depuis une zone en dehors de la surface de réparation.
+
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+|expiré = Non
+
+|fini = Oui
+
+}}

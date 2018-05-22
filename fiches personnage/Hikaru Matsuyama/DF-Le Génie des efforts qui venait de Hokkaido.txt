@@ -1,0 +1,108 @@
+{{Fiche joueur new
+|joueur = Hikaru Matsuyama
+|nom_joueur = Le Génie des efforts qui venait de Hokkaido
+|type = technique
+|poste = MD
+|pays = Japon
+|équipe = Japon (Espoirs)
+|époque = Coupe du monde espoirs
+|acquisition = Dream Fest
+
+|id = 000331
+|image = 000331-Matsuyama-tacleDeLAigle-technique-fest.png
+|rareté = UR
+
+|endurance = 1084
+
+|dribble = 5564
+|dribble_bonus = 927
+|tir = 4793
+|tir_bonus = 799
+|passe = 5754
+|passe_bonus = 959
+
+|tacle = 6727
+|tacle_bonus = 1121
+|contre = 4902
+|contre_bonus = 817
+|interception = 5690
+|interception_bonus = 948
+
+|rapidité = 5143
+|rapidité_bonus = 857
+|puissance = 4798
+|puissance_bonus = 800
+|technicité = 5830
+|technicité_bonus = 972
+
+|base_id = 000330
+|base_image = 000330-Matsuyama-tacleDeLAigle-technique-fest.png
+|base_rareté = SSR
+
+|base_endurance = 904
+
+|base_dribble = 3709
+|base_dribble_bonus = 618
+|base_tir = 3198
+|base_tir_bonus = 533
+|base_passe = 3839
+|base_passe_bonus = 640
+
+|base_tacle = 4483
+|base_tacle_bonus = 747
+|base_contre = 3268
+|base_contre_bonus = 545
+|base_interception = 3792
+|base_interception_bonus = 632
+
+|base_rapidité = 3428
+|base_rapidité_bonus = 571
+|base_puissance = 3198
+|base_puissance_bonus = 533
+|base_technicité = 3889
+|base_technicité_bonus = 648
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Esprit Défensif Japonais
+|team_skill_rang = S
+|team_skill_description = Joueurs Japonais : Défense +10%
+
+|TS_main = Tacle de l'aigle
+|TS_main_type = tir
+|TS_main_rang = S
+|TS_main_puissance = 440
+|TS_main_coût = 390
+
+|TS_2 = Passe de l'aigle
+|TS_2_type = passe
+|TS_2_rang = A
+|TS_2_puissance = 300
+|TS_2_coût = 175
+|TS_2_effet = {{effet_distance}}
+
+|TS_3 = Attaque avalanche
+|TS_3_type = combinaison
+|TS_3_rang = A
+|TS_3_puissance = 300
+|TS_3_coût = 375
+
+|passive_skill = Combinaison (Misugi)
+|passive_skill_rang = ?
+|passive_skill_description = Si Jun Misugi est dans la même équipe : Paramètres +10%
+|passive_skill_jap_only = Oui
+
+|taille = 174
+|poids = 60
+
+|description = Matsuyama est devenu l'élément majeur de la défense de son équipe. Juste avant le match contre la Suède, sa petite amie Yoshiko est gravement blessée dans un accident de la circulation. Il se précipite à son chevet. Lorsque son état se stabilise, il se rue sur le terrain et, faisant montre d'un jeu décisif, aide son équipe à remporter le match.
+
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+}}
+
+
