@@ -1,0 +1,162 @@
+{{Top
+|
+
+{{Top ligne
+   |image = 000607 tsubasa-goldenwtinshoot-force-invoc-thumb.png
+   |page = Tsubasa Ozora - Gamin du Foot à la Poursuite d'un Rêve
+   |statistiques = 54643
+   |teamskill = Joueurs Type Force :<br/>Tous paramètres +10%
+   |TS_main = Golden Twin Shoot
+   |TS_main_type = tir
+   |TS_main_rang = S
+   |TS_1 = Dribble ailé
+   |TS_1_type = dribble
+   |TS_1_rang = A
+   |TS_2 = Rideau aurore boréale
+   |TS_2_type = tacle
+   |TS_2_rang = A
+  }}
+|
+{{Top ligne
+   |image = 000433_tsubasa-tirdelafeuillemortevolante-tech-invoc-thumb.png
+   |page = Tsubasa Ozora - Le Trésor de Sao Paulo
+   |statistiques = 49856
+   |teamskill = Joueurs Type Technique :<br/>Tous paramètres +5%
+   |TS_main = Tir de la feuille morte volante
+   |TS_main_type = tir
+   |TS_main_rang = S
+   |TS_1 = Retourné acrobatique
+   |TS_1_type = balle_haute
+   |TS_1_rang = A
+   |TS_2 = Golden Duo de Sau Paulo
+   |TS_2_type = combinaison
+   |TS_2_rang = A
+  }}
+|
+{{Top ligne
+   |image = 000554_tsubasa-flyingdriveshoot-vitesse-wc-thumb.png
+   |page = Tsubasa Ozora - Milieu de Terrain Doré Fierté du Japon
+   |statistiques = 49431
+   |teamskill = Joueurs Type Vitesse :<br/>Tous paramètres +10%
+   |TS_main = Tir de la feuille morte volante
+   |TS_main_type = tir
+   |TS_main_rang = S
+   |TS_1 = Rideau aurore boréale
+   |TS_1_type = tacle
+   |TS_1_rang = A
+   |TS_2 = Passe feuille morte
+   |TS_2_type = passe
+   |TS_2_rang = A
+  }}
+|
+
+{{Top ligne
+   |image = 000007_Ohzora Tsubasa-feuillemorte-force-invoc-thumb.jpg
+   |page = Tsubasa Ozora - Le champion de Nankatsu
+   |statistiques = 49329
+   |teamskill = Collégiens :<br/>Attaque +5%
+   |TS_main = Tir de la feuille morte
+   |TS_main_type = tir
+   |TS_main_rang = S
+   |TS_1 = Retourné acrobatique
+   |TS_1_type = balle_haute
+   |TS_1_rang = A
+  }}
+|
+{{Top ligne
+   |image = 000808_tsubasa-pushingdivinghead-vitesse-invoc-thumb.png
+   |page = Tsubasa Ozora - L'Enfant du Foot du Monde
+   |statistiques = 48445
+   |teamskill = Joueurs Japonais :<br/>Tous paramètres +7%
+   |TS_main = Tête plongeante poussée	
+   |TS_main_type = balle_basse
+   |TS_main_rang = S
+   |TS_1 = Golden duo
+   |TS_1_type = combinaison
+   |TS_1_rang = S
+   |TS_2 = Dribble sud-américain
+   |TS_2_type = dribble
+   |TS_2_rang = A
+  }}
+|
+{{Top ligne
+   |image = 000642_tsubasa-tacleaurora-force-invoc-thumb.png
+   |page = Tsubasa Ozora - Rêve doré
+   |statistiques = 47235
+   |teamskill = Joueurs Type Force :<br/>Tous paramètres +5%
+   |TS_main = Rideau aurore boréale	
+   |TS_main_type = tacle
+   |TS_main_rang = S
+   |TS_1 = Interception rapide
+   |TS_1_type = interception
+   |TS_1_rang = A
+   |TS_2 = Passe feuille morte
+   |TS_2_type = passe
+   |TS_2_rang = A
+  }}
+|
+{{Top ligne
+   |image = 000642_tsubasa-tacleaurora-force-invoc-thumb.png
+   |page = Tsubasa Ozora - Rêve doré
+   |statistiques = 47235
+   |teamskill = Joueurs Type Force :<br/>Tous paramètres +5%
+   |TS_main = Rideau aurore boréale	
+   |TS_main_type = tacle
+   |TS_main_rang = S
+   |TS_1 = Interception rapide
+   |TS_1_type = interception
+   |TS_1_rang = A
+   |TS_2 = Passe feuille morte
+   |TS_2_type = passe
+   |TS_2_rang = A
+  }}
+|
+
+{{Top ligne
+   |image = 000011_Ohzora Tsubasa-goldenduo-tech-invoc-thumb.jpg
+   |page = Tsubasa Ozora - Un Vrai Capitaine
+   |statistiques = 44892
+   |teamskill = Japonais :<br/>Attaque +5%
+   |TS_main = Golden Duo
+   |TS_main_type = combinaison
+   |TS_main_rang = S
+   |TS_1 = Coup du sombrero
+   |TS_1_type = dribble
+   |TS_1_rang = A
+  }}
+|
+
+{{Top ligne
+   |image = 000210 Tsubasa-goldentrio-technique-conf-thumb.png
+   |page = Tsubasa Ozora - Le génie du Japon
+   |statistiques = 42808
+   |teamskill = Equipe du Japon (Espoirs) :<br/>Attaque +5%
+   |TS_main = Golden trio sélection japonaise
+   |TS_main_type = combinaison
+   |TS_main_rang = A
+   |TS_1 = Twin shoot
+   |TS_1_type = tir
+   |TS_1_rang = A
+  }}
+|
+{{Top ligne
+   |image = 000224_Ohzora Tsubasa-tircontrefleche-vitesse-farm-thumb.jpg
+   |page = Tsubasa Ozora - L'Aura du vainqueur
+   |statistiques = 35768
+   |teamskill = Milieux Offensifs :<br/>Tir +5%
+   |TS_main = Tir contre-flèche
+   |TS_main_type = tir
+   |TS_main_rang = S
+  }}
+
+
+|
+{{Top ligne
+   |image = 000134-tsubasa-sombrero-vitesse-invoc--thumb.png
+   |page = Tsubasa Ozora - L'as de la Nankatsu
+   |statistiques = 8303
+   |TS_main = Coup du sombrero
+   |TS_main_type = dribble
+   |TS_main_rang = C
+  }}
+}}

@@ -1,0 +1,102 @@
+{{Fiche joueur new
+|joueur = Juan Diaz
+|nom_joueur = Le p'tit gars rapide qui détestait perdre
+|type = vitesse
+|poste = AT
+|pays = Argentine
+|équipe = Argentine (Juniors)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000817
+|image = 000817-diaz-tirdelafeuillemortecombinee-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 1013
+
+|dribble = 5866
+|dribble_bonus = 978
+|tir = 6421
+|tir_bonus = 1070
+|passe = 5549
+|passe_bonus = 925
+
+|tacle = 5615
+|tacle_bonus = 936
+|contre = 4268
+|contre_bonus = 711
+|interception = 4495
+|interception_bonus = 749
+
+|rapidité = 5443
+|rapidité_bonus = 907
+|puissance = 5306
+|puissance_bonus = 884
+|technicité = 5804
+|technicité_bonus = 967
+
+|base_id = 000816
+|base_image = 000816-diaz-tirdelafeuillemortecombinee-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 844
+
+|base_dribble = 3911
+|base_dribble_bonus = 652
+|base_tir = 4280
+|base_tir_bonus = 713
+|base_passe = 3700
+|base_passe_bonus = 617
+
+|base_tacle = 3743
+|base_tacle_bonus = 624
+|base_contre = 2845
+|base_contre_bonus = 474
+|base_interception = 2996
+|base_interception_bonus = 499
+
+|base_rapidité = 3629
+|base_rapidité_bonus = 605
+|base_puissance = 3538
+|base_puissance_bonus = 590
+|base_technicité = 3870
+|base_technicité_bonus = 645
+
+|balle_haute = Normal
+|balle_basse = Bon
+
+|team_skill = L'évolution du Football Sud-Américain
+|team_skill_rang = S
+|team_skill_description = Joueurs Sud-Américain : Tous Paramètres +7%
+
+|TS_main = Tir de la feuille morte combiné
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 475
+|TS_main_coût = 435
+|TS_main_combinaison = {{combinaison|Diaz|Tsubasa}}
+
+|TS_2 = Percée dribble de génie
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 350
+|TS_2_coût = 235
+
+|TS_3 = Advanced Shoot
+|TS_3_type = Balle_basse
+|TS_3_rang = A
+|TS_3_puissance = 300
+|TS_3_coût = 300
+
+|passive_skill = Combinaison (Tsubasa)
+|passive_skill_rang = B
+|passive_skill_description = Avec Tsubasa Ozora dans la même équipe : Paramètres +10% pour Diaz.
+
+|taille = 164
+|poids = 51
+
+|description = Diaz est un génie du football. Il affine ses techniques depuis son plus jeune âge. Bien plus que sa capacité en tant que joueur solo, elle-même déja impressionnante, son jeu combiné avec Pascual est vraiment exceptionnel. Il ressent un sentiment de rivaluté envers un autre "génie" : Tsubasa.
+
+|jap = Oui
+|glo = Oui
+}}

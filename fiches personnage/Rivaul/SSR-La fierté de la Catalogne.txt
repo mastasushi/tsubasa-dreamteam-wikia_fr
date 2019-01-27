@@ -1,0 +1,104 @@
+{{Fiche joueur new
+|joueur = Rivaul
+|nom_joueur = La fierté de la Catalogne
+|type = force
+|poste = AT
+|poste_2= MO
+|pays = Brésil
+|équipe = Catalogne
+|époque = Road to 2002
+|acquisition = Recrutement
+
+|id = 000846
+|image = 000846-rivaul-combiretourne-force-invoc.png
+|rareté = UR
+
+|endurance = 888
+
+|dribble = 5143
+|dribble_bonus = 857
+|tir = 7022
+|tir_bonus = 1170
+|passe = 4999
+|passe_bonus = 833
+
+|tacle = 5192
+|tacle_bonus = 865
+|contre = 4601
+|contre_bonus = 767
+|interception = 5042
+|interception_bonus = 840
+
+|rapidité = 4648
+|rapidité_bonus = 775
+|puissance = 6506
+|puissance_bonus = 1084
+|technicité = 5197
+|technicité_bonus = 866
+
+|base_id = 000845
+|base_image = 000845-rivaul-combiretourne-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 740
+
+|base_dribble = 3426
+|base_dribble_bonus = 571
+|base_tir = 4691
+|base_tir_bonus = 782
+|base_passe = 3328
+|base_passe_bonus = 555
+
+|base_tacle = 3458
+|base_tacle_bonus = 576
+|base_contre = 3072
+|base_contre_bonus = 512
+|base_interception = 3362
+|base_interception_bonus = 560
+
+|base_rapidité = 3097
+|base_rapidité_bonus = 516
+|base_puissance = 4336
+|base_puissance_bonus = 723
+|base_technicité = 3467
+|base_technicité_bonus = 578
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Tir Super Puissant
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Force : Tir +15%
+
+|TS_main = Combinaison retourné
+|TS_main_type = Balle_haute
+|TS_main_rang = S
+|TS_main_puissance = 445
+|TS_main_coût = 375
+|TS_main_combinaison = {{combinaison|Rivaul|Tsubasa}}
+
+|TS_2 = Rivaul Turn
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 300
+|TS_2_coût = 215
+
+|TS_3 = Twin Shoot
+|TS_3_type = Tir
+|TS_3_rang = A
+|TS_3_puissance = 315
+|TS_3_coût = 340
+|TS_3_combinaison = {{combinaison|Rivaul|Tsubasa}}
+
+|passive_skill = Tueur de DF
+|passive_skill_rang = B
+|passive_skill_description = Face aux DF : Paramètres +10%
+
+|taille = -
+|poids = -
+
+|description = Le capitaine du Brésil est un joueur de classe mondiale. Il a été couronné du titre de Meilleur Joueur d'Europe à deux reprises. Il ne craint pas de jouer aggressivement lorsque c'est nécessaire et ses coups à la limite de la faute lui ont valu le nom de "Rivaul le Tueur".
+
+|jap = Oui
+|glo = Oui
+}}

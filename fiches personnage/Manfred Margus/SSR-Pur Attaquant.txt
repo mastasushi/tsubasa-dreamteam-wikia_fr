@@ -1,0 +1,96 @@
+{{Fiche joueur new
+|joueur = Manfred Margus
+|nom_joueur = Pur Attaquant
+|type = vitesse
+|poste = AT
+|pays = Allemagne
+|équipe = Breme (juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000848
+|image = 000848-margus-teteplongeantetechnique-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 905
+
+|dribble = 4938
+|dribble_bonus = 823
+|tir = 7291
+|tir_bonus = 1215
+|passe = 4937
+|passe_bonus = 823
+
+|tacle = 4884
+|tacle_bonus = 814
+|contre = 4691
+|contre_bonus = 782
+|interception = 4738
+|interception_bonus = 790
+
+|rapidité = 4890
+|rapidité_bonus = 815
+|puissance = 6546
+|puissance_bonus = 1091
+|technicité = 5084
+|technicité_bonus = 847
+
+|base_id = 000847
+|base_image = 000847-margus-teteplongeantetechnique-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 755
+
+|base_dribble = 3294
+|base_dribble_bonus = 549
+|base_tir = 4856
+|base_tir_bonus = 809
+|base_passe = 3294
+|base_passe_bonus = 549
+
+|base_tacle = 3254
+|base_tacle_bonus = 542
+|base_contre = 3130
+|base_contre_bonus = 522
+|base_interception = 3160
+|base_interception_bonus = 527
+
+|base_rapidité = 3260
+|base_rapidité_bonus = 543
+|base_puissance = 4363
+|base_puissance_bonus = 727
+|base_technicité = 3391
+|base_technicité_bonus = 565
+
+|balle_haute = Très bon
+|balle_basse = Normal
+
+|team_skill = Tir vitesse divine
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Vitesse : Tir +15%
+
+|TS_main = Tête Plongeante Technique
+|TS_main_type = balle_basse
+|TS_main_rang = S
+|TS_main_puissance = 440
+|TS_main_coût = 370
+
+|TS_2 = Tir coup de feu
+|TS_2_type = Tir
+|TS_2_rang = A
+|TS_2_puissance = 265
+|TS_2_coût = 290
+|TS_2_combinaison = {{effet_souffle|1}}
+
+|passive_skill = Combinaison (Schester)
+|passive_skill_rang = B
+|passive_skill_description = Avec Franz Schester dans la même équipe : Paramètres +10%
+
+|taille = 173
+|poids = 62
+
+|description = Ce joueur avant de grande taille joue pour l'équipe Brême (Juniors). C'est un buteur très prolifique. Il combine souvent son jeu avec Schester. Il marque un but contre le Japon dans un match amical, mais l'Italien Gino Hernandez parvient à arrêter tous ses tirs.
+
+|jap = Oui
+|glo = Oui
+}}

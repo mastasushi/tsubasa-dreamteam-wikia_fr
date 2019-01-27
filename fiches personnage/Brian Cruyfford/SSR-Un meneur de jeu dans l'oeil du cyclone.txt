@@ -1,0 +1,97 @@
+{{Fiche joueur new
+|joueur = Brian Cruyfford
+|nom_joueur = Un meneur de jeu dans l'oeil du cyclone
+|type = technique
+|poste = MO
+|pays = Hollande
+|équipe = Hollande (Rising Sun)
+|époque = Rising Sun
+|acquisition = Recrutement
+
+|id = 000356
+|image = 000356-cruyfford-tirspirale-tech-invoc.png
+|rareté = UR
+
+|endurance = 990
+
+|dribble = 5392
+|dribble_bonus = 899
+|tir = 5898
+|tir_bonus = 983
+|passe = 5558
+|passe_bonus = 926
+
+|tacle = 5126
+|tacle_bonus = 854
+|contre = 4573
+|contre_bonus = 762
+|interception = 5564
+|interception_bonus = 927
+
+|rapidité = 5132
+|rapidité_bonus = 855
+|puissance = 4758
+|puissance_bonus = 793
+|technicité = 5846
+|technicité_bonus = 974
+
+
+|base_id = 000333
+|base_image = 000333-cruyfford-tirspirale-tech-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 826
+
+|base_dribble = 3594
+|base_dribble_bonus = 599
+|base_tir = 3931
+|base_tir_bonus = 655
+|base_passe = 3704
+|base_passe_bonus = 617
+
+|base_tacle = 3414
+|base_tacle_bonus = 569
+|base_contre = 3050
+|base_contre_bonus = 508
+|base_interception = 3709
+|base_interception_bonus = 618
+
+|base_rapidité = 3419
+|base_rapidité_bonus = 570
+|base_puissance = 3175
+|base_puissance_bonus = 529
+|base_technicité = 3899
+|base_technicité_bonus = 650
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Puissance Offensive de Classe Mondiale
+|team_skill_rang = S
+|team_skill_description = Joueurs Non-Japonais : Attaque +5%
+
+|TS_main = Spiral Shoot
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 455
+|TS_main_coût = 360
+
+|TS_2 = Virevolte de la spirale
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 325
+|TS_2_coût = 220
+
+|passive_skill = Maître de la Bonne Lecture du Jeu
+|passive_skill_rang = A
+|passive_skill_description = Bonne Lecture du jeu en Duel : Tous paramètres +30%
+
+|taille = -
+|poids = -
+
+|description = Ce joueur de génie est connu sous le nom de "Fierté de la Hollande". Il évolue en tant que meneur de jeu durant les jeux olympiques de Madrid, ayant un bon contrôle de son équipe incluant des joueurs plus agés que lui, et utilise ses incroyables techniques de feinte avec comme objectif d'obtenir la médaille d'or et réaliser son rêve de devenir le meilleur joueur au monde.
+
+|jap = Oui
+|glo = Oui
+
+}}

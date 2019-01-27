@@ -1,0 +1,98 @@
+{{Fiche joueur new
+|joueur = Tsubasa Ozora
+|nom_joueur = Un Vrai Capitaine
+|type = technique
+|poste = MO
+|pays = Japon
+|équipe = Japon (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000035
+|image = 000035-Tsubasa-goldenduo-tech-invoc.png
+|rareté = UR
+
+|endurance = 998
+
+|dribble = 4970
+|dribble_bonus = 828
+|tir = 4505
+|tir_bonus = 751
+|passe = 6492
+|passe_bonus = 1082
+
+|tacle = 4775
+|tacle_bonus = 796
+|contre = 4400
+|contre_bonus = 733
+|interception = 5287
+|interception_bonus = 891
+
+|rapidité = 4752
+|rapidité_bonus = 792
+|puissance = 4256
+|puissance_bonus = 709
+|technicité = 5455
+|technicité_bonus = 909
+
+|base_id = 000011
+|base_image = 000011-Tsubasa-goldenduo-tech-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 832
+
+|base_dribble = 3313
+|base_dribble_bonus = 552
+|base_tir = 3005
+|base_tir_bonus = 501
+|base_passe = 4327
+|base_passe_bonus = 721
+
+|base_tacle = 3184
+|base_tacle_bonus = 531
+|base_contre = 2935
+|base_contre_bonus = 489
+|base_interception = 3526
+|base_interception_bonus = 588
+
+|base_rapidité = 3166
+|base_rapidité_bonus = 528
+|base_puissance = 2838
+|base_puissance_bonus = 473
+|base_technicité = 3636
+|base_technicité_bonus = 606
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Football Japonais
+|team_skill_rang = S
+|team_skill_description = Japonais : Attaque +5%
+
+|TS_main = Golden Duo
+|TS_main_type = combinaison
+|TS_main_rang = S
+|TS_main_puissance = 475
+|TS_main_coût = 435
+|TS_main_combinaison = {{combinaison|Tsubasa|Misaki}}
+
+|TS_2 = Coup du sombrero
+|TS_2_type = dribble
+|TS_2_rang = A
+|TS_2_puissance = 270
+|TS_2_coût = 170
+
+|passive_skill = Amélioration de la distance de déplacement
+|passive_skill_rang = A
+|passive_skill_description = Distance de une-deux + 50%
+|passive_skill_jap_only = Oui
+
+|taille = 167
+|poids = 55
+|description = Tsubasa ne peut participer au camp d'entrainement des juniors parce qu'il se rétablit de ses blessures. Il arrive en Europe plus tard que les autres, mais Hyuga et Matsuyama ne voient pas d'un bon oeil son intégration dans l'équipe du Japon. Cependant, il fait ses preuves et parvient à rejoindre officiellement l'équipe. Une fois en poste, il réalise de superbes exploits contre des joueurs rivaux du monde entier.
+
+|jap = Oui
+|glo = Oui
+
+
+}}

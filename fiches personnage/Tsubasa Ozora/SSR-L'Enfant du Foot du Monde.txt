@@ -1,0 +1,103 @@
+{{Fiche joueur new
+|joueur = Tsubasa Ozora
+|nom_joueur = L'Enfant du Foot du Monde
+|type = vitesse
+|poste = MO
+|pays = Japon
+|équipe = Japon (Juniors)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000808
+|image = 000808-tsubasa-teteplongeantepoussee-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 1050
+
+|dribble = 4152
+|dribble_bonus = 692
+|tir = 7716
+|tir_bonus = 1286
+|passe = 7480
+|passe_bonus = 1247
+
+|tacle = 4354
+|tacle_bonus = 726
+|contre = 4271
+|contre_bonus = 712
+|interception = 4492
+|interception_bonus = 749
+
+|rapidité = 4832
+|rapidité_bonus = 805
+|puissance = 5916
+|puissance_bonus = 986
+|technicité = 5232
+|technicité_bonus = 872
+
+|base_id = 000809
+|base_image = 000809-tsubasa-teteplongeantepoussee-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 875
+
+|base_dribble = 2765
+|base_dribble_bonus = 461
+|base_tir = 5142
+|base_tir_bonus = 857
+|base_passe = 4984
+|base_passe_bonus = 831
+
+|base_tacle = 2904
+|base_tacle_bonus = 484
+|base_contre = 2845
+|base_contre_bonus = 474
+|base_interception = 2990
+|base_interception_bonus = 498
+
+|base_rapidité = 3222
+|base_rapidité_bonus = 537
+|base_puissance = 3952
+|base_puissance_bonus = 659
+|base_technicité = 3492
+|base_technicité_bonus = 582
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = L'évolution du Football Japonais
+|team_skill_rang = S
+|team_skill_description = Joueurs Japonais : Tous Paramètres +7%
+
+|TS_main = Tête plongeante poussée
+|TS_main_type = balle_basse
+|TS_main_rang = S
+|TS_main_puissance = 475
+|TS_main_coût = 400
+|TS_main_combinaison = {{combinaison|Tsubasa|Misaki}}
+
+|TS_2 = Golden duo
+|TS_2_type = Combinaison
+|TS_2_rang = S
+|TS_2_puissance = 475
+|TS_2_coût = 435
+|TS_2_combinaison = {{combinaison|Tsubasa|Misaki}}
+
+|TS_3 = Dribble sud-américain
+|TS_3_type = Dribble
+|TS_3_rang = A
+|TS_3_puissance = 300
+|TS_3_coût = 205
+
+|passive_skill = Combinaison (Misaki)
+|passive_skill_rang = B
+|passive_skill_description = Avec Taro Misaki dans la même équipe : Paramètres +10%
+
+|taille = 167
+|poids = 55
+
+|description = Tsubasa ne peut participer au camp d'entrainement des juniors parce qu'il se rétablit de ses blessures. Il arrive en Europe plus tard que les autres, et Hyuga et Matsuyama ne voient pas d'un bon oeil son intégration dans l'équipe du Japon. Cependant, il fait ses preuves et parvient à rejoindre officiellement l'équipe. Une fois en poste, il réalise de superbes exploits contre des joueurs rivaux du monde entier.
+
+|jap = Oui
+|glo = Oui
+}}

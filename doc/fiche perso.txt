@@ -106,6 +106,7 @@
 |passive_skill = 
 |passive_skill_rang = 
 |passive_skill_description = 
+|passive_skill_jap_only = Oui
 
 |taille = 
 |poids = 

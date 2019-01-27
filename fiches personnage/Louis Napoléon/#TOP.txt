@@ -1,0 +1,89 @@
+{{Top
+|
+{{Top ligne
+   |image = 000826 napoleon-cannonburstshoot-force-fest-thumb.png
+   |page = Louis Napoléon - L'as des Buteurs de la France
+   |statistiques = 54617
+   |teamskill = Joueurs Type Force :<br/>Tous paramètres +10%
+   |TS_main = Tir rafale de canon
+   |TS_main_type = tir
+   |TS_main_rang = S
+   |TS_2 = Retourné Acrobatique Boulet de Canon
+   |TS_2_type = balle_haute
+   |TS_2_rang = S
+   |TS_3 = Gros tacle
+   |TS_3_type = tacle
+   |TS_3_rang = A
+}}
+|
+{{Top ligne
+   |image = 000469_napoleon-attaquedelatoureiffel-tech-invoc-thumb.png
+   |page = Louis Napoléon - L'arme secrète de la France
+   |statistiques = 47222
+   |teamskill = Joueurs Type Technique :<br/>Attaque +5%
+   |TS_main = Attaque de la Tour Eiffel
+   |TS_main_type = combinaison
+   |TS_main_rang = S
+   |TS_2 = Tir boulet de canon
+   |TS_2_type = tir
+   |TS_2_rang = S
+   |TS_3 = Interception forcée
+   |TS_3_type = interception
+   |TS_3_rang = A
+}}
+
+|
+{{Top ligne
+   |image = 
+   |page = Louis Napoléon - 
+   |statistiques = 42114
+   |teamskill = 
+   |TS_main = 
+   |TS_main_type = tir
+   |TS_main_rang = S
+   |TS_2 = 
+   |TS_2_type = balle_haute
+   |TS_2_rang = S
+   |TS_3 = Gros tacle
+   |TS_3_type = tacle
+   |TS_3_rang = A
+}}
+
+|
+{{Top ligne
+   |image = 
+   |page = Louis Napoléon - Coup de Détonateur
+   |statistiques = 42098
+   |teamskill = Joueurs Non-Japonais :<br/>Tir +10%
+   |TS_main = Volée boulet de canon
+   |TS_main_type = balle_basse
+   |TS_main_rang = A
+   |TS_2 = Gros tacle
+   |TS_2_type = tacle
+   |TS_2_rang = A
+}}
+
+
+
+|
+{{Top ligne
+   |image = 
+   |page = Louis Napoléon - 
+   |statistiques = 40903
+   |teamskill = 
+   |TS_main = 
+   |TS_main_type = tir
+   |TS_main_rang = S
+   |TS_2 = Retourné Acrobatique Boulet de Canon
+   |TS_2_type = balle_haute
+   |TS_2_rang = S
+   |TS_3 = Gros tacle
+   |TS_3_type = tacle
+   |TS_3_rang = A
+}}
+
+
+
+
+
+}}

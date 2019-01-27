@@ -1,0 +1,104 @@
+{{Fiche joueur new
+|joueur = Karl Heinz Schneider
+|nom_joueur = Guerrier Footballeur à la Grande Fierté
+|type = force
+|poste = AT
+|pays = Allemagne
+|équipe = Allemgane (Juniors)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000815
+|image = 000815-schneider-firetwindriveshoot-force-invoc.png
+|rareté = UR
+
+|endurance = 1024
+
+|dribble = 5012
+|dribble_bonus = 835
+|tir = 7462
+|tir_bonus = 1244
+|passe = 4711
+|passe_bonus = 785
+
+|tacle = 5062
+|tacle_bonus = 844
+|contre = 4667
+|contre_bonus = 778
+|interception = 4613
+|interception_bonus = 769
+
+|rapidité = 4914
+|rapidité_bonus = 819
+|puissance = 6560
+|puissance_bonus = 1093
+|technicité = 5110
+|technicité_bonus = 852
+
+|base_id = 000814
+|base_image = 000814-schneider-firetwindriveshoot-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 854
+
+|base_dribble = 3341
+|base_dribble_bonus = 557
+|base_tir = 4975
+|base_tir_bonus = 829
+|base_passe = 3142
+|base_passe_bonus = 524
+
+|base_tacle = 3374
+|base_tacle_bonus = 562
+|base_contre = 3112
+|base_contre_bonus = 519
+|base_interception = 3076
+|base_interception_bonus = 513
+
+|base_rapidité = 3276
+|base_rapidité_bonus = 546
+|base_puissance = 4374
+|base_puissance_bonus = 729
+|base_technicité = 3407
+|base_technicité_bonus = 568
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = L'évolution du Foot Européen
+|team_skill_rang = S
+|team_skill_description = Joueurs Européens : Tous Paramètres +7%
+
+|TS_main = Twin Shoot feu & feuille morte
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 475
+|TS_main_coût = 435
+|TS_main_effet = {{effet_souffle|2}}
+|TS_main_combinaison = {{combinaison|Schneider|Tsubasa}}
+
+|TS_2 = Enjambée du Kaiser
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 315
+|TS_2_coût = 210
+
+|TS_3 = Retourné acrobatique du feu
+|TS_3_type = Balle_haute
+|TS_3_rang = A
+|TS_3_puissance = 340
+|TS_3_coût = 335
+|TS_3_effet = {{effet_souffle|2}}
+
+|passive_skill = Combinaison (Tsubasa)
+|passive_skill_rang = B
+|passive_skill_description = Avec Tsubasa Ozora dans la même équipe : Paramètres +10% pour Schneider.
+
+|taille = 171
+|poids = 58
+
+|description = Le "Jeune empereur d'Allemagne" combine puissance, vitesse et capacité technique. Son talent formidable et sa capacité à marquer des buts lui donnent une place centrale dans l'équipe. Il vise le but armé de son imparable "Tir du feu".
+
+|jap = Oui
+|glo = Oui
+}}

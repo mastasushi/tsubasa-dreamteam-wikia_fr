@@ -1,0 +1,103 @@
+{{Fiche joueur new
+|joueur = Louis Napoléon
+|nom_joueur = L'As des Buts de la France
+|type = force
+|poste = AT
+|pays = France
+|équipe = France (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Dream Fest
+
+|id = 000827
+|image = 000827-napoleon-cannonburstshoot-force-fest.png
+|rareté = UR
+
+|endurance = 1019
+
+|dribble = 5716
+|dribble_bonus = 953
+|tir = 7939
+|tir_bonus = 1323
+|passe = 6234
+|passe_bonus = 1039
+
+|tacle = 5826
+|tacle_bonus = 971
+|contre = 5322
+|contre_bonus = 887
+|interception = 5428
+|interception_bonus = 905
+
+|rapidité = 5482
+|rapidité_bonus = 914
+|puissance = 7190
+|puissance_bonus = 1198
+|technicité = 5480
+|technicité_bonus = 913
+
+|base_id = 000826
+|base_image = 000826-napoleon-cannonburstshoot-force-fest.png
+|base_rareté = SSR
+
+|base_endurance = 851
+
+|base_dribble = 3810
+|base_dribble_bonus = 635
+|base_tir = 5287
+|base_tir_bonus = 881
+|base_passe = 4159
+|base_passe_bonus = 693
+
+|base_tacle = 3886
+|base_tacle_bonus = 648
+|base_contre = 3550
+|base_contre_bonus = 592
+|base_interception = 3616
+|base_interception_bonus = 603
+
+|base_rapidité = 3656
+|base_rapidité_bonus = 609
+|base_puissance = 4799
+|base_puissance_bonus = 800
+|base_technicité = 3654
+|base_technicité_bonus = 609
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = L'éveil des guerriers [Force]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Force : Tous Paramètres +10%
+
+|TS_main = Tir rafale de canon
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 450
+|TS_main_coût = 415
+|TS_main_effet = {{effet_souffle|2}}
+
+|TS_2 = Retourné Acrobatique Boulet de Canon
+|TS_2_type = Balle_haute
+|TS_2_rang = S
+|TS_2_puissance = 415
+|TS_2_coût = 350
+
+|TS_3 = Gros tacle
+|TS_3_type = Tacle
+|TS_3_rang = A
+|TS_3_puissance = 265
+|TS_3_coût = 280
+
+|passive_skill = Combinaison (Pierre)
+|passive_skill_rang = A
+|passive_skill_description = Avec Pierre dans la même équipe : Paramètres +10%
+
+|taille = 170
+|poids = 63
+
+|description = L'enfant à problèmes français est de retour. Comme Pierre, il ne pense qu'à prendre sa revanche contre le Japon et à remporter la victoire au Tournoi international juniors. Dans la phase de poules, son équipe remporte tous les matchs sauf contre le Brésil, mais lors du tournoi de qualification, ils sont battus par la Hollande.
+
+|jap = Oui
+|glo = Oui
+
+}}

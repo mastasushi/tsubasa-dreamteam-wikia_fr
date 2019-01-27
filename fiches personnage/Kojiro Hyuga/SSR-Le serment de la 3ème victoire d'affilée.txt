@@ -1,0 +1,99 @@
+{{Fiche joueur new
+|joueur = Kojiro Hyuga
+|nom_joueur = Le serment de la 3ème victoire d'affilée
+|type = technique
+|poste = AT
+|pays = Japon
+|équipe = Lycée Toho
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000749
+|image = 000749-hyuga-voleedutigresautee-tech-invoc.png
+|rareté = UR
+
+|endurance = 1003
+
+|dribble = 4888
+|dribble_bonus = 815
+|tir = 7238
+|tir_bonus = 1206
+|passe = 4796
+|passe_bonus = 799
+
+|tacle = 5093
+|tacle_bonus = 849
+|contre = 4552
+|contre_bonus = 759
+|interception = 4550
+|interception_bonus = 758
+
+|rapidité = 4792
+|rapidité_bonus = 799
+|puissance = 6743
+|puissance_bonus = 1124
+|technicité = 5039
+|technicité_bonus = 840
+
+
+|base_id = 000748
+|base_image = 000748-hyuga-voleedutigresautee-tech-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 836
+
+|base_dribble = 3258
+|base_dribble_bonus = 543
+|base_tir = 4825
+|base_tir_bonus = 804
+|base_passe = 3192
+|base_passe_bonus = 532
+
+|base_tacle = 3394
+|base_tacle_bonus = 566
+|base_contre = 3031
+|base_contre_bonus = 505
+|base_interception = 3030
+|base_interception_bonus = 505
+
+|base_rapidité = 3198
+|base_rapidité_bonus = 533
+|base_puissance = 4495
+|base_puissance_bonus = 749
+|base_technicité = 3360
+|base_technicité_bonus = 560
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le réveil des guerriers [Technique]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Technique : Tous paramètres +5%
+
+|TS_main = Volée du tigre sautée
+|TS_main_type = Balle_basse
+|TS_main_rang = S
+|TS_main_puissance = 450
+|TS_main_coût = 380
+|TS_main_effet = {{effet_souffle|1}}
+
+|TS_2 = Tir du tigre
+|TS_2_type = Tir
+|TS_2_rang = A
+|TS_2_puissance = 320
+|TS_2_coût = 345
+|TS_2_effet = {{effet_souffle|1}}
+
+|passive_skill = Courage
+|passive_skill_rang = A
+|passive_skill_description = Tant qu'il reste au moins 1 d'Endurance, l'utilisation des TS avec une intensité normal est possible.
+
+|taille = 178
+|poids = 64
+
+|description = S'étant juré que maintenant que Tsubasa et Wakabayashi ne sont plus là, personne au Japon ne pourrait lui être supérieur, Hyuga est devenu une figure de premier plan dans le monde du football de lycée au Japon. Il aide son équipe à remporter le Tournoi national des lycées pendant traois ans de suite, mais blessé, il est absent au Festival sportif d'été des lycées et son équipe perd face au lycée Nankatsu.
+
+|jap = Oui
+|glo = Oui
+
+}}

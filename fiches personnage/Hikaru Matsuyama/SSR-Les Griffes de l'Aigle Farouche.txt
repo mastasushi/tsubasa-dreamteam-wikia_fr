@@ -1,0 +1,102 @@
+{{Fiche joueur new
+|joueur = Hikaru Matsuyama
+|nom_joueur = Les Griffes de l'Aigle Farouche
+|type = force
+|poste = MO
+|poste_2= MD
+|pays = Japon
+|équipe = Lycée Furano
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000753
+|image = 000753-matsuyama-tacledelaigle-force-invoc.png
+|rareté = UR
+
+|endurance = 1032
+
+|dribble = 4709
+|dribble_bonus = 785
+|tir = 5116
+|tir_bonus = 853
+|passe = 5328
+|passe_bonus = 888
+
+|tacle = 6529
+|tacle_bonus = 1088
+|contre = 4776
+|contre_bonus = 796
+|interception = 4824
+|interception_bonus = 804
+
+|rapidité = 5717
+|rapidité_bonus = 953
+|puissance = 4829
+|puissance_bonus = 805
+|technicité = 5028
+|technicité_bonus = 838
+
+|base_id = 000752
+|base_image = 000752-matsuyama-tacledelaigle-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 861
+
+|base_dribble = 3137
+|base_dribble_bonus = 523
+|base_tir = 3412
+|base_tir_bonus = 569
+|base_passe = 3551
+|base_passe_bonus = 592
+
+|base_tacle = 4360
+|base_tacle_bonus = 727
+|base_contre = 3188
+|base_contre_bonus = 531
+|base_interception = 3222
+|base_interception_bonus = 537
+
+|base_rapidité = 3816
+|base_rapidité_bonus = 636
+|base_puissance = 3215
+|base_puissance_bonus = 536
+|base_technicité = 3350
+|base_technicité_bonus = 558
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le réveil des guerriers [Force]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Force : Tous paramètres +5%
+
+|TS_main = Tacle de l'aigle
+|TS_main_type = Tacle
+|TS_main_rang = S
+|TS_main_puissance = 440
+|TS_main_coût = 390
+
+|TS_2 = Attaque avalanche
+|TS_2_type = combinaison
+|TS_2_rang = A
+|TS_2_puissance = 300
+|TS_2_coût = 375
+
+|TS_3 = Interception forcée
+|TS_3_type = Interception
+|TS_3_rang = B
+|TS_3_puissance = 205
+|TS_3_coût = 220
+
+|passive_skill = Renforcement TS (Interception)
+|passive_skill_rang = C
+|passive_skill_description = TS d'interception : intensité +10%
+
+|taille = 174
+|poids = 60
+
+|description = Matsuyama poursuit sa scolarité au Lycée Furano avec son coéquipier Oda et son manager Fujisawa. Dans les quarts de finales de son dernier Tournoi national des lycées, son équipe est battue par la Toho Academy de Hyuga. Il est sélectionné pour représenter le Japon au Tournoi international juniors.
+
+|jap = Oui
+|glo = Oui
+}}
