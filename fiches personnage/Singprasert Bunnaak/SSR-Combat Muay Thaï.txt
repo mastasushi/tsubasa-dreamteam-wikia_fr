@@ -1,0 +1,96 @@
+{{Fiche joueur new
+|joueur = Singprasert Bunnaak
+|nom_joueur = Combat Muay Thaï
+|type = technique
+|poste = DF
+|pays = Thaïlande
+|équipe = Thaïlande (Qualif. Zone Asie)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000666
+|image = 000666_bunnaak-taclemuaythai-technique-invoc.png
+|rareté = UR
+
+|endurance = 931
+
+|dribble = 4393
+|dribble_bonus = 732
+|tir = 4349
+|tir_bonus = 725
+|passe = 4254
+|passe_bonus = 709
+
+|tacle = 7124
+|tacle_bonus = 1187
+|contre = 5935
+|contre_bonus = 989
+|interception = 4380
+|interception_bonus = 730
+
+|rapidité = 5532
+|rapidité_bonus = 922
+|puissance = 6401
+|puissance_bonus = 1067
+|technicité = 4567
+|technicité_bonus = 761
+
+|base_id = 000665
+|base_image = 000665_bunnaak-taclemuaythai-technique-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 776
+
+|base_dribble = 2928
+|base_dribble_bonus = 488
+|base_tir = 2898
+|base_tir_bonus = 483
+|base_passe = 2838
+|base_passe_bonus = 473
+
+|base_tacle = 4752
+|base_tacle_bonus = 792
+|base_contre = 3958
+|base_contre_bonus = 660
+|base_interception = 2924
+|base_interception_bonus = 487
+
+|base_rapidité = 3688
+|base_rapidité_bonus = 615
+|base_puissance = 4262
+|base_puissance_bonus = 710
+|base_technicité = 3046
+|base_technicité_bonus = 508
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le réveil des guerriers [Technique]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Technique : Tous paramètres +5%
+
+|TS_main = Tacle Muay Thaï
+|TS_main_type = Tacle
+|TS_main_rang = S
+|TS_main_puissance = 455
+|TS_main_coût = 405
+
+|TS_2 = Interception forcée
+|TS_2_type = Interception
+|TS_2_rang = A
+|TS_2_puissance = 255
+|TS_2_coût = 255
+
+|passive_skill = Résistant
+|passive_skill_rang = A
+|passive_skill_description = Le joueur ne se fait plus envoyer en l'air par le tir.
+
+|taille = 182
+|poids = 75
+
+|description = Bunnaak est passé du Muay Thaï au football avec le rêve de devenir le meilleur joueur au monde. C'est un joueur très physique. Son équipe donne au Japon du fil à retordre lors des qualifications zone Asie, où faisant montre d'un jeu des plus agressifs, il fait tout pour arrêter Tsubasa.
+
+|jap = Oui
+|glo = Oui
+
+}}

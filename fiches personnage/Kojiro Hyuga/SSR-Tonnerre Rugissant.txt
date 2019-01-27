@@ -1,0 +1,105 @@
+{{Fiche joueur new
+|joueur = Kojiro Hyuga
+|nom_joueur = Tonnerre Rugissant
+|type = force
+|poste = AT
+|pays = Japon
+|équipe = Japon (Qualif. Zone Asie)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000323
+|image = 000323-Hyuga-raiju-force-invoc.png
+|id_foil = 000285
+|image_foil = 000285-Hyuga-raiju-force-invoc.png
+|rareté = UR
+
+|endurance = 1006
+
+|dribble = 3554
+|dribble_bonus = 592
+|tir = 7920
+|tir_bonus = 1320
+|passe = 4314
+|passe_bonus = 719
+
+|tacle = 4188
+|tacle_bonus = 698
+|contre = 4573
+|contre_bonus = 762
+|interception = 4170
+|interception_bonus = 695
+
+|rapidité = 4406
+|rapidité_bonus = 734
+|puissance = 6838
+|puissance_bonus = 1140
+|technicité = 4003
+|technicité_bonus = 667
+
+|base_id = 000322
+|base_image = 000322-Hyuga-raiju-force-invoc.png
+|base_id_foil = 000284
+|base_image_foil = 000284-Hyuga-raiju-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 836
+
+|base_dribble = 2369
+|base_dribble_bonus = 395
+|base_tir = 5290
+|base_tir_bonus = 882
+|base_passe = 2866
+|base_passe_bonus = 478
+
+|base_tacle = 2788
+|base_tacle_bonus = 465
+|base_contre = 3055
+|base_contre_bonus = 509
+|base_interception = 2779
+|base_interception_bonus = 463
+
+|base_rapidité = 2940
+|base_rapidité_bonus = 490
+|base_puissance = 4535
+|base_puissance_bonus = 756
+|base_technicité = 2672
+|base_technicité_bonus = 445
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Jeu en Puissance
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Force : Attaque +5%
+
+|TS_main = Tir du tigre foudroyant
+|TS_main_type = tir
+|TS_main_rang = S
+|TS_main_puissance = 475
+|TS_main_coût = 505
+|TS_main_effet = {{effet_souffle|3}}
+
+|TS_2 = Jeu tenace au poteau
+|TS_2_type = balle_haute
+|TS_2_rang = A
+|TS_2_puissance = 250
+|TS_2_coût = 250
+
+|passive_skill = 
+|passive_skill_rang = 
+|passive_skill_description = 
+
+|taille = 178
+|poids = 64
+
+|description = Après la défaite de l'équipe du Japon contre la RJ7, l'entraineur Gamo ordonne à Hyuga de quitter l'équipe mais celui-ci refuse. Cependant, Matsuyama le persuade de suivre une formation. Après avoir amélioré ses compétences post-play et maîtrisé le "Tir du tigre foudroyant" à Okinawa, il revient et rejoint l'équipe du Japon.
+
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+|expiré = Non
+
+}}

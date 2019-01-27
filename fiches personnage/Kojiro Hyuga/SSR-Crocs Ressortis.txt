@@ -1,0 +1,100 @@
+{{Fiche joueur new
+|joueur = Kojiro Hyuga
+|nom_joueur = Crocs Ressortis
+|type = force
+|poste = AT
+|pays = Japon
+|équipe = Collège Toho Academy
+|époque = Collège
+|acquisition = Recrutement
+
+|id = 000026
+|image = 000026-hyuga-tirtigre-force-invoc.png
+|id_foil = 000301
+|image_foil = 000301-hyuga-tirtigre-force-invoc.png
+|rareté = UR
+
+|endurance = 957
+
+|dribble = 4044
+|dribble_bonus = 674
+|tir = 6428
+|tir_bonus = 1071
+|passe = 4361
+|passe_bonus = 727
+
+|tacle = 4228
+|tacle_bonus = 705
+|contre = 4614
+|contre_bonus = 769
+|interception = 4205
+|interception_bonus = 701
+
+|rapidité = 4003
+|rapidité_bonus = 667
+|puissance = 5167
+|puissance_bonus = 861
+|technicité = 4550
+|technicité_bonus = 758
+
+|base_id = 000002
+|base_image = 000002-hyuga-tirtigre-force-invoc.png
+|base_id_foil = 000300
+|base_image_foil = 000300-hyuga-tirtigre-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 798
+
+|base_dribble = 2695
+|base_dribble_bonus = 449
+|base_tir = 4285
+|base_tir_bonus = 714
+|base_passe = 2908
+|base_passe_bonus = 485
+
+|base_tacle = 2820
+|base_tacle_bonus = 470
+|base_contre = 3078
+|base_contre_bonus = 513
+|base_interception = 2807
+|base_interception_bonus = 468
+
+|base_rapidité = 2668
+|base_rapidité_bonus = 445
+|base_puissance = 3446
+|base_puissance_bonus = 574
+|base_technicité = 3032
+|base_technicité_bonus = 505
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Don pour les buts d'un enfant du foot
+|team_skill_rang = A
+|team_skill_description = Collégiens : Tir +5%
+
+|TS_main = Tir du tigre
+|TS_main_type = Tir
+|TS_main_rang = A
+|TS_main_puissance = 320
+|TS_main_coût = 345
+|TS_main_effet = {{effet_souffle|1}}
+
+|TS_2 = Dribble en ligne droite
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 285
+|TS_2_coût = 210
+
+|passive_skill = Réduction de l'Endurance Utilisée
+|passive_skill_rang = A
+|passive_skill_description = Endurance utilisée lors d'une TS : -20%
+
+|taille = 170
+|poids = 59
+
+|description = Un attaquant connu sous le nom du "Tigre Féroce". Il quitte son équipe après avoir été qualifié de "tigre qui a perdu ses crocs" par l'entraîneur Kira. Il suit alors une formation seul avec son entraîneur à Okinawa, où il développe le "tir du tigre".
+
+|jap = Oui
+|glo = Oui
+}}
