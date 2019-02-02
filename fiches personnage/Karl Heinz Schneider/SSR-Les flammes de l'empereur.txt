@@ -1,0 +1,97 @@
+{{Fiche joueur new
+|joueur = Karl Heinz Schneider
+|nom_joueur = Les flammes de l'empereur
+|type = technique
+|poste = AT
+|pays = Allemagne
+|équipe = Allemagne (juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000193
+|image = 000193-schneider-retourneacrobatiquefeu-technique-invoc.png
+|rareté = UR
+
+|endurance = 1024
+
+|dribble = 5132
+|dribble_bonus = 855
+|tir = 6128
+|tir_bonus = 1021
+|passe = 5316
+|passe_bonus = 886
+
+|tacle = 5207
+|tacle_bonus = 868
+|contre = 4620
+|contre_bonus = 770
+|interception = 5258
+|interception_bonus = 876
+
+|rapidité = 5081
+|rapidité_bonus = 847
+|puissance = 4890
+|puissance_bonus = 815
+|technicité = 5668
+|technicité_bonus = 945
+
+|base_id = 000190
+|base_image = 000190-schneider-retourneacrobatiquefeu-technique-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 854
+
+|base_dribble = 3428
+|base_dribble_bonus = 571
+|base_tir = 4082
+|base_tir_bonus = 680
+|base_passe = 3548
+|base_passe_bonus = 591
+
+|base_tacle = 3479
+|base_tacle_bonus = 580
+|base_contre = 3073
+|base_contre_bonus = 512
+|base_interception = 3516
+|base_interception_bonus = 586
+
+|base_rapidité = 3401
+|base_rapidité_bonus = 567
+|base_puissance = 3253
+|base_puissance_bonus = 542
+|base_technicité = 3784
+|base_technicité_bonus = 631
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Don pour les buts de classe mondiale
+|team_skill_rang = S
+|team_skill_description = Joueurs Non Japonais : Tir +10%
+
+|TS_main = Retourné acrobatique du feu
+|TS_main_type = balle_haute
+|TS_main_rang = S
+|TS_main_puissance = 340
+|TS_main_coût = 335
+|TS_main_effet = {{effet_souffle|2}}
+
+|TS_2 = Dribble en ligne droite
+|TS_2_type = dribble
+|TS_2_rang = A
+|TS_2_puissance = 285
+|TS_2_coût = 210
+
+|passive_skill = TS renforcée (balle haute)
+|passive_skill_rang = S
+|passive_skill_description = Puissance de TS sur balle haute : + 50%
+|passive_skill_jap_only = Oui
+
+|taille = 171
+|poids = 58
+
+|description = Le "jeune empereur d'Allemagne" combine puissance, vitesse et capacité technique. Son talent formidable et sa capacité à marquer des buts lui donnent une place centrale dans l'équipe. Il vise le but armé de son imparable "tir du feu".
+
+|jap = Oui
+|glo = Oui
+}}

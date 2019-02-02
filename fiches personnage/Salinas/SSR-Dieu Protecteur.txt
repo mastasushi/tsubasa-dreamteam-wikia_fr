@@ -1,0 +1,74 @@
+{{Fiche joueur
+|joueur = Salinas
+|nom_joueur = Dieu protecteur des cages du Brésil
+|type = vitesse
+|poste = GB
+|pays = Brésil
+|équipe = Brésil (Espoirs)
+|époque = Espoirs
+|acquisition = Recrutement
+
+|id = 001427
+|image = 001427.png
+|rareté = UR
+
+|endurance = 978
+
+|coup_de_poing = 8477
+|coup_de_poing_bonus = 1413
+|arrêt = 7165
+|arrêt_bonus = 1194
+
+|rapidité = 5201
+|rapidité_bonus = 867
+|puissance = 7373
+|puissance_bonus = 1229
+|technicité = 4972
+|technicité_bonus = 829
+
+|SSR_id = 001426
+|SSR_image = 001426.png
+
+|SSR_endurance = 816
+
+|SSR_coup_de_poing = 5651
+|SSR_coup_de_poing_bonus = 942
+|SSR_arrêt = 4776
+|SSR_arrêt_bonus = 796
+
+|SSR_rapidité = 3467
+|SSR_rapidité_bonus = 578
+|SSR_puissance = 4915
+|SSR_puissance_bonus = 819
+|SSR_technicité = 3314
+|SSR_technicité_bonus = 552
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le Grand Réveil des guerriers [GB & Type T]
+|team_skill_rang = S
+|team_skill_description = GB : Tous paramètres +15%, ou Type T : Tous paramètres +10%
+
+|passive_skill = Zone de Sûreté
+|passive_skill_rang = A
+|passive_skill_description = Face aux tirs hors surface de réparation : Paramètres +20%
+
+|TS_main = Bel arrêt parfait
+|TS_main_type = coup_de_poing
+|TS_main_rang = S
+|TS_main_puissance = 455
+|TS_main_coût = 210
+
+|TS_2 = Arrêt à une main
+|TS_2_type = arret
+|TS_2_rang = A
+|TS_2_puissance = 290
+|TS_2_coût = 260
+
+|taille = 176
+|poids = 65
+
+|description = Le gardien de l'équipe du Brésil (Juniors) : un véritable génie. Dans les cinq matchs menant à la finale, sun un total de 450 minutes, il ne laisse pas passer un seul but. Il arrête le "Tir de la tornade" de Hino dans le match contre l'Uruguay et le "Tir du tigre foudroyant" de Hyuga dans le match contre l'équipe du Japon.
+
+}}

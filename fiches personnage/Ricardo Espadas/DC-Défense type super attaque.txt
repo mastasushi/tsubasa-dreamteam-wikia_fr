@@ -1,0 +1,75 @@
+{{Fiche joueur new
+|joueur = Ricardo Espadas
+|nom_joueur = Défense type super attaque
+|type = technique
+|poste = GB
+|pays = Mexique
+|équipe = Mexique (espoirs)
+|époque = Coupe du monde espoirs
+|acquisition = Dream Collection
+
+|id = 000986
+|image = 000987-espadas-poingconfor-technique-invoc.png
+|rareté = UR
+
+|endurance = 928
+
+|coup_de_poing = 8738
+|coup_de_poing_bonus = 1456
+|arrêt = 4250
+|arrêt_bonus = 708
+
+|rapidité = 5604
+|rapidité_bonus = 934
+|puissance = 4870
+|puissance_bonus = 812
+|technicité = 4068
+|technicité_bonus = 678
+
+|base_id = 000986
+|base_image = 000986-espadas-poingconfor-technique-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 774
+
+|base_coup_de_poing = 5825
+|base_coup_de_poing_bonus = 971
+|base_arrêt = 2833
+|base_arrêt_bonus = 472
+
+|base_rapidité = 3736
+|base_rapidité_bonus = 623
+|base_puissance = 3246
+|base_puissance_bonus = 541
+|base_technicité = 2712
+|base_technicité_bonus = 452
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le grand réveil du Mexique
+|team_skill_rang = S
+|team_skill_description = Joueurs mexicains - Paramètres +15%
+
+|TS_main = Poing du condor
+|TS_main_type = coup_de_poing
+|TS_main_rang = S
+|TS_main_puissance = 420
+|TS_main_coût = 195
+
+|TS_2 = Arrêt à une main
+|TS_2_type = arret
+|TS_2_rang = A
+|TS_2_puissance = 290
+|TS_2_coût = 260
+
+|passive_skill = Courage
+|passive_skill_rang = A
+|passive_skill_description = Tant qu'il reste au moins 1 d'endurance, l'utilisation d'une TS avec une intensité normale est possible.
+
+|taille = 165
+|poids = 55
+
+|description = Ce gardien de but très agressif est connu sous le nom de "Miracle". Il change son style de jeu en fonction de la couleur de sa tenue. Ayant grandi dans un environnement défavorisé, il nourrit un sentiment de rancoeur envers le Japon, un pays riche.
+
+}}

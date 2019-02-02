@@ -1,0 +1,67 @@
+{{Fiche joueur new
+|joueur = Ken Wakashimazu
+|nom_joueur = Gardien Hyper Offensif
+|type = vitesse
+|poste = GB
+|pays = Japon
+|équipe = Japon (Qualif. Zone Asie)
+|époque = Espoirs
+|acquisition = Event
+
+|id = 000406
+|image = 000406--thumb.png
+|rareté = UR
+
+|endurance = 783
+
+|coup_de_poing = 3983
+|coup_de_poing_bonus = 664
+|arrêt = 3678
+|arrêt_bonus = 613
+
+|rapidité = 3233
+|rapidité_bonus = 539
+|puissance = 3924
+|puissance_bonus = 654
+|technicité = 4598
+|technicité_bonus = 766
+
+|SSR_id = 000405
+|SSR_image = 000405--thumb.png
+
+|SSR_endurance = 653
+
+|SSR_coup_de_poing = 2659
+|SSR_coup_de_poing_bonus = 443
+|SSR_arrêt = 2447
+|SSR_arrêt_bonus = 408
+
+|SSR_rapidité = 2158
+|SSR_rapidité_bonus = 360
+|SSR_puissance = 2616
+|SSR_puissance_bonus = 436
+|SSR_technicité = 3070
+|SSR_technicité_bonus = 512
+
+|balle_haute = Bon
+|balle_basse = Normal
+
+|team_skill = Priorité Arrêts
+|team_skill_rang = B
+|team_skill_description = Gardiens : Arrêt +3%
+
+|TS_main = Saut triangulaire
+|TS_main_type = arret
+|TS_main_rang = B
+|TS_main_puissance = 235
+|TS_main_coût = 235
+
+|taille = 183
+|poids = 72
+
+|description = Wakashimazu quitte l'équipe du Japon (Juniors) en signe de protestation contre le choix de l'entraîneur Mikami de choisir Wakabayashi parce que c'est un joueur professionnel. Après avoir rejoint une équipe de la ligue japonaise, il devient plus offensif et est ensuite convaincu par Hyuga de revenir à l'équipe du Japon.
+
+|date_glo = 
+|date_jap =
+
+}}

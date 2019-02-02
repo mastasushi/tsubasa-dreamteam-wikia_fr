@@ -1,0 +1,97 @@
+{{Fiche joueur new
+|joueur = Karl Heinz Schneider
+|nom_joueur = La Fierté du jeune empereur
+|type = vitesse
+|poste = AT
+|pays = Allemagne
+|équipe = Allemagne (juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000027
+|image = 000027-schneider-tirfeu-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 1027
+
+|dribble = 5558
+|dribble_bonus = 926
+|tir = 6653
+|tir_bonus = 1109
+|passe = 4534
+|passe_bonus = 756
+
+|tacle = 5628
+|tacle_bonus = 938
+|contre = 5011
+|contre_bonus = 835
+|interception = 4476
+|interception_bonus = 746
+
+|rapidité = 5507
+|rapidité_bonus = 918
+|puissance = 5311
+|puissance_bonus = 885
+|technicité = 4844
+|technicité_bonus = 807
+
+|base_id = 000003
+|base_image = 000003-schneider-tirfeu-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 856
+
+|base_dribble = 3704
+|base_dribble_bonus = 617
+|base_tir = 4438
+|base_tir_bonus = 740
+|base_passe = 3023
+|base_passe_bonus = 504
+
+|base_tacle = 3756
+|base_tacle_bonus = 626
+|base_contre = 3341
+|base_contre_bonus = 557
+|base_interception = 2981
+|base_interception_bonus = 497
+
+|base_rapidité = 3672
+|base_rapidité_bonus = 612
+|base_puissance = 3539
+|base_puissance_bonus = 590
+|base_technicité = 3230
+|base_technicité_bonus = 538
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Puissance offensive de classe mondiale
+|team_skill_rang = S
+|team_skill_description = Joueurs Non Japonais : Attaque +5%
+
+|TS_main = Tir du feu
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 450
+|TS_main_coût = 415
+|TS_main_effet = {{effet_souffle|2}}
+
+|TS_2 = Tacle du kaiser
+|TS_2_type = Tacle
+|TS_2_rang = A
+|TS_2_puissance = 320
+|TS_2_coût = 335
+
+|passive_skill = Tueur d'arrêts
+|passive_skill_rang = S
+|passive_skill_description = Lorsque le gardien déclenche un arrêt : Paramètres +20%
+|passive_skill_jap_only = Oui
+
+|taille = 171
+|poids = 58
+
+|description = Le "jeune empereur d'Allemagne" combine puissance, vitesse et capacité technique. Son talent formidable et sa capacité à marquer des buts lui donnent une place centrale dans l'équipe. Il vise le but armé de son imparable "tir du feu".
+
+|jap = Oui
+|glo = Oui
+}}

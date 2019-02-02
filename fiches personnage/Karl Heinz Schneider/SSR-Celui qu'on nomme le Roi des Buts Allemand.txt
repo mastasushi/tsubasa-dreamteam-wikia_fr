@@ -1,0 +1,103 @@
+{{Fiche joueur new
+|joueur = Karl Heinz Schneider
+|nom_joueur = Celui qu'on nomme le Roi des Buts Allemand
+|type = vitesse
+|poste = AT
+|pays = Allemagne
+|équipe = Allemagne (Juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000535
+|image = 000535_schneider-feintedefeu-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 1023
+
+|dribble = 5009
+|dribble_bonus = 835
+|tir = 7104
+|tir_bonus = 1184
+|passe = 4714
+|passe_bonus = 786
+
+|tacle = 5064
+|tacle_bonus = 844
+|contre = 4663
+|contre_bonus = 777
+|interception = 4616
+|interception_bonus = 769
+
+|rapidité = 4907
+|rapidité_bonus = 818
+|puissance = 6253
+|puissance_bonus = 1042
+|technicité = 5114
+|technicité_bonus = 852
+
+|base_id = 000534
+|base_image = 000534_schneider-feintedefeu-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 854
+
+|base_dribble = 3344
+|base_dribble_bonus = 557
+|base_tir = 4736
+|base_tir_bonus = 789
+|base_passe = 3138
+|base_passe_bonus = 523
+
+|base_tacle = 3374
+|base_tacle_bonus = 562
+|base_contre = 3114
+|base_contre_bonus = 519
+|base_interception = 3076
+|base_interception_bonus = 513
+
+|base_rapidité = 3275
+|base_rapidité_bonus = 546
+|base_puissance = 4163
+|base_puissance_bonus = 694
+|base_technicité = 3404
+|base_technicité_bonus = 567
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Puissance Offensive Vitesse Folle
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Vitesse : Attaque +5%
+
+|TS_main = Feinte du feu
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_coût = 285
+|TS_main_puissance = 385
+
+|TS_2 = Combinaison germanique
+|TS_2_type = Combinaison
+|TS_2_rang = A
+|TS_2_puissance = 340
+|TS_2_coût = 365
+|TS_2_combinaison = {{combinaison|Schester|Margus|Karlz|Schneider}}
+
+|TS_3 = Passe puissante
+|TS_3_type = Passe
+|TS_3_rang = A
+|TS_3_puissance = 250
+|TS_3_coût = 150
+
+|passive_skill = Tueur de Wakabayashi
+|passive_skill_rang = A
+|passive_skill_description = Paramètres + 30% face à Wakabayashi
+
+|taille = 171
+|poids = 58
+
+|description = Le "Jeune empereur d'Allemagne" combine puissance, vitesse et capacité technique. Son talent formidable et sa capacité à marquer des buts lui donnent une place centrale dans l'équipe. Il vise le but armé de son imparable "Tir du feu".
+
+|jap = Oui
+|glo = Oui
+
+}}

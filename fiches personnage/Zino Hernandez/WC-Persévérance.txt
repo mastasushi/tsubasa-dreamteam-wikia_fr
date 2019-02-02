@@ -1,0 +1,77 @@
+{{Fiche joueur
+|joueur = Zino Hernandez
+|nom_joueur =  La persévérance du Gardien Parfait
+|type = force
+|poste = GB
+|pays = Italie
+|équipe = Équipe d'Italie (2018)
+|époque = Autres Séries
+|acquisition = Pool
+
+|id = 001097
+|image = 13900102.png
+|rareté = UR
+
+|endurance = 951
+
+|coup_de_poing = 6928
+|coup_de_poing_bonus = 1386
+|arrêt = 5925
+|arrêt_bonus = 1185
+
+|rapidité = 4363
+|rapidité_bonus = 873
+|puissance = 5986
+|puissance_bonus = 1197
+|technicité = 4831
+|technicité_bonus = 966
+
+|base_id = 001096
+|base_image = 13900101.png
+|base_rareté = SSR
+
+|base_endurance = 823
+
+|base_coup_de_poing = 4618
+|base_coup_de_poing_bonus = 924
+|base_arrêt = 3950
+|base_arrêt_bonus = 790
+
+|base_rapidité = 2908
+|base_rapidité_bonus = 582
+|base_puissance = 3990
+|base_puissance_bonus = 798
+|base_technicité = 3220
+|base_technicité_bonus = 644
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = L'éveil du Football Européen
+|team_skill_rang = S
+|team_skill_description = Joueurs Européens : Tous Paramètres + 10%
+
+|TS_main = Bel arrêt miraculeux
+|TS_main_type = Coup de poing
+|TS_main_rang = S
+|TS_main_coût = 450
+|TS_main_puissance = 205
+
+|TS_2 = Main droite en or
+|TS_2_type = Arrêt
+|TS_2_rang = A
+|TS_2_puissance = 320
+|TS_2_coût = 290
+
+|passive_skill = Coup incendiaire
+|passive_skill_rang = A
+|passive_skill_description = Moins il y a d'Endurance, plus l'intensité de la TS augmente (20% au max.)
+|passive_boost = 20
+
+|taille = 178
+|poids = 72
+
+|description = Un GB qui représente bien sûr l'Italie mais aussi l'Europe. Il possède un bras droit “en or”, et comme durant l'époque où il jouait en équipe Juniors il est resté pendant toute une année sans prendre aucun but, on le surnomme « Perfect Keeper ».
+
+|limité = oui
+}}

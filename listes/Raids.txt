@@ -1,0 +1,96 @@
+<tabber>
+SSR=
+
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+misaki2-farm-thumb.jpg|'''Taro Misaki''' - L'âme indomptable|link=Taro Misaki - L Ame Indomptable
+
+misaki2-farm-thumb.jpg|'''Brian Cruyfford''' - Un jeu de toute beauté|link=Brian Cruyfford - Un jeu de toute beauté
+
+000546-espadas-dribblechevauchement-vitesse-farm--thumb.png|'''Ricardo Espadas''' - Le condor blanc du Mexique|link=Ricardo Espadas - Le condor blanc du Mexique
+
+000443-santana-passefeuillemorte-force-farm--thumb.png|'''Carlos Santana''' - Le génie ayant reçu une bénédiction divine|link=Carlos Santana - Le génie ayant reçu une bénédiction divine
+
+000442_Tsubasa Ohzora-thumb.jpg|'''Tsubasa Ohzora''' - Le Numéro 10 de Sao Paulo|link=Tsubasa_Ohzora_-_Le_Numéro_10_de_Sao_Paulo
+
+000427-akai-contreepaule-technique-farm--thumb.png|'''Tomeya Akai''' - Marquage entêté|link=Tomeya Akai - marquage entêté
+
+hernandes1-farm-thumb.jpg|'''Zino Hernandez''' - La dernière forteresse du Catenaccio|link=Zino Hernandez - La dernière forteresse du Catenaccio
+
+masao1-farm-thumb.jpg|'''Masao Tachibana''' - La carte maîtresse de Hanawa en attaque|link=Masao_Tachibana_-_L_Arme_Secrète_de_l_Attaque_de_la_Hanawa
+
+kazuo1-farm-thumb.jpg|'''Kazuo Tachibana''' - La carte maîtresse de Hanawa en attaque|link=Kazuo_Tachibana_-_L_Arme_Secrète_de_l_Attaque_de_Hanawa
+
+000401-Gentile-contrePuissant-force-farm--thumb.png|'''Salvatore Gentile''' - Star Italienne de la prochaine génération|link=Salvatore Gentile - Star Italienne de la prochaine génération
+
+000399-shingo-dribblefeinteesquive-vitesse-farm--thumb.png|'''Shingo Aoi''' - Le prince du soleil continue de briller|link=Shingo Aoi - Le prince du soleil continue de briller
+
+000342_Hikaru Matsuyama-interceptionForcee-vitesse-farm--thumb.jpg|'''Hikaru Matsuyama''' - Un leadership plein de vitalité|link=Hikaru Matsuyama - Un leadership plein de vitalité
+
+000339_Juan Diaz-taclecritique-force-farm-thumb.jpg|'''Juan Diaz''' - Un Beau Jeu Plein d'Idées|link=Juan Diaz - Un Beau Jeu Plein d'Idées
+
+000320-victorino-taclegrandevitesse-vitesse-farm--thumb.png|'''Ramon Victorino''' - Le regard perçant de la panthère noire|link=Ramon Victorino - Le regard perçant de la panthère noire
+
+000317-owairan-voleedeferlante-technique-farm--thumb.png|'''Mark Owairan''' - Le lion du désert|link=Mark owairan - Le lion du désert
+
+000282-levin-passealalevin-vitesse-farm--thumb.png|'''Stefan Levin''' - La Sentence du Dieu de la Destruction|link=Stefan Levin - La Sentence du Dieu de la Destruction
+
+000280-Rivaul-SkyhawkShoot-technique-farm--thumb.png|'''Rivaul''' - Le Faucon du Terrain|link=Rivaul_-_Le_faucon_du_terrain
+
+000240_Jun Misugi-retourneUltime-technique-farm-thumb.jpg|'''Jun Misugi''' - L'arme Secrète du Japon|link=Jun Misugi - L'Arme Secrète du Japon
+
+000237_Juan Diaz-twinDriveShoot-force-farm--thumb.jpg|'''Juan Diaz''' - La Superstar de l'Argentine|link=Juan Diaz - Super Star Argentine
+
+000233_Pierre-dribbleartistique-vitesse-farm--thumb.jpg|'''Elcide Pierre''' - Le Chevalier de la Rose|link=Elcide Pierre - Le Chevalier de la Rose
+
+000230_Kojiro Hyuga-voleetigre-force-farm-thumb.jpg|'''Kojiro Hyuga''' - Véritable As des Buts|link=Kojiro Hyuga - Véritable As des Buts
+
+000227_Taro Misaki-champagneduo-vitesse-farm-thumb.jpg|'''Taro Misaki''' - Football Champagne|link=Taro Misaki - Football Champagne
+
+000224_Ohzora Tsubasa-tircontrefleche-vitesse-farm-thumb.jpg|'''Tsubasa Ohzora''' - L'Aura du vainqueur|link=Tsubasa Ohzora - L'Aura du vainqueur
+
+000221-santana-retourneacrobatiqueroulant-technique-farm--thumb.png|'''Carlos Santana''' - Le Cyborg du Football|link=Carlos Santana - Le Cyborg du Football
+
+000220_Karl-Heinz Schneider-fireshot-force-farm-thumb.jpg|'''Karl-Heinz Schneider''' - La Couronne du Champion|link=Karl-Heinz Schneider - La Couronne du Champion
+</gallery>
+
+|-|SR=
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+000544-pascual-dribblefeinte-vitesse-farm--thumb.png|'''Alan pascual''' - Passe décisive au génie|link=Alan Pascual - Passe décisive au génie
+000514-feixiang-powershoot-vitesse-farm--thumb.png|'''Fei Xiang''' - Le buteur de la Chine|link=Fei Xiang - Le buteur de la Chine
+000473-ishizaki-dribblefou-force-farm--thumb.png|'''Ryo Ishizaki''' - Super volonté invincible|link=Ryo Ishizaki - Super volonté invincible
+000471-sano-tacle-vitesse-farm--thumb.png|'''Mitsuru Sano''' - L'acrobate|link=Mitsuru Sano - L'acrobate
+000425-brolin-taclefortepuissance-force-farm--thumb.png|'''Brolin''' - Une défense fortifiée en Angleterre|link=Brolin - Une défense fortifiée en Angleterre
+000354-pepegoldenduosaopaulo-force-farm--thumb.png|'''Pépé''' - Une amitié dépassant les frontières|link=Pépé - Une amitié dépassant les frontières
+000353-leo-braziliangoldenduo-vitesse-farm--thumb.png|'''Léo''' - Accompagnement subtil|link=Léo - Accompagnement subtil
+000350-muller-brasdegeant-force-farm--thumb.png|'''Deuter Müller''' - Le mur de fer du géant|link=Deuter Müller - Le mur de fer du géant
+000343-shingo-taclerapide-vitesse-farm--thumb.png|'''Shingo Aoi''' - Une dynamo qui ne connaît pas la fatigue|link=Shingo Aoi - Une dynamo qui ne connaît pas la fatigue
+000338-misaki-goldenduo-technique-farm--thumb.png|'''Taro Misaki''' - Un retour miraculeux|link=Taro Misaki - Un retour miraculeux
+000318-natureza-feintepetitpont-technique-farm--thumb.png|'''Natureza''' - Le Garçon Prodige|link=Natureza - Le Garçon Prodige
+000315-bunnaak-dribblemuaythai-force-farm--thumb.png|'''Singprasert Bunnaak''' - Combattant Muay thaï|link=Singprasert Bunnaak - Combattant Muay Thaï
+000313-vulcan-piedgauchedjinn-force-farm--thumb.png|'''Vulcan''' - L'as caché de l'Arabie Saoudite|link=Vulcan - L'as caché de l'Arabie Saoudite
+000278-schneider-dribblekaizer-vitesse-farm--thumb.png|'''Karl Heinz Schneider''' - Un chasseur de buts sans pitié|link=Karl Heinz Schneider - Un chasseur de buts sans pitié
+000276-hyuga-tirtigre-force-farm--thumb.png|'''Kojiro Hyuga''' - Un tigre qui a soif de batailles|link=Kojiro Hyuga - Un tigre qui a soif de bataille
+000241-pierre-passeglissante-force-farm--thumb.png|'''Elcide Pierre''' - Le général de la France|link=Elcide Pierre - Le Géneral de la France
+000239-tsubasa-retourne-vitesse-farm--thumb.png|'''Tsubasa Ohzora''' - En route vers une glorieuse victoire|link=Tsubasa Ohzora - En route vers une glorieuse victoire
+000238-matsuyama-passeaigle-force-farm--thumb.png|'''Hikaru Matsuyama''' - Excellente vision stratégique|link=Hikaru Matsuyama - Excellente vision stratégique
+000236-wakabayashi-poingsggk-vitesse-farm--thumb.png|'''Genzo Wakabayashi''' - Défense infaillible|link=Genzo Wakabayashi - Défense infaillible
+000235-owairan-interceptioncalculee-technique-farm--thumb.png|'''Mark Owairan''' - Tour de contrôle Saoudienne|link=Mark Owairan - Tour de contrôle Saoudienne
+000232-wakashimazu-couparriere-technique-farm--thumb.png|'''Ken wakashimazu''' - Gardien ceinture noire|link=Ken Wakashimazu - Gardien ceinture noire
+000231-sawada-duomeiwa-force-farm--thumb.png|'''Takeshi Sawada''' - Partenaire de confiance|link=Takeshi Sawada - partenaire de confiance
+000229-Gentile-défenseAngleDroit-technique-farm--thumb.png|'''Salvatore Gentile''' - Le Pivot du Catenaccio|link=Salvatore Gentile - Le Pivot du Catenaccio
+000228-shingo-feinteangledroit-vitesse-farm--thumb.png|'''Shingo Aoi''' - Le symbole de la vigueur du Japon|link=Shingo Aoi - Le symbole de la vigueur du Japon
+000226-misugi-tacleequipe-technique-farm--thumb.png|'''Jun Misugi''' - Capacité défensive tête froide|link=Jun Misugi - Capacité défensive tête froide
+000225-jito-combisano2-force-farm--thumb.png|'''Hiroshi Jito''' - Puissance énorme|link=Hiroshi Jito - Puissance énorme
+000223-diaz-tirpirouette-technique-farm--thumb.png|'''Juan Diaz''' - Le prodige de la décennie|link=Juan Diaz - Le prodige de la décennie
+000222-soda-taclerasoir-vitesse-farm-invoc.png|'''Makoto Soda''' - Sabre aiguisé|link=Makoto Soda - Sabre aiguisé
+000219-hyuga-dribbletigre-force-farm--thumb.png|'''Kojiro Hyuga''' - La fierté du tigre féroce|link=Kojiro Hyuga - La fierté du tigre féroce
+000218-misaki-classemondiale-technique-farm--thumb.png|'''Taro Misaki''' - Super Technicien|link=Taro Misaki - Super technicien
+000217-nitta-voleefaucon-vitesse-farm--thumb.png|'''Shun Nitta''' - Combattant faucon|link=Shun Nitta - Combattant faucon
+000216-hernandez-arretunemain-vitesse-farm--thumb.png|'''Zino Hernandez''' - Défense parfaite des cages|link=Zino Hernandez - Défense parfaite des cages
+000215-schneider-taclekaizer-force-farm--thumb.png|'''Karl Heinz Schneider''' - Victoire totale|link=Karl Heinz Schneider - Victoire totale
+000214-tsubasa-passefeuillemorte-technique-farm--thumb.png|'''Tsubasa Ohzora''' - La Tour de Contrôle|link=Tsubasa Ohzora - La tour de contrôle
+
+</gallery>
+
+</tabber>

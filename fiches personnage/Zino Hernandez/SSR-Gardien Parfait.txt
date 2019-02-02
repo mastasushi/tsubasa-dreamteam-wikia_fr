@@ -1,0 +1,77 @@
+{{Fiche joueur new
+|joueur = Zino Hernandez
+|nom_joueur = Gardien Parfait
+|type = vitesse
+|poste = GB
+|pays = Italie
+|équipe = Italie (Juniors)
+|époque = Juniors
+|acquisition = Recrutement
+
+|id = 000047
+|image = 000047.png
+|rareté = UR
+
+|endurance = 848
+
+|coup_de_poing = 5138
+|coup_de_poing_bonus = 856
+|arrêt = 5374
+|arrêt_bonus = 896
+
+|rapidité = 4700
+|rapidité_bonus = 783
+|puissance = 4211
+|puissance_bonus = 702
+|technicité = 4217
+|technicité_bonus = 703
+
+|SSR_id = 000023
+|SSR_image = 000023.png
+
+|SSR_endurance = 707
+
+|SSR_coup_de_poing = 3424
+|SSR_coup_de_poing_bonus = 571
+|SSR_arrêt = 3581
+|SSR_arrêt_bonus = 597
+
+|SSR_rapidité = 3133
+|SSR_rapidité_bonus = 522
+|SSR_puissance = 2807
+|SSR_puissance_bonus = 468
+|SSR_technicité = 2810
+|SSR_technicité_bonus = 468
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Rempart de Classe Mondiale
+|team_skill_rang = A
+|team_skill_description = Joueurs Non-Japonais : Défense +3%
+
+|passive_skill = Tueur de Type Force
+|passive_skill_rang = S
+|passive_skill_description = Face aux Joueurs Type Force : Paramètres +35%
+
+|TS_main = Main droite en or
+|TS_main_type = arret
+|TS_main_rang = S
+|TS_main_puissance = 450
+|TS_main_coût = 345
+
+|TS_2 = Coup des deux poings
+|TS_2_type = coup_de_poing
+|TS_2_rang = A
+|TS_2_puissance = 260
+|TS_2_coût = 140
+
+|taille = 178
+|poids = 72
+
+|description = Un des gardiens les plus célèbres non seulement en Italie, mais aussi dans toute l'Europe. N'ayant pas laissé passer un seul but pendant une année, il est connu sous le nom de "Perfect Keeper". Lors du Tournoi international juniors, c'est lui qui met des bâtons dans les roues de l'équipe du Japon.
+
+|date_glo = 
+|date_jap =
+
+}}

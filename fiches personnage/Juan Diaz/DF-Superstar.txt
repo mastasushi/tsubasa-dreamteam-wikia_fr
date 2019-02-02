@@ -88,17 +88,14 @@
 |TS_3_puissance = 315
 |TS_3_coût = 185
 
-|passive_skill = ?
-|passive_skill_rang = ?
+|passive_skill = Tueur de type Technique
+|passive_skill_rang = A
 |passive_skill_description = Contre les joueurs de type technique : Paramètres +15%
-|passive_skill_jap_only = Oui
+|passive_boost = 15
 
 |taille = 164
 |poids = 51
 
 |description = Diaz est un génie du football. Il affine ses techniques depuis son plus jeune âge. Bien plus que sa capacité en tant que joueur solo, elle-même déjà impressionnante, son jeu combiné avec Pascual est vraiment exceptionnel. Il ressent un sentiment de rivalité envers un autre "génie" : Tsubasa.
-
-|jap = Oui
-|glo = Oui
 
 }}

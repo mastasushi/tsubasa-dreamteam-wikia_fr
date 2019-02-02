@@ -1,0 +1,98 @@
+{{Fiche joueur new
+|joueur = Karl Heinz Schneider
+|nom_joueur = Le regard perçant du jeune empereur
+|type = vitesse
+|poste = AT
+|pays = Allemagne
+|équipe = Allemagne (juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000203
+|image = 000203-schneider-twinshoottigrefeu-vitesse-invoc.png
+|rareté = UR
+
+|endurance = 974
+
+|dribble = 4538
+|dribble_bonus = 840
+|tir = 6987
+|tir_bonus = 1010
+|passe = 3687
+|passe_bonus = 685
+
+|tacle = 5201
+|tacle_bonus = 855
+|contre = 4231
+|contre_bonus = 756
+|interception = 4305
+|interception_bonus = 678
+
+|rapidité = 4994
+|rapidité_bonus = 832
+|puissance = 4816
+|puissance_bonus = 803
+|technicité = 4400
+|technicité_bonus = 733
+
+|base_id = 000197
+|base_image = 000197-schneider-twinshoottigrefeu-vitesse-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 811
+
+|base_dribble = 3020
+|base_dribble_bonus = 559
+|base_tir = 4668
+|base_tir_bonus = 675
+|base_passe = 2454
+|base_passe_bonus = 456
+
+|base_tacle = 3465
+|base_tacle_bonus = 570
+|base_contre = 2823
+|base_contre_bonus = 505
+|base_interception = 2873
+|base_interception_bonus = 452
+
+|base_rapidité = 3336
+|base_rapidité_bonus = 556
+|base_puissance = 3216
+|base_puissance_bonus = 536
+|base_technicité = 2930
+|base_technicité_bonus = 488
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Grosse attaque germanique
+|team_skill_rang = S
+|team_skill_description = Equipe d'Allemagne (juniors) : Attaque +10%
+
+|TS_main = Twin shoot tigre et feu
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 475
+|TS_main_coût = 435
+|TS_main_effet = {{effet_souffle|3}}
+|TS_main_combinaison = {{Combinaison|schneider|hyuga}}
+
+|TS_2 = Dribble du kaiser
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 300
+|TS_2_coût = 205
+
+|passive_skill = Combinaison (Hyuga)
+|passive_skill_rang = A
+|passive_skill_description = Quand Kojiro Hyuga est dans la même équipe : Paramètres + 20%
+|passive_skill_jap_only = Oui
+
+|taille = 171
+|poids = 58
+
+|description = Le "jeune empereur d'Allemagne" combine puissance, vitesse et capacité technique. Son talent formidable et sa capacité à marquer des buts lui donnent une place centrale dans l'équipe. Il vise le but armé de son imparable "tir du feu".
+
+|jap = Oui
+|glo = Oui
+}}

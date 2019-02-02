@@ -1,0 +1,70 @@
+{{Top
+  |{{Top ligne
+    |image = 000270-Natureza-tirMiraculeux-vitesse-fest--thumb.png
+    |image = 000270-Natureza-tirMiraculeux-vitesse-fest--thumb.jpg
+    |page = Natureza - Le Sauveur du Brésil
+    |statistiques = 53524
+    |teamskill = Joueurs Type Vitesse :<br/>Attaque +10%
+    |TS_main = Tir feuille morte planeur miraculeux
+    |TS_main_type = tir
+    |TS_main_rang = S
+    |TS_2 = Feinte dédoublement à grande vitesse	
+    |TS_2_type = dribble
+    |TS_2_rang = A
+    |TS_3 = Tacle mouvement arrière
+    |TS_3_type = tacle
+    |TS_3_rang = A
+  }}
+  |{{Top ligne
+    |image = 000913-natureza-interceptioneclair-technique-invoc--thumb.png
+    |page = Natureza - La dernière carte à jouer
+    |statistiques = 48900
+    |teamskill = Joueurs brésiliens :<br/>Attaque +10%
+    |TS_main = Interception éclair
+    |TS_main_type = interception
+    |TS_main_rang = S
+    |TS_2 = Feinte dédoublement à grande vitesse	
+    |TS_2_type = dribble
+    |TS_2_rang = A
+    |TS_3 = Tir de la feuille morte volante
+    |TS_3_type = tir
+    |TS_3_rang = A
+  }}
+  |{{Top ligne
+    |image = 000822-Natureza-duoDeReveEX-technique-event--thumb.png
+    |image = 000822-Natureza-duoDeReveEX-technique-event.png
+    |page = Natureza - Le roi du Foot choisi par le monde
+    |statistiques = 43380
+    |teamskill = Joueurs brésiliens :<br/>Tir +20%
+    |TS_main = Duo de rêve (EX)
+    |TS_main_type = combinaison
+    |TS_main_rang = A
+    |TS_2 = Tir de la feuille morte volante	
+    |TS_2_type = tir
+    |TS_2_rang = A
+    |TS_3 = Tacle mouvement arrière
+    |TS_3_type = dribble
+    |TS_3_rang = A
+  }}
+  |{{Top ligne
+    |image = 000820-Natureza-duoDeReveEX-vitesse-event--thumb.png
+    |image = 000820-Natureza-duoDeReveEX-vitesse-event.png
+    |page = Natureza - Le jeune roi du football
+    |statistiques = 35375
+    |teamskill = Joueurs Brésiliens :<br/>Passe +5%
+    |TS_main = Duo de rêve (EX)
+    |TS_main_type = combinaison
+    |TS_main_rang = A
+  }}
+  |{{Top ligne
+    |image = 000318-Natureza-feintePetitPont-technique-farm--thumb.png
+    |image = 000318-Natureza-feintePetitPont-technique-farm.png
+    |page = Natureza - Le Garçon Prodige
+    |statistiques = 19791
+    |teamskill = Joueurs Type Technique :<br/>Dribble +1%
+    |TS_main = Feinte petit pont
+    |TS_main_type = dribble
+    |TS_main_rang = C
+  }}
+}}
+

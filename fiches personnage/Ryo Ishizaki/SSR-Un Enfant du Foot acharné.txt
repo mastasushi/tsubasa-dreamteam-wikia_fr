@@ -1,6 +1,6 @@
 {{Fiche joueur new
 |joueur = Ryo Ishizaki
-|nom_joueur = Lycée
+|nom_joueur = Un Enfant du Foot acharné
 |type = vitesse
 |poste = DF
 |pays = Japon

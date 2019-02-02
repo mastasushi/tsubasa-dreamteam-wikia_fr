@@ -1,0 +1,102 @@
+{{Fiche joueur new
+|joueur = Natureza
+|nom_joueur = La dernière carte à jouer
+|type = technique
+|poste = MO
+|pays = Brésil
+|équipe = Brésil (espoirs)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000914
+|image = 000914-natureza-interceptioneclair-technique-invoc.png
+|rareté = UR
+
+|endurance = 1058
+
+|dribble = 5405
+|dribble_bonus = 901
+|tir = 6012
+|tir_bonus = 1002
+|passe = 5196
+|passe_bonus = 866
+
+|tacle = 4902
+|tacle_bonus = 817
+|contre = 4190
+|contre_bonus = 698
+|interception = 6673
+|interception_bonus = 1112
+
+|rapidité = 5194
+|rapidité_bonus = 866
+|puissance = 5035
+|puissance_bonus = 839
+|technicité = 6293
+|technicité_bonus = 1049
+
+|base_id = 000913
+|base_image = 000913-natureza-interceptioneclair-technique-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 883
+
+|base_dribble = 3602
+|base_dribble_bonus = 600
+|base_tir = 4006
+|base_tir_bonus = 668
+|base_passe = 3468
+|base_passe_bonus = 578
+
+|base_tacle = 3270
+|base_tacle_bonus = 545
+|base_contre = 2792
+|base_contre_bonus = 465
+|base_interception = 4450
+|base_interception_bonus = 742
+
+|base_rapidité = 3464
+|base_rapidité_bonus = 577
+|base_puissance = 3359
+|base_puissance_bonus = 560
+|base_technicité = 4199
+|base_technicité_bonus = 700
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Grosse attaque du foot brésilien
+|team_skill_rang = S
+|team_skill_description = Joueurs brésiliens : Attaque +10%
+
+|TS_main = Interception éclair
+|TS_main_type = Interception
+|TS_main_rang = S
+|TS_main_puissance = 455
+|TS_main_coût = 370
+
+|TS_2 = Feinte dédoublement à grande vitesse
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 300
+|TS_2_coût = 215
+
+|TS_3 = Tir de la feuille morte volante
+|TS_3_type = Tir
+|TS_3_rang = A
+|TS_3_puissance = 325
+|TS_3_coût = 350
+|TS_3_effet = {{effet_distance}}
+
+|passive_skill = Renforcement interception automatique
+|passive_skill_rang = S
+|passive_skill_description = Au moment d'une interception, 50% de chance d'activer une TS ( Endurance utilisée: 0)
+
+|taille = 174
+|poids = 62
+
+|description = Natureza a grandi dans un petit village dans les profondeurs de l'Amazonie. Roberto Hongo, qui voit en lui le potentiel de surpasser même Tsubasa, l'invite à se joindre à l'équipe du Brésil. Il entre sur le terrain juste avant la fin de la seconde mi-temps de la finale et marque un but contre Wakabayashi depuis une zone en dehors de la surface de réparation.
+
+|jap = Oui
+|glo = Oui
+}}

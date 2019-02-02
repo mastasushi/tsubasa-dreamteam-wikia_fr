@@ -1,0 +1,18 @@
+<gallery captionalign="center" bordersize="none" captionsize="medium" widths="105" captionposition="below" columns="dynamic" navigation="true">
+
+001022-doleman-superarret-technique-invoc--thumb.png|'''Hans Doleman''' - Le mur de fer du géant|link=Hans Doleman - Le mur de fer du géant
+
+001020-casagrande-contrehautepuissance-force-invoc--thumb.png|'''Casa Grandé''' - Physique écrasant|link=Casa Grandé - Physique écrasant
+
+001018-margus-passepuissante-vitesse-invoc--thumb.png|'''Manfred Margus''' - Buteur rustique|link=Manfred Margus - Buteur rustique
+
+000921-gentile-dribblepuissant-vitesse-invoc--thumb.png|'''Salvatore Gentile''' - Défense Offensive de l'Italie|link=Salvatore Gentile - Défense Offensive de l'Italie
+
+000461-amoro-superarret-vitesse-invoc--thumb.png|'''Amoro''' - Le Dieu des cages de la France|link=Amoro - Le Dieu des cages de la France
+
+000392-gentile-taclefortepuissance-force-invoc--thumb.png|'''Salvatore Gentile''' - Le Meilleur Libéro d'Europe|link=Salvatore Gentile - Le Meilleur Libéro d'Europe
+
+000076-gentile-taclepuissant-force-invoc--thumb.png|'''Salvatore Gentile''' - Le Défenseur Dandy de l'Italie|link=Salvatore Gentile - Le Défenseur Dandy de l'Italie
+
+000056-pascual-tircombine-technique-invoc--thumb.png|'''Alan Pascual''' - Foot de rue|link=Alan Pascual - Foot de rue
+</gallery>

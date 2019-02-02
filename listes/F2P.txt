@@ -1,0 +1,47 @@
+<gallery captionalign="center" bordersize="none" captionsize="medium" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+001067-zhongming-passebeaute-technique-conf--thumb.png|'''Wang Zhongming''' - Machine à centres|link=Wang Zhongming - Machine à centres
+
+000907-alberto-interceptionforcee-technique-conf--thumb.png|'''Alberto''' - Défense parfaite|link=Alberto - Défense parfaite
+
+000692-schneider-tetefeu-force-conf--thumb.png|'''Karl Heinz Schneider''' - Sensations en tant que buteur|link=Karl Heinz Schneider - Sensations en tant que buteur
+
+000610-sakhon-tripleretourne-vitesse-conf--thumb.png|'''Sakhon Konsawatt''' - Combinaison de frères|link=Sakhon Konsawatt - Combinaison de frères
+
+000449-nitta-taclegrandevitesse-vitesse-conf--thumb.png|'''Shun Nitta''' - Coup de tonnerre du Japon|link=Shun Nitta - Coup de tonnerre du Japon
+
+000378-misugi-jeujambes-force-conf--thumb.png|'''Jun Misugi''' - La carte maîtresse du Japon|link=Jun Misugi - La carte maîtresse du Japon
+
+000210 Tsubasa-goldentrio-technique-conf-thumb.png|'''Tsubasa Ozora''' - Le génie du Japon|link=Tsubasa Ozora - Le génie du Japon
+
+001073-cha-tircharlourdex-technique-ligue--thumb.png|'''Cha Incheon''' - Jambes rigides rugissantes|link=Cha Incheon - Jambes rigides rugissantes
+
+001069-junren-interceptionrapide-vitesse-ligue--thumb.png|'''Wu Junren''' - Meneur de jeu de la Chine|link=Wu Junren - Meneur de jeu de la Chine
+
+000909-leo-grossefrappe-vitesse-ligue--thumb.png|'''Léo''' - Superbe soutien|link=Léo - Superbe soutien
+
+000690-wakabayashi-superarret-technique-ligue--thumb.png|'''Genzo Wakabayashi''' - Défense ultime|link=Genzo Wakabayashi - Défense ultime
+
+000608-faran-triokonsawatt-vitesse-ligue--thumb.png|'''Faran Konsawatt''' - Combinaison de frères|link=Faran Konsawatt - Combinaison de frères
+
+000451-hernandez-maingaucheargent-force-ligue--thumb.png|'''Zino Hernandez''' - Intuition naturelle|link=Zino Hernandez - Intuition naturelle
+
+000340-diaz-feuillemortesalto-technique-ligue--thumb.png|'''Juan Diaz''' - Le génie de l'Argentine|link=Juan Diaz - Le génie de l'Argentine
+
+000208 Misaki-doubletete-vitesse-ligue-thumb.png|'''Taro Misaki''' - Artiste ambitieux|link=Taro Misaki - Artiste ambitieux
+
+001071-feixiang-powershoot-force-pvp--thumb.png|'''Fei Xiang''' - Tour d'Asie|link=Fei Xiang - Tour d'Asie
+
+000694-soda-contrecoulissant-technique-pvp--thumb.png|'''Makoto Soda''' - Lame courante|link=Makoto Soda - Lame courante
+
+000911-pepe-dribblesudamericainvitesse-force-pvp--thumb.png|'''Pépé''' - Ambition insatiable|link=Pépé - Ambition insatiable
+
+000612-chana-lanceroquette-vitesse-pvp--thumb.png|'''Chana Konsawatt''' - Combinaison de frères|link=Chana Konsawatt - Combinaison de frères
+
+000479-kaltz-tacleherisson-technique-pvp--thumb.png|'''Hermann Kaltz''' - Goût raffiné allemand|link=Hermann Kaltz - Goût raffiné allemand
+
+000341-pierre-magnifiqueinterception-vitesse-pvp--thumb.png|'''Elcide Pierre''' - L'artiste du terrain|link=Elcide Pierre - L'artiste du terrain
+
+000209 Hyuga-twinshoot-force-pvp-thumb.png|'''Kojiro Hyuga''' - Le réveil du tigre|link=Kojiro Hyuga - Le réveil du tigre
+
+</gallery>

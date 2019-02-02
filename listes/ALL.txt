@@ -1,0 +1,6 @@
+{{#tag:tabview |
+  Personnages_SSR{{!}}SSR
+  Personnages_SSR-limited{{!}}Limités
+  Tier_List_Goals{{!}}Goals
+  Personnages_N{{!}}N
+}}

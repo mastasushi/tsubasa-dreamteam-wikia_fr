@@ -1,0 +1,75 @@
+{{Fiche joueur
+|joueur = Salinas
+|nom_joueur = Le gardien de génie du Brésil
+|type = force
+|poste = GB
+|pays = Brésil
+|équipe = Brésil (Espoirs)
+|époque = Espoirs
+|acquisition = Dream Collection
+
+|id = 000654
+|image = 000654.png
+|rareté = UR
+
+|endurance = 913
+
+|coup_de_poing = 4177
+|coup_de_poing_bonus = 696
+|arrêt = 8690
+|arrêt_bonus = 1448
+
+|rapidité = 4271
+|rapidité_bonus = 712
+|puissance = 4921
+|puissance_bonus = 820
+|technicité = 5384
+|technicité_bonus = 897
+
+|base_id = 000653
+|base_image = 000653.png
+|base_rareté = SSR
+
+|base_endurance = 762
+
+|base_coup_de_poing = 2785
+|base_coup_de_poing_bonus = 464
+|base_arrêt = 5795
+|base_arrêt_bonus = 966
+
+|base_rapidité = 2844
+|base_rapidité_bonus = 474
+|base_puissance = 3281
+|base_puissance_bonus = 547
+|base_technicité = 3590
+|base_technicité_bonus = 598
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = La fierté des champions Brésiliens
+|team_skill_rang = A
+|team_skill_description = Joueurs Brésiliens : Tous Paramètres +5%
+
+|TS_main = Réflexes de génie
+|TS_main_type = arret
+|TS_main_rang = S
+|TS_main_puissance = 455
+|TS_main_coût = 350
+
+|TS_2 = Coup des deux poings
+|TS_2_type = Coup_de_poing
+|TS_2_rang = A
+|TS_2_puissance = 260
+|TS_2_coût = 140
+
+|passive_skill = Maître des Arrêts
+|passive_skill_rang = A
+|passive_skill_description = Quand Salinas lance un arrêt mais qui ne peut pas bloquer, grande chance de capter le ballon
+
+|taille = 176
+|poids = 65
+
+|description = Le Gardien de l'équipe du Brésil (Juniors) : un véritable génie. Dans les cinq matchs menant à la finale, sur un total de 450 minutes, il ne laisse pas passer un seul but. Il arrête le "Tir de la tornade" de Hino dans le match contre l'Uruguay et le "Tir du tigre foudroyant" de Hyuga dans le match contre l'équipe du Japon.
+
+}}

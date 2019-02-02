@@ -1,0 +1,77 @@
+{{Fiche joueur
+|joueur = Yuzo Morisaki
+|nom_joueur = SG (Super Gutsy) GK
+|type = force
+|poste = GB
+|pays = Japon
+|équipe = Japon (Qualif. Zone Asie)
+|époque = Espoirs
+|acquisition = Dream Collection
+
+|id = 001493
+|image = 001493.png
+|image_WC = 001414.png
+|rareté = UR
+
+|endurance = 997
+
+|coup_de_poing = 7771
+|coup_de_poing_bonus = 1295
+|arrêt = 8257
+|arrêt_bonus = 1376
+
+|rapidité = 4788
+|rapidité_bonus = 798
+|puissance = 6862
+|puissance_bonus = 1144
+|technicité = 5435
+|technicité_bonus = 906
+
+|SSR_id = 001492
+|SSR_image = 001492.png
+|SSR_image_WC = 001413.png
+
+|SSR_endurance = 831
+
+|SSR_coup_de_poing = 5180
+|SSR_coup_de_poing_bonus = 863
+|SSR_arrêt = 5504
+|SSR_arrêt_bonus = 917
+
+|SSR_rapidité = 3192
+|SSR_rapidité_bonus = 532
+|SSR_puissance = 4573
+|SSR_puissance_bonus = 762
+|SSR_technicité = 3623
+|SSR_technicité_bonus = 604
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = L'évolution des guerriers [F]
+|team_skill_rang = S
+|team_skill_description = Type F : Tous les paramètres +7%
+
+|passive_skill = Un coup de tout son corps
+|passive_skill_rang = A
+|passive_skill_description = Plus il y a d'Endurance, plus l'intensité des TS augmente (max. 30%)
+|passive_boost = 30
+
+|TS_main = Arrêt SG (Super Gutsy) GK
+|TS_main_type = arret
+|TS_main_rang = S
+|TS_main_puissance = 485
+|TS_main_coût = 390
+
+|TS_2 = Allez ! Tape quelque part sur mon corps !
+|TS_2_type = coup_de_poing
+|TS_2_rang = A
+|TS_2_puissance = 325
+|TS_2_coût = 210
+
+|taille = 175
+|poids = 65
+
+|description = Inspiré par Wakabayashi et soutenu par ses coéquipiers, Morisaki s'entraîne toujours dur, y mettant tout son coeur. Lors du match contre la Thaïlande, il laisse passer quatre buts. Mais plus tard, il canalise toute son énergie et ses efforts pour arrêter une cinquième attaque féroce. Wakabayashi le félicite et l'appelle le "Gardien qui n'a pas froid aux yeux".
+
+}}

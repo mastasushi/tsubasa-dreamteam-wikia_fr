@@ -1,0 +1,497 @@
+<tabber>SSR=
+
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+001061-pascual-interceptioncrabe-vitesse-invoc--thumb.gif|{{logo_DC}}'''Alan Pascual''' - Super coopération respiration harmonisée|link=Alan Pascual - Super coopération respiration harmonisée
+001059-diaz-dribblederue-technique-invoc--thumb.gif|{{logo_DC}}'''Juan Diaz''' - Dribbleur de génie|link=Juan Diaz - Dribbleur de génie
+
+01051-soda-interceptionlamerasoir-vitesse-invoc--thumb.png|{{logo_WC}}'''Makoto Soda''' - Dieu protecteur du Japon|link=Makoto Soda - Dieu protecteur du Japon
+01049-wakabayashi-arretsggkparfait-force-invoc--thumb.png|{{logo_WC}}'''Genzo Wakabayashi''' - Dieu des cages défiant le monde|link=Genzo Wakabayashi - Dieu des cages défiant le monde
+01047-ishizaki-nouveaucontrevisage-force-invoc--thumb.png|{{logo_WC}}'''Ryo Ishizaki''' - Esprit combatif enflammé|link=Ryo Ishizaki - Esprit combatif enflammé
+1045-misaki-tircoupegazon-vitesse-invoc--thumb.gif|{{logo_WC}}'''Taro Misaki''' - Le meilleur des potes WC 2018|link=Taro Misaki - Le meilleur des potes WC 2018
+1043-tsubasa-skywingshoot-technique-invoc--thumb.png|{{logo_WC}}'''Tsubasa Ozora''' - Vers le sommet du monde|link=Tsubasa Ozora - Vers le sommet du monde
+
+001029-bunnaak-interceptionmuaythai-force-invoc--thumb.png|{{logo_DF}}'''Singprasert Bunnaak''' - Champion du terrain|link=Singprasert Bunnaak - Le champion du terrain
+000930-misugi-contreensaut-technique-invoc--thumb.gif|{{logo_DF}}'''Jun Misugi''' - La résolution de se retrouver sur le terrain|link=Jun Misugi - La résolution de se retrouver sur le terrain
+000839_nitta-highspeedrunninghayabusashoot-vitesse-invoc-thumb.png|{{logo_DF}}'''Shun Nitta''' - Pied divin du combattant faucon|link=Shun Nitta - Pied divin du combattant faucon
+000996-zaragoza-taclevaguefond-force-invoc--thumb.png|'''Zaragoza''' - Troupes de soutien au sol du Mexique|link=Zaragoza - Troupes de soutien au sol du Mexique
+000994-lopez-voleepivotante-technique-invoc--thumb.png|'''Lopez''' - Le buteur du Mexique|link=Lopez - Le buteur du Mexique
+000992-albez-attaquelucha-vitesse-invoc--thumb.png|'''Arbez''' - Jeu combiné aérien coordonné|link=Arbez - Jeu combiné aérien coordonné
+000990-suarez-taclevaguefond-vitesse-invoc--thumb.png|'''Suarez''' - Football aérien extrême|link=Suarez - Football aérien extrême
+000988-garcia-bigbangshoot-force-invoc--thumb.png|'''Garcia''' - Super intensité destructrice de planète|link=Garcia - Super intensité destructrice de planète
+000986-espadas-poingcondor-technique-invoc--thumb.png|{{logo_DC}}'''Ricardo Espadas''' - Défense type super attaque|link=Ricardo Espadas - Défense type super attaque
+000934-victorino-interceptionhaute-vitesse-force-invoc--thumb.png|'''Ramon Victorino''' - Le regard perçant de la bête visant la victoire|link=Victorino - Le regard perçant de la bête visant la victoire
+000932-diaz-retournevolant-technique-invoc--thumb.gif|'''Juan Diaz''' - Joueur acrobatique|link=Juan Diaz - Joueur acrobatique
+000917-federiks-tirboucletechnique-force-invoc--thumb.png|'''Federiks''' - Technique à la française|link=Federiks - Technique à la française
+000915-larson-sss-vitesse-invoc--thumb.gif|'''Larson''' - La flèche de la Suède|link=Larson - La flèche de la Suède
+000913-natureza-interceptioneclair-technique-invoc--thumb.png|'''Natureza''' - La dernière carte à jouer|link=Natureza - La dernière carte à jouer
+000901_pascual-passeinvisible-tech-invoc-thumb.png|{{logo_DC}}'''Alan Pascual''' - Partenaire acrobatique|link=Alan Pascual - DC
+000899_hernandez-arretparfait-vitesse-invoc-thumb.png|{{logo_DC}}'''Zino Hernandez''' - Sixième sens aiguisé|link=Zino Hernandez - DC
+000848_margus-teteplongeantetechnique-vitesse-invoc-thumb.png|'''Manfred Margus''' - Pur Attaquant|link=Manfred Margus - Pur Attaquant
+000845 rivaul-combiretourne-force-invoc-thumb.gif|'''Rivaul''' - La fierté de la Catalogne|link=Rivaul - La fierté de la Catalogne
+000816_diaz-tirdelafeuillemortecombinee-vitesse-invoc-thumb.png|'''Juan Diaz''' - Le p'tit gars rapide qui détestait perdre|link=Juan Diaz - Le p'tit gars rapide qui détestait perdre
+000814_schneider-firetwindriveshoot-force-invoc-thumb.png|'''Karl Heinz Schneider''' - Guerrier Footballeur à la Grande Fierté|link=Karl Heinz Schneider - Guerrier Footballeur à la Grande Fierté
+000808_tsubasa-pushingdivinghead-vitesse-invoc-thumb.png|'''Tsubasa Ozora''' - L'Enfant du Foot du Monde|link=Tsubasa Ozora - L'Enfant du Foot du Monde
+000754_jito-interceptionforcee-tech-invoc-thumb.png|'''Hiroshi Jito''' - L'immortel Jeune de Kyushu|link=Hiroshi Jito - L'immortel Jeune de Kyushu
+000752_matsuyama-tacledelaigle-force-invoc-thumb.gif|'''Hikaru Matsuyama''' - Les Griffes de l'Aigle Farouche|link=Hikaru Matsuyama - Les Griffes de l'Aigle Farouche
+000750_ishizaki-dirtydefense-vitesse-invoc-thumb.png|'''Ryo Ishizaki''' - Un enfant du Foot acharné|link=Ryo Ishizaki - Un enfant du Foot acharné
+000748_hyuga-voleedutigresautee-tech-invoc-thumb.png|'''Kojiro Hyuga''' - Le serment de la 3ème victoire d'affilée|link=Kojiro Hyuga - Le serment de la 3ème victoire d'affilée
+000334_espadas-arretmiraculeux-vitesse-invoc-thumb.png|'''Ricardo Espadas''' - Le gardien miraculeux du Mexique|link=Ricardo Espadas - Le gardien miraculeux du Mexique
+000333_cruyfford-tirspirale-tech-invoc-thumb.png|'''Brian Cruyfford''' - Un meneur de jeu dans l'oeil du cyclone|link=Brian Cruyfford - Un meneur de jeu dans l'oeil du cyclone
+000332_misaki-senkouraijushoot-force-invoc-thumb.png|'''Taro Misaki''' - La persévérance menant à la victoire|link=Taro Misaki - La persévérance menant à la victoire
+
+000826 napoleon-cannonburstshoot-force-fest-thumb.png|{{logo_DF}}'''Louis Napoléon''' - L'as des Buteurs de la France|link=Louis Napoléon - L'as des Buteurs de la France
+000681_pierre-superreactionblock-tech-fest-thumb.gif|{{logo_DF}}'''Elcide Pierre''' - La Magnifique Rose du Terrain|link=Elcide Pierre - La Magnifique Rose du Terrain
+000628_levin-newlevinshoot-force-fest-thumb2.gif|{{logo_DF}}'''Stefan Lévine''' - Le chevalier saint s'éveille|link=Stefan Lévine - Le chevalier saint s'éveille
+
+000726_brolin-sunrisingtacle-vitesse-invoc-thumb.png|'''Brolin''' - Le Lion de Scandinavie|link=Brolin - Le Lion de Scandinavie
+000724-gentile-interceptiondudandy-tech-invoc--thumb.png|'''Salvatore Gentile''' - Le Prince du Catenaccio|link=Salvatore Gentile - Le Prince du Catenaccio
+000722_schneider-passedufeu-tech-invoc-thumb.png|'''Karl Heinz Schneider''' - Empereur Dominant le Terrain|link=Karl Heinz Schneider - Empereur Dominant le Terrain
+000700_schester-splendideinterception-force-invoc-thumb.png|'''Franz Schester''' - Prince du Milieu de Terrain Allemand|link=Franz Schester - Prince du Milieu de Terrain Allemand
+000698_misugi-drivepass-tech-invoc-thumb.png|'''Jun Misugi''' - As de Diamant|link=Jun Misugi - As de Diamant
+000696_hyuga-tigeroverhead-vitesse-invoc-thumb.png|'''Kojiro Hyuga''' - Tigre Écrasant les Vagues Rugissantes|link=Kojiro Hyuga - Tigre Écrasant les Vagues Rugissantes
+000665_bunnaak-taclemuaythai-tech-invoc-thumb.png|'''Singprasert Bunnaak''' - Combat Muay Thaï|link=Singprasert Bunnaak - Combat Muay Thaï
+000663_owairan-slidingblock-vitesse-invoc-thumb.png|'''Mark Owairan''' - Le prince de l'Arabie Saoudite|link=Mark Owairan - Le prince de l'Arabie Saoudite
+000661_shingo-crouchxtractionss-tech-invoc-thumb.gif|'''Shingo Aoi''' - Endurance inépuisable|link=Shingo Aoi - Endurance inépuisable
+000646_matsuyama-eagleshot-force-invoc-thumb.png|'''Hikaru Matsuyama''' - Le cœur du Japon|link=Hikaru Matsuyama - Le cœur du Japon
+000644_misaki-greenpass-vitesse-invoc-thumb.gif|'''Taro Misaki''' - Créateur de chance de but pour le Japon|link=Taro Misaki - Créateur de chance de but pour le Japon
+000642_tsubasa-tacleaurora-force-invoc-thumb.png|'''Tsubasa Ozora''' - Rêve doré|link=Tsubasa Ozora - Rêve doré
+000837_vulcan-metladelatete-force-invoc-thumb.gif|{{logo_DC}}'''Vulcan''' - Physique de catacheur|link=Vulcan - Wrestler Physique
+000835_soda-razortacle-tech-invoc-thumb.png|{{logo_DC}}'''Makoto Soda''' - Lame tranchant le terrain|link=Makoto Soda - Champ de rasoir
+000824_akai-agressiverightangle-vitesse-invoc-thumb.gif|{{logo_DC}}'''Toméya Akai''' - Une combativité couverte de blessures|link=Toméya Akai - Une combativité couverte de blessures
+000659_leo-braziliangoldenduo-force-invoc-thumb.png|'''Léo''' - Passeur Brésilien de confiance|link=Léo - Passeur Brésilien de confiance
+000657_pépé-brazilianwaveattack-tech-invoc-thumb.png|'''Pépé''' - Le super remplaçant du Brésil|link=Pépé - Le super remplaçant du Brésil
+000656_alberto-shutout-vitesse-invoc-thumb.png|{{logo_DC}}'''Alberto''' - Le meilleur libéro du Brésil|link=Alberto - Le meilleur libéro du Brésil
+000653_salinas-geniousreaction-force-invoc-thumb.png|{{logo_DC}}'''Salinas''' - Le gardien de génie du Brésil|link=Salinas - Le gardien de génie du Brésil
+000607 tsubasa-goldenwtinshoot-force-invoc-thumb.png|{{logo_WC}}'''Tsubasa Ozora''' - Gamin du Foot à la Poursuite d'un Rêve|link=Tsubasa Ozora - Gamin du Foot à la Poursuite d'un Rêve
+000566_misaki-dribblemagnifique-tech-invoc-thumb.png|{{logo_WC}}'''Taro Misaki''' - Le Technicien Artistique du Japon|link=Taro Misaki - Le Technicien Artistique du Japon
+000592_sorimachi-tohotriangle-vitesse-invoc-thumb.png|{{logo_WC}}'''Kazuki Sorimachi''' - Le Frappeur de l'Ombre|link=Kazuki Sorimachi - Le Frappeur de l'Ombre
+000590_sawada-goldencombi-force-invoc-thumb.png|{{logo_WC}}'''Takéshi Sawada''' - Le Jeune Guerrier du Japon|link=Takéshi Sawada - Le Jeune Guerrier du Japon
+000564_wakashimazu-wakadoryusworddefense-vitesse-invoc-thumb.png|{{logo_WC}}'''Ken Wakashimazu''' - Fierté Nippone|link=Ken Wakashimazu - Fierté Nippone
+000563 hyuga-neotirdutigre-tech-invoc-thumb.png|{{logo_WC}}'''Kojiro Hyuga''' - Le Tigre Féroce Fierté du Japon|link=Kojiro Hyuga - Le Tigre Féroce Fierté du Japon
+000562 akai-contredelepaule-force-invoc-thumb.png|{{logo_WC}}'''Toméya Akai''' - Esprit Combatif Azzurri à l'Italienne|link=Toméya Akai - Esprit Combatif Azzurri à l'Italienne
+000588_urabe-slidingblock-tech-invoc-thumb.gif|{{logo_WC}}'''Hanji Urabé''' - Défenseur Chevronné Jusqu'au Bout|link=Hanji Urabé - Défenseur Chevronné Jusqu'au Bout
+000586 sano-tacleacrobatique-vitesse-invoc-thumb.gif|{{logo_WC}}'''Mitsuru Sano''' - Acrobate Surréaliste|link=Mitsuru Sano - Acrobate Surréaliste
+000558_wakabayashi-punchadeuxmainsdusggk-tech-wc-thumb.png|{{logo_WC}}'''Genzo Wakabayashi''' - Le Dieu des Cages qui portait le Drapeau du Japon|link=Genzo Wakabayashi - Le Dieu des Cages qui portait le Drapeau du Japon
+000556_misugi-tacleastucieux-force-wc-thumb.png|{{logo_WC}}'''Jun Misugi''' - Pilier de la Défense du Japon|link=Jun Misugi - Pilier de la Défense du Japon
+000554_tsubasa-flyingdriveshoot-vitesse-wc-thumb.png|{{logo_WC}}'''Tsubasa Ozora''' - Milieu de Terrain Doré Fierté du Japon|link=Tsubasa Ozora - Milieu de Terrain Doré Fierté du Japon
+000626_rivaul-tirdelabusedoree-vitesse-invoc-thumb2.gif|{{logo_DF}}'''Rivaul''' - L'as ultime|link=Rivaul - L'as ultime
+000548_kaltz-interceptionartistique-force-invoc-thumb.gif|{{logo_DF}}'''Hermann Kaltz''' - Esprit Germanique Enflammé|link=Hermann Kaltz - Esprit Germanique Enflammé
+000481_hino-tornadoshoot-tech-invoc-thumb.png|{{logo_DF}}'''Ryoma Hino''' - Buteur Tornade|link=Ryoma Hino - Buteur Tornade
+000538_pascual-doublevoleeargentine-force-invoc-thumb.png|'''Alan Pascual''' - Buteur fantasmagorique|link=Alan Pascual - Buteur fantasmagorique
+000536_victorino-duodattaquantsultime-tech-invoc-thumb.png|'''Ramon Victorino''' - La Panthère Noire d'Amérique du Sud|link=Ramon Victorino - La Panthère Noire d'Amerique du Sud
+000534_schneider-feintedefeu-vitesse-invoc-thumb.png|'''Karl Heinz Schneider''' - Celui qu'on nomme le Roi des Buts Allemand|link=Karl Heinz Schneider - Celui qu'on nomme le Roi des Buts Allemand
+000506_dribbledutanklourd-force-invoc-thumb.png|'''Cha Incheon''' - Tigre rigide|link=Cha Incheon - Tigre rigide
+000508_yong-un-retourneacrobatiquevolantabassealtitude-tech-invoc-thumb.png|'''Lee Yong-un''' - Tigre souple|link=Lee Yong-un - Tigre souple
+000504_xiang-reprisedelatetearcenciel-vitesse-invoc-thumb.png|'''Fei Xiang''' - Oiseau Mystérieux|link=Fei Xiang - Oiseau Mystérieux
+000502_junguang-contrecoupcanonrapide-force-invoc-thumb.png|'''Xiao Junguang''' - Pied droit en or|link=Xiao Junguang - Pied droit en or
+000467_vulcan-canonvulcan-force-invoc-thumb.gif|'''Vulcan''' - Vulcain le Djinn|link=Vulcan - Vulcain le Djinn
+000469_napoleon-attaquedelatoureiffel-tech-invoc-thumb.png|'''Louis Napoléon''' - L'arme secrète de la France|link=Louis Napoléon - L'arme secrète de la France
+000465_pierre-taclepapillon-tech-invoc-thumb.png|'''Elcide Pierre''' - Le Dominateur du Milieu de Terrain|link=Elcide Pierre - Le Dominateur du Milieu de Terrain
+000435_santana-tirfeuillemortevoletantedoree-force-invoc-thumb.png|'''Carlos Santana''' - L'Enfant de Dieu est descendu des Cieux|link=Carlos_Santana_-_L'Enfant de Dieu est descendu des Cieux
+000433_tsubasa-tirdelafeuillemortevolante-tech-invoc-thumb.png|'''Tsubasa Ozora''' - Le Trésor de Sao Paulo|link=Tsubasa Ozora - Le Trésor de Sao Paulo
+000550_robson-contredehautepuissance-vitesse-invoc-thumb.png|{{logo_DC}}'''Robson''' - Mur Défensif de l'Angleterre|link=Robson - Mur Défensif de l'Angleterre
+000552_victorino-dribbledelapanthère-tech-invoc-thumb.png|{{logo_DC}}'''Ramon Victorino''' - Rafale Noire|link=Ramon Victorino - Rafale Noire
+000532_doleman-coupdesdeuxpoings-force-invoc-thumb.png|'''Hans Doleman''' - Le Dieu des cages de la Hollande|link=Hans Doleman - Le Dieu des cages de la Hollande
+000530_dick-contredehautepuissance-force-invoc-thumb.png|'''Léon Dick''' - Le libéro de la Hollande|link=Léon Dick - Le libéro de la Hollande
+000528_Klismann-conservationfluideduballon-tech-invoc-thumb.png|'''Ruud Klismann''' - Le déclencheur des attaques de la Hollande|link=Ruud Klismann - Le déclencheur des attaques de la Hollande
+000527 rensenbrink-dribblegrandetechnique-vitesse-invoc-thumb.png|'''Johan Rensenbrink''' - Un buteur cool|link=Johan Rensenbrink - Un buteur cool
+000524_kaiser-dribblegrandevitesse-vitesse-invoc-thumb.png|'''Gert Kaiser''' - Le buteur de la Hollande|link=Gert Kaiser - Le buteur de la Hollande
+000522_cruyfford-voleetournante-vitesse-invoc-thumb.png|{{logo_DC}}'''Brian Cruyfford''' - Le meneur de jeu du "Total Football"|link=Brian Cruyfford - Le meneur de jeu du Total Football
+000447_margus-reprisedelateteenangledroit-force-invoc-thumb.png|{{logo_DC}}'''Manfred Margus''' - Tête Nucléaire de l'Allemagne|link=Manfred Margus - Tête Nucléaire de l'Allemagne
+000446_schester-tirtechniquecombine-vitesse-invoc-thumb.png|{{logo_DC}}'''Franz Schester''' - Splendide Meneur de Jeu|link=Franz Schester - Splendide Meneur de Jeu
+000429-jito-fairevoler-vitesse-invoc--thumb.png|{{logo_DF}}'''Hiroshi Jito''' - Le Grand Mur du Japon|link=Hiroshi Jito - Le Grand Mur du Japon
+000415-ishizaki-contrevisage-technique-invoc--thumb.png|'''Ryo Ishizaki''' - Guts Ishizaki|link=Ryo Ishizaki - Guts Ishizaki
+000413-soda-taclerasoir-force-invoc--thumb.png|'''Makoto Soda''' - Combattant Lame de Rasoir|link=Makoto Soda - Combattant Lame de Rasoir
+000411-nitta-tirfaucon-vitesse-invoc--thumb.png|'''Shun Nitta''' - Le Talent du Faucon|link=Shun Nitta - Le Talent du Faucon
+000409_kazuo-interceptioninfernale-tech-invoc-thumb.gif|{{logo_DC}}'''Kazuo Tachibana''' - Les Frères Catapulte Infernale|link=Kazuo Tachibana - Les Frères Catapulte Infernale
+000407_masao-interceptioninfernale-tech-invoc-thumb.gif|{{logo_DC}}'''Masao Tachibana''' - Les Frères Catapulte Infernale|link=Masao Tachibana - Les Frères Catapulte Infernale
+
+000338_hernandez-arretaunemain-tech-invoc-thumb.png|'''Zino Hernandez''' - Les Qualités de Zino Hernandez|link=Zino Hernandez - Les Qualités de Zino Hernandez
+000386-Gentile-contreDandy-force-invoc--thumb.png|'''Salvatore Gentile''' - La Nouvelle Star de l'Italie|link=Salvatore Gentile - La Nouvelle Star de l'Italie
+
+
+000385_Shingo Aoi-thumb.jpg|Shingo Aoi|link=Shingo_Aoi_-_Le_Prince_du_Soleil
+
+diaz3_thumb.jpg|{{logo_DF}}'''Juan Diaz''' - Superstar|link=Juan_Diaz_-_Superstar
+misugi3_thumb.jpg|'''Jun Misugi''' - Le miracle des 30 minutes|link=Jun_Misugi_-_Le_Miracle_des_30_Minutes
+akai2_thumb.jpg|'''Tomeya Akai''' - L'effrayant stoppeur rouge|link=Tomeya_Akai_-_L_Effrayant_Stoppeur_Rouge
+brolin2_thumb.jpg|'''Brolin''' - L'axe défensif de la Suède|link=Brolin_-_L_Axe_Défensif_de_la_Suède
+levin2_thumb.jpg|'''Stefan Lévine''' - Dieu destructeur du terrain|link=Stephan_Levin_-_Le_Dieu_de_la_Destruction_du_Terrain
+misugiv2_thumb.jpg|'''Jun Misugi''' - Retour du jeune noble du terrain|link=Jun_Misugi_-_Le_Prince_des_Pelouses_est_de_retour
+misaki2v2_thumb.jpg|'''Taro Misaki''' - Esprit combatif silencieux|link=Taro_Misaki_-_Un_esprit_Combatif_Apaisé
+nitta2v2_thumb.jpg|'''Shun Nitta''' - Le Faucon volant à travers le Monde|link=Shun Nitta - Le Faucon volant à travers le Monde
+hyuga2v2_thumb.jpg|'''Kojiro Hyuga''' - Tonnerre Rugissant|link=Kojiro Hyuga - Tonnerre Rugissant
+Matsuyama tec ssr thumb.jpg|{{logo_DF}}'''Hikaru Matsuyama''' - Le Génie des efforts qui venait de Hokkaido|link=Hikaru Matsuyama - Le Génie des efforts qui venait de Hokkaido
+000270-Natureza-tirMiraculeux-vitesse-fest--thumb.jpg|{{logo_DF}}'''Natureza''' - Le Sauveur du Brésil|link=Natureza - Le Sauveur du Brésil
+schneider2v2_thumb.jpg|'''Karl Heinz Schneider''' - Le regard perçant du jeune empereur|link=Karl_Heinz_Schneider_-_Le_Spectacle_du_jeune_Empereur
+muller2_thumb.jpg|'''Deuter Muller''' - Gardien mythique|link=Deuter_Muller_-_Gardien_de_Rêve
+000191-napoleon-voleecanon-force-invoc--thumb.png|'''Louis Napoléon''' - Coup de Détonateur|link=Louis_Napoléon - Coup de Détonateur
+schneider3v2_thumb.jpg|'''Karl Heinz Schneider''' - Les flammes de l'empereur|link=Karl_Heinz_Schneider_-_Les_flammes_de_L_empereur
+
+wakashimazu2_thumb.jpg|'''Ken Wakashimazu''' - Gardien combattant|link=Ken_Wakashimazu_-_Le_Gardien_Karateka
+hernandes2V2_thumb.jpg|'''Gino Hernandes''' - Gardien parfait|link=Gino_Hernandes_-_Gardien_Parfait
+wakabayashi2_thumb.jpg|'''Genzo Wakabayashi''' - SGGK|link=Genzo_Wakabayashi_-_SGGK
+owairan2_thumb.jpg|'''Mark Owairan''' - Le prince des nuits d'Arabie|link=Mark_Owairan_-_Le_Prince_de_la_Nuit_Arabe
+misugi2v2_thumb.jpg|'''Jun Misugi''' - Génie Naturel|link=Jun Misugi - Génie Naturel
+000019-gentile-defenseangledroit-vitesse-invoc--thumb.jpg|'''Salvatore Gentile''' - Mur d'acier du dandy|link=Salvatore_Gentile_-_La_Forteresse_Imprenable
+matsuyama2v2_thumb.jpg|'''Hikaru Matsuyama''' - Aigle sauvage du nord|link=Hikaru_Matsuyama_-_L_Aigle_Sauvage_des_Mers_du_Nord
+robson2_thumb.jpg|'''Robson''' - Coeur de lion|link=Robson_-_Coeur_de_Lion
+bunaku2_thumb.jpg|'''Singprasert Bunnark''' - Arme fatale|link=Singprasert_Bunnark_-_L_arme_mortelle_totale
+jitov2_thumb.jpg|'''Hiroshi Jito''' - Gardien d'acier|link=Hiroshi_Jito_-_Garde_d_Acier
+000038_Shingo Aoi-thumb.jpg|'''Shingo Aoi''' - Prince du soleil flamboyant|link=Shingo_Aoi_-_Le_Prince_du_Soleil_Luisant
+kartz2_thumb.jpg|'''Herman Kartz''' - Le bosseur|link=Herman_Kartz_-_Le_Travailleur
+misakiv2_thumb.jpg|'''Taro Misaki''' - Le golden Duo du Japon|link=Taro_Misaki_-_La_combinaison_dorée_fierté_du_Japon
+
+000011_Ohzora Tsubasa-goldenduo-tech-invoc-thumb.jpg|'''Tsubasa Ozora''' - Un Vrai Capitaine|link=Tsubasa Ohzora - Un Vrai Capitaine
+
+diaz2v2_thumb.jpg|'''Juan Diaz''' - Le trésor de l'Argentine|link=Juan_Diaz_-_Le_Trésor_Argentin
+pierre2_thumb.jpg|'''Pierre Alcide''' - Commandant majestueux|link=Pierre_Alcide_-_Le_Beau_Commandant
+misaki4v2_thumb.jpg|'''Taro Misaki''' - L'artiste du terrain|link=Taro_Misaki_-_L_Artiste_des_Terrains
+
+000007_Ohzora Tsubasa-feuillemorte-force-invoc-thumb.jpg|'''Tsubasa Ozora''' - Le Champion de la Nankatsu|link=Tsubasa Ozora - Le Champion de la Nankatsu
+
+hinov2_thumb.jpg|'''Hino Ryoma''' - Japanese Bomber|link=Ryoma_Hino_-_Le_Bombardier_Japonais
+000005_Santana-tirAigleDoré-technique-invoc--thumb.jpg|'''Carlos Santana''' - Soldat Parfait|link=Carlos Santana - Soldat Parfait
+000004-napoleon-tircanon-vitesse-invoc--thumb.png|'''Louis Napoléon''' - Tireur de Boulet de Canon|link=Louis Napoléon - Tireur de Boulet de Canon
+
+000003 schneider-tirdufeu-vitesse-invoc-thumb.png|'''Karl Heinz Schneider''' - La Fierté du Jeune Empereur|link=Karl_Heinz_Schneider_-_La_fierté_du_jeune_empereur
+
+000026_Hyuga-tigershot-force-invoc-thumb.jpg|'''Kojiro Hyuga''' - Crocs Ressortis|link=Kojiro Hyuga - Crocs Ressortis
+000025_Kojiro Hyuga-thumb.jpg|'''Kojiro Hyuga''' - L'invincible As des Buts|link=Kojiro Hyuga - L'invincible As des Buts
+
+</gallery>
+
+|-|Boutique/Conf.=
+<!--
+Manque :
+-->
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+000907-alberto-interceptionforcee-technique-conf--thumb.png|'''Alberto''' - Défense parfaite|link=Alberto - Défense parfaite
+
+000692-schneider-tetefeu-force-conf--thumb.png|'''Karl Heinz Schneider''' - Sensations en tant que buteur|link=Karl Heinz Schneider - Sensations en tant que buteur
+
+000610-sakhon-tripleretourne-vitesse-conf--thumb.png|'''Sakhon Konsawatt''' - Combinaison de frères|link=Sakhon Konsawatt - Combinaison de frères
+
+000449-nitta-taclegrandevitesse-vitesse-conf--thumb.png|'''Shun Nitta''' - Coup de tonnerre du Japon|link=Shun Nitta - Coup de tonnerre du Japon
+
+000378-misugi-jeujambes-force-conf--thumb.png|'''Jun Misugi''' - La carte maîtresse du Japon|link=Jun Misugi - La carte maîtresse du Japon
+
+000210 Tsubasa-goldentrio-technique-conf-thumb.png|'''Tsubasa Ozora''' - Le génie du Japon|link=Tsubasa Ozora - Le génie du Japon
+
+000909-leo-grossefrappe-vitesse-ligue--thumb.png|'''Léo''' - Superbe soutien|link=Léo - Superbe soutien
+
+000690-wakabayashi-superarret-technique-ligue--thumb.png|'''Genzo Wakabayashi''' - Défense ultime|link=Genzo Wakabayashi - Défense ultime
+
+000608-faran-triokonsawatt-vitesse-ligue--thumb.png|'''Faran Konsawatt''' - Combinaison de frères|link=Faran Konsawatt - Combinaison de frères
+
+000451-hernandez-maingaucheargent-force-ligue--thumb.png|'''Zino Hernandez''' - Intuition naturelle|link=Zino Hernandez - Intuition naturelle
+
+000340-diaz-feuillemortesalto-technique-ligue--thumb.png|'''Juan Diaz''' - Le génie de l'Argentine|link=Juan Diaz - Le génie de l'Argentine
+
+000208 Misaki-doubletete-vitesse-ligue-thumb.png|'''Taro Misaki''' - Artiste ambitieux|link=Taro Misaki - Artiste ambitieux
+
+000694-soda-contrecoulissant-technique-pvp--thumb.png|'''Makoto Soda''' - Lame courante|link=Makoto Soda - Lame courante
+
+000911-pepe-dribblesudamericainvitesse-force-pvp--thumb.png|'''Pépé''' - Ambition insatiable|link=Pépé - Ambition insatiable
+
+000612-chana-lanceroquette-vitesse-pvp--thumb.png|'''Chana Konsawatt''' - Combinaison de frères|link=Chana Konsawatt - Combinaison de frères
+
+000479-kaltz-tacleherisson-technique-pvp--thumb.png|'''Hermann Kaltz''' - Goût raffiné allemand|link=Hermann Kaltz - Goût raffiné allemand
+
+000341-pierre-magnifiqueinterception-vitesse-pvp--thumb.png|'''Elcide Pierre''' - L'artiste du terrain|link=Elcide Pierre - L'artiste du terrain
+
+000209 Hyuga-twinshoot-force-pvp-thumb.png|'''Kojiro Hyuga''' - Le réveil du tigre|link=Kojiro Hyuga - Le réveil du tigre
+
+</gallery>
+
+|-|Raids=
+<!--
+Manque :
+- Akai - Shoulder block
+- Aoi - Dribble
+- Owairan
+- Chinois
+- ...
+- Matsu WC
+- Nitta WC
+- Jito WC
+- Soda WC
+- Morisaki WC
+
+-->
+<h2>SSR</h2>
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+000443-santana-passefeuillemorte-force-farm--thumb.png|'''Carlos Santana''' - Le génie ayant reçu une bénédiction divine|link=Carlos Santana - Le génie ayant reçu une bénédiction divine
+000442_Tsubasa Ohzora-thumb.jpg|'''Tsubasa Ohzora''' - Le Numéro 10 de Sao Paulo|link=Tsubasa_Ohzora_-_Le_Numéro_10_de_Sao_Paulo
+000427-akai-contreepaule-technique-farm--thumb.png|'''Tomeya Akai''' - Marquage entêté|link=Tomeya Akai - marquage entêté
+
+hernandes1-farm-thumb.jpg|'''Zino Hernandez''' - La dernière forteresse du Catenaccio|link=Zino Hernandez - La dernière forteresse du Catenaccio
+masao1-farm-thumb.jpg|'''Masao Tachibana''' - La carte maîtresse de Hanawa en attaque|link=Masao_Tachibana_-_L_Arme_Secrète_de_l_Attaque_de_la_Hanawa
+kazuo1-farm-thumb.jpg|'''Kazuo Tachibana''' - La carte maîtresse de Hanawa en attaque|link=Kazuo_Tachibana_-_L_Arme_Secrète_de_l_Attaque_de_Hanawa
+
+000401-Gentile-contrePuissant-force-farm--thumb.png|'''Salvatore Gentile''' - Star Italienne de la prochaine génération|link=Salvatore Gentile - Star Italienne de la prochaine génération
+000399-shingo-dribblefeinteesquive-vitesse-farm--thumb.png|'''Shingo Aoi''' - Le prince du soleil continue de briller|link=Shingo Aoi - Le prince du soleil continue de briller
+000342_Hikaru Matsuyama-interceptionForcee-vitesse-farm--thumb.jpg|'''Hikaru Matsuyama''' - Un leadership plein de vitalité|link=Hikaru Matsuyama - Un leadership plein de vitalité
+000339_Juan Diaz-taclecritique-force-farm-thumb.jpg|'''Juan Diaz''' - Un Beau Jeu Plein d'Idées|link=Juan Diaz - Un Beau Jeu Plein d'Idées
+000320-victorino-taclegrandevitesse-vitesse-farm--thumb.png|'''Ramon Victorino''' - Le regard perçant de la panthère noire|link=Ramon Victorino - Le regard perçant de la panthère noire
+000317-owairan-voleedeferlante-technique-farm--thumb.png|'''Mark Owairan''' - Le lion du désert|link=Mark owairan - Le lion du désert
+000282-levin-passealalevin-vitesse-farm--thumb.png|'''Stefan Levin''' - La Sentence du Dieu de la Destruction|link=Stefan Levin - La Sentence du Dieu de la Destruction
+000280-Rivaul-SkyhawkShoot-technique-farm--thumb.png|'''Rivaul''' - Le Faucon du Terrain|link=Rivaul - Le Faucon du Terrain
+000240_Jun Misugi-retourneUltime-technique-farm-thumb.jpg|'''Jun Misugi''' - L'arme Secrète du Japon|link=Jun Misugi - L'Arme Secrète du Japon
+000237_Juan Diaz-twinDriveShoot-force-farm--thumb.jpg|'''Juan Diaz''' - La Superstar de l'Argentine|link=Juan Diaz - Super Star Argentine
+000233_Pierre-dribbleartistique-vitesse-farm--thumb.jpg|'''Elcide Pierre''' - Le Chevalier de la Rose|link=Elcide Pierre - Le Chevalier de la Rose
+000230_Kojiro Hyuga-voleetigre-force-farm-thumb.jpg|'''Kojiro Hyuga''' - Véritable As des Buts|link=Kojiro Hyuga - Véritable As des Buts
+000227_Taro Misaki-champagneduo-vitesse-farm-thumb.jpg|'''Taro Misaki''' - Football Champagne|link=Taro Misaki - Football Champagne
+000224_Ohzora Tsubasa-tircontrefleche-vitesse-farm-thumb.jpg|'''Tsubasa Ohzora''' - L'Aura du vainqueur|link=Tsubasa Ohzora - L'Aura du vainqueur
+000221-santana-retourneacrobatiqueroulant-technique-farm--thumb.png|'''Carlos Santana''' - Le Cyborg du Football|link=Carlos Santana - Le Cyborg du Football
+000220_Karl-Heinz Schneider-fireshot-force-farm-thumb.jpg|'''Karl-Heinz Schneider''' - La Couronne du Champion|link=Karl-Heinz Schneider - La Couronne du Champion
+</gallery>
+
+<h2>SR</h2>
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+000544-pascual-dribblefeinte-vitesse-farm--thumb.png|'''Alan pascual''' - Passe décisive au génie|link=Alan Pascual - Passe décisive au génie
+000514-feixiang-powershoot-vitesse-farm--thumb.png|'''Fei Xiang''' - Le buteur de la Chine|link=Fei Xiang - Le buteur de la Chine
+000473-ishizaki-dribblefou-force-farm--thumb.png|'''Ryo Ishizaki''' - Super volonté invincible|link=Ryo Ishizaki - Super volonté invincible
+000471-sano-tacle-vitesse-farm--thumb.png|'''Mitsuru Sano''' - L'acrobate|link=Mitsuru Sano - L'acrobate
+000350-muller-brasdegeant-force-farm--thumb.png|'''Deuter Müller''' - Le mur de fer du géant|link=Deuter Müller - Le mur de fer du géant
+000343-shingo-taclerapide-vitesse-farm--thumb.png|'''Shingo Aoi''' - Une dynamo qui ne connaît pas la fatigue|link=Shingo Aoi - Une dynamo qui ne connaît pas la fatigue
+000338-misaki-goldenduo-technique-farm--thumb.png|'''Taro Misaki''' - Un retour miraculeux|link=Taro Misaki - Un retour miraculeux
+000000MiniatureNoire.png|'''Natureza''' - Le Garçon Prodige|link=Natureza - Le Garçon Prodige
+000315-bunnaak-dribblemuaythai-force-farm--thumb.png|'''Singprasert Bunnaak''' - Combattant Muay thaï|link=Singprasert Bunnaak - Combattant Muay Thaï
+000313-vulcan-piedgauchedjinn-force-farm--thumb.png|'''Vulcan''' - L'as caché de l'Arabie Saoudite|link=Vulcan - L'as caché de l'Arabie Saoudite
+000278-schneider-dribblekaizer-vitesse-farm--thumb.png|'''Karl Heinz Schneider''' - Un chasseur de buts sans pitié|link=Karl Heinz Schneider - Un chasseur de buts sans pitié
+000276-hyuga-tirtigre-force-farm--thumb.png|'''Kojiro Hyuga''' - Un tigre qui a soif de batailles|link=Kojiro Hyuga - Un tigre qui a soif de bataille
+000241-pierre-passeglissante-force-farm--thumb.png|'''Elcide Pierre''' - Le général de la France|link=Elcide Pierre - Le Géneral de la France
+000239-tsubasa-retourne-vitesse-farm--thumb.png|'''Tsubasa Ohzora''' - En route vers une glorieuse victoire|link=Tsubasa Ohzora - En route vers une glorieuse victoire
+000238-matsuyama-passeaigle-force-farm--thumb.png|'''Hikaru Matsuyama''' - Excellente vision stratégique|link=Hikaru Matsuyama - Excellente vision stratégique
+000236-wakabayashi-poingsggk-vitesse-farm--thumb.png|'''Genzo Wakabayashi''' - Défense infaillible|link=Genzo Wakabayashi - Défense infaillible
+000235-owairan-interceptioncalculee-technique-farm--thumb.png|'''Mark Owairan''' - Tour de contrôle Saoudienne|link=Mark Owairan - Tour de contrôle Saoudienne
+000232-wakashimazu-couparriere-technique-farm--thumb.png|'''Ken wakashimazu''' - Gardien ceinture noire|link=Ken Wakashimazu - Gardien ceinture noire
+000231-sawada-duomeiwa-force-farm--thumb.png|'''Takeshi Sawada''' - Partenaire de confiance|link=Takeshi Sawada - partenaire de confiance
+000229-Gentile-défenseAngleDroit-technique-farm--thumb.png|'''Salvatore Gentile''' - Le Pivot du Catenaccio|link=Salvatore Gentile - Le Pivot du Catenaccio
+000228-shingo-feinteangledroit-vitesse-farm--thumb.png|'''Shingo Aoi''' - Le symbole de la vigueur du Japon|link=Shingo Aoi - Le symbole de la vigueur du Japon
+000226-misugi-tacleequipe-technique-farm--thumb.png|'''Jun Misugi''' - Capacité défensive tête froide|link=Jun Misugi - Capacité défensive tête froide
+000225-jito-combisano2-force-farm--thumb.png|'''Hiroshi Jito''' - Puissance énorme|link=Hiroshi Jito - Puissance énorme
+000223-diaz-tirpirouette-technique-farm--thumb.png|'''Juan Diaz''' - Le prodige de la décennie|link=Juan Diaz - Le prodige de la décennie
+000222-soda-taclerasoir-vitesse-farm-invoc.png|'''Makoto Soda''' - Sabre aiguisé|link=Makoto Soda - Sabre aiguisé
+000219-hyuga-dribbletigre-force-farm--thumb.png|'''Kojiro Hyuga''' - La fierté du tigre féroce|link=Kojiro Hyuga - La fierté du tigre féroce
+000218-misaki-classemondiale-technique-farm--thumb.png|'''Taro Misaki''' - Super Technicien|link=Taro Misaki - Super technicien
+000217-nitta-voleefaucon-vitesse-farm--thumb.png|'''Shun Nitta''' - Combattant faucon|link=Shun Nitta - Combattant faucon
+000216-hernandez-arretunemain-vitesse-farm--thumb.png|'''Zino Hernandez''' - Défense parfaite des cages|link=Zino Hernandez - Défense parfaite des cages
+000215-schneider-taclekaizer-force-farm--thumb.png|'''Karl Heinz Schneider''' - Victoire totale|link=Karl Heinz Schneider - Victoire totale
+000214-tsubasa-passefeuillemorte-technique-farm--thumb.png|'''Tsubasa Ohzora''' - La Tour de Contrôle|link=Tsubasa Ohzora - La tour de contrôle
+
+</gallery>
+
+|-|Evènement=
+<!-- Manque :
+- Hino
+- Pascual
+- Morisaki
+-->
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+001057-sorimachi-tir-recis-technique-farm--thumb.png|{{logo_WC}}'''Kazuki Sorimachi''' - Multi-buteur|link=Kazuki Sorimachi - Multi-buteur
+
+001055-urabe-interceptionforcee-vitesse-farm--thumb.gif|{{logo_WC}}'''Hanji Urabé''' - Gars dur insoumis|link=Hanji Urabé - Gars dur insoumis
+
+001053-sano-frappedirectevolee-force-farm--thumb.gif|{{logo_WC}}'''Mitsuru Sano''' - Canaille de la ligne avant du Japon|link=Mitsuru Sano - Canaille de la ligne avant du Japon
+
+000000MiniatureNoire.png|'''Louis Napoléon''' - Canon de la France|link=Louis Napoléon - Canon de la France
+wakashimazu1-farm-thumb.jpg|Ken Wakashimazu|link=Ken_Wakashimazu_-_Le_Gardien_Offensif
+000274_Tsubasa-feuillemorte-technique-special-thumb.png|'''Ohzora Tsubasa''' - Le ballon est mon ami|link=Tsubasa_Ozora_-_Le_ballon_est_mon_ami
+000234-santana-tiraigledorerasterre-force-farm--thumb.png|'''Carlos Santana''' - La Pépite du Brésil|link=Carlos Santana - La Pépite du Brésil
+
+000000MiniatureNoire.png|'''Hajimé Taki''' - Bolide|link=Hajimé Taki - Bolide
+
+000000MiniatureNoire.png|'''Hajimé Taki''' - Jeu coordonné éclatant|link=Hajimé Taki - Jeu coordonné éclatant
+
+000000MiniatureNoire.png|'''Hanji Urabé''' - Puissance persistante|link=Hanji Urabé - Puissance persistante
+
+000000MiniatureNoire.png|'''Hanji Urabé''' - Travailleur acharné en attaque et en défense|link=Hanji Urabé - Travailleur acharné en attaque et en défense
+
+</gallery>
+
+|-|SR=
+
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+000056-pascual-tircombine-technique-invoc--thumb.png|'''Alan Pascual''' - Foot de rue|link=Alan Pascual - Foot de rue
+
+000461-amoro-superarret-vitesse-invoc--thumb.png|'''Amoro''' - Le Dieu des cages de la France|link=Amoro - Le Dieu des cages de la France
+
+<!--Salvatore Gentile-->
+000000MiniatureNoire.png|'''Salvatore Gentile''' - Le Meilleur Libéro d'Europe|link=Salvatore Gentile - Le Meilleur Libéro d'Europe
+000000MiniatureNoire.png|'''Salvatore Gentile''' - Défense Offensive de l'Italie|link=Salvatore Gentile - Défense Offensive de l'Italie
+000000MiniatureNoire.png|'''Salvatore Gentile''' - Le Défenseur Dandy de l'Italie|link=Salvatore Gentile - Le Défenseur Dandy de l'Italie
+
+</gallery>
+
+|-|R=
+
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+000126-pascual-retourne-vitesse-invoc--thumb.png|'''Alan Pascual''' - L'attaquant clé de l'Argentine|link=Alan Pascual - L'attaquant clé de l'Argentine
+
+000157-amoro-arrettripes-force-invoc--thumb.png|'''Amoro''' - Le taulier des cages|link=Amoro - Le taulier des cages
+
+000144-galvan-powershoot-force-invoc--thumb.png|'''Galvan''' - Le bastion de l'Argentine|link=Galvan - Le bastion de l'Argentine
+
+000160-wakabayashi-superarret-technique-invoc--thumb.png|'''Genzo Wakabayashi''' - Le capitaine de la défense|link=Genzo Wakabayashi - Le capitaine de la défense
+
+000127-taki-dribblerapide-vitesse-invoc--thumb.png|'''Hajimé Taki''' - Technicien de la ligne de touche|link=Hajimé Taki - Technicien de la ligne de touche
+
+000142-urabe-taclecoulissant-vitesse-invoc--thumb.png|'''Hanji Urabé''' - Défense tenace|link=Hanji Urabé - Défense tenace
+
+000143-kaltz-grostacle-technique-invoc--thumb.png|'''Hermann Kaltz''' - Bandit|link=Hermann Kaltz - Bandit
+
+000153-matsuyamamarquagetenace-technique-invoc--thumb.png |'''Hikaru Matsuyama''' - Combattant déterminé|link=Hikaru Matsuyama - Combattant déterminé
+
+000148-jito-grostacle-force-invoc---thumb.png|'''Hiroshi Jito''' - Combattant robuste|link=Hiroshi Jito - Combattant robuste
+
+000000MiniatureNoire.png|'''Jun Misugi''' - L’extraordinaire coach joueur|link=Jun Misugi - L’extraordinaire coach joueur
+
+000149-misugi-interception-vitesse-invoc--thumb.png|'''Jun Misugi''' - L'instinct du foot|link=Jun Misugi - L'instinct du foot
+
+000132-misugi-retourne-force-invoc--thumb.png|'''Jun Misugi''' - Le patron du terrain|link=Jun Misugi - Le patron du terrain
+
+000130-sorimachi-tircoupfeu-technique-invoc--thumb.png|'''Kazuki Sorimachi''' - Don de buteur|link=Kazuki Sorimachi - Don de buteur
+
+000129-oda-dosankoshoot-technique-invoc--thumb.png|'''Kazumasa Oda''' - Le frappeur Dosanko|link=Kazumasa Oda - Le frappeur Dosanko
+
+000159-wakashimazu-superpoing-vitesse-invoc--thumb.png|'''Ken Wakashimazu''' - Le gardien no. 1 des collèges|link=Ken Wakashimazu - Le gardien no. 1 des collèges
+
+000000MiniatureNoire.png|'''Koji Yoshikawa''' - Foot trompeur|link=Koji Yoshikawa - Foot trompeur
+
+000123-hyuga-dribblelignedroite-force-invoc--thumb.png|'''Kojiro Hyuga''' - Chasseur de buts|link=Kojiro Hyuga - Chasseur de buts
+
+000000MiniatureNoire.png|'''Léo''' - Appréciation agile|link=Léo - Appréciation agile
+
+000000MiniatureNoire.png|'''Léon Dick''' - Libéro géant|link=Léon Dick - Libéro géant
+
+000124-napoleon-grostacle-force-invoc--thumb.png|'''Louis Napoléon''' - Tireur prodige|link=Louis Napoléon - Tireur prodige
+
+000150-soda-taclerapide-vitesse-invoc--thumb.png|'''Makoto Soda''' - Déclencheur de contre-attaque|link=Makoto Soda - Déclencheur de contre-attaque
+
+000151-soda-dribblerapide-vitesse-invoc--thumb.png|'''Makoto Soda''' - Défenseur fiable du Japon|link=Makoto Soda - Défenseur fiable du Japon
+
+000135-izawa-teteplongeante-vitesse-invoc--thumb.png|'''Mamoru Izawa''' - Puissance de tête prodigieuse|link=Mamoru Izawa - Puissance de tête prodigieuse
+
+000138-izawa-tacleshutetsu-technique-invoc--thumb.png|'''Mamoru Izawa''' - Superbe soutien|link=Mamoru Izawa - Superbe soutien
+
+000000MiniatureNoire.png|'''Matteo''' - Buteur italien|link=Matteo - Buteur italien
+
+000140-sano-retourneacrobatique-technique-invoc--thumb.png|'''Mitsuru Sano''' - Le petit acrobate|link=Mitsuru Sano - Le petit acrobate
+
+000000MiniatureNoire.png|'''Pépé''' - La soif de vaincre|link=Pépé - La soif de vaincre
+
+000154-robson-grossefrappe-technique-invoc--thumb.png|'''Robson''' - La fierté de l'Angleterre|link=Robson - La fierté de l'Angleterre
+
+000487-ishizaki-grostacle-technique-farm--thumb.png |'''Ryo Ishizaki''' - Créateur de chance sur le côté droit|link=Ryo Ishizaki - Créateur de chance sur le côté droit
+
+000146-ishizaki-grostacle-force-invoc--thumb.png|'''Ryo Ishizaki''' - Défense désespérée|link=Ryo Ishizaki - Défense désespérée
+
+000000MiniatureNoire.png|'''Ryo Ishizaki''' - Laisse-le moi !|link=Ryo Ishizaki - Laisse-le moi !
+
+000126-shingo-dribblerapide-vitesse-invoc--thumb.png|'''Shingo Aoi''' - Le numéro 12 de la Nakahara|link=Shingo Aoi - Le numéro 12 de la Nakahara
+
+000145-takasugi-reprisetete-force-invoc--thumb.png|'''Shingo Takasugi''' - Le potentiel de la Nankatsu|link=Shingo Takasugi - Le potentiel de la Nankatsu
+
+000155-takasugi-chargepuissante-technique-invoc--thumb.png|'''Shingo Takasugi''' - Puissant défenseur zélé|link=Shingo Takasugi - Puissant défenseur zélé
+
+000158-nakanishi-superpoing-force-invoc--thumb.png|'''Taichi Nakanishi''' - Gardien titanesque|link=Taichi Nakanishi - Gardien titanesque
+
+000152-kishida-taclerequin-vitesse-invoc--thumb.png|'''Takéshi Kishida''' - Requin hargneux|link=Takéshi Kishida - Requin hargneux
+
+000137-sawada-dribblehabile-technique-invoc--thumb.png|'''Takéshi Sawada''' - Dribbleur grosse technique|link=Takéshi Sawada - Dribbleur grosse technique
+
+000131-misaki-retourne-force-invoc--thumb.png|'''Taro Misaki''' - Concentré sur le but|link=Taro Misaki - Concentré sur le but
+
+000125-kisugi-grossefrappe-force-invoc--thumb.png|'''Teppei Kisugi''' - Le buteur de la Nankatsu|link=Teppei Kisugi - Le buteur de la Nankatsu
+
+000141-ishida-dribblehabile-technique-invoc--thumb.png|'''Tetsuo Ishida''' - Le gars de Shikoku|link=Tetsuo Ishida - Le gars de Shikoku
+
+000000MiniatureNoire.png|'''Toshiya Okano''' - Ailier tenace|link=Toshiya Okano - Ailier tenace
+
+000134-tsubasa-sombrero-vitesse-invoc--thumb.png|'''Tsubasa Ozora''' - L'as de la Nankatsu|link=Tsubasa Ozora - L'as de la Nankatsu
+
+000000MiniatureNoire.png|'''Yuji Sakaki''' - Grand défenseur|link=Yuji Sakaki - Grand défenseur
+
+000133 zangief-dribblepuissant-force-invoc-thumb.png|'''Zangief''' - Le pilier de l'Ouzbékistan|link=Zangief - Le pilier de l'Ouzbékistan
+
+000161-hernandez-superarret-technique-invoc--thumb.png|'''Zino Hernandez''' - Le Dieu des cages de l'Italie|link=Zino Hernandez - Le Dieu des cages de l'Italie
+
+</gallery>
+
+|-|N=
+
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+000167-ichinose-aucunespe-vitesse-farm--thumb.png|'''Akira Ichinosé''' - L'ailier offensif de la Musashi|link=Akira Ichinosé - L'ailier offensif de la Musashi
+
+000183-amoro-arrettripes-technique-farm--thumb.png|'''Amoro''' - Le dernier bastion|link=Amoro - Le dernier bastion
+
+000184-bossi-aucunespe-vitesse-farm--thumb.png|'''Bossi''' - Buteur affamé|link=Bossi - Buteur affamé
+
+000182-galvan-passeprecise-force-farm--thumb.png|'''Galvan''' - Galvan le géant|link=Galvan - Galvan le géant
+
+000000MiniatureNoire.png|'''Gert Kaiser''' - Attaquant de l'équipe Juniors de Hollande|link=Gert Kaiser - Attaquant de l'équipe Juniors de Hollande
+
+000180-taki-passeprecise-vitesse-farm--thumb.png|'''Hajimé Taki''' - La trinité de la Shutetsu|link=Hajimé Taki - La trinité de la Shutetsu
+
+000162-urabe-passeprecise-vitesse-farm--thumb.png|'''Hanji Urabé''' - Quantité d'entraînement insurpassable|link=Hanji Urabé - Quantité d'entraînement insurpassable
+
+000000MiniatureNoire.png|'''Hans Doleman''' - Gardien de l'équipe Juniors de Hollande|link=Hans Doleman - Gardien de l'équipe Juniors de Hollande
+
+000000MiniatureNoire.png|'''Johan Rensenbrink''' - Attaquant de l'équipe Juniors de Hollande|link=Johan Rensenbrink - Attaquant de l'équipe Juniors de Hollande
+
+000176-sorimachi-passeprecise-technique-farm--thumb.png|'''Kazuki Sorimachi''' - Attaquant au mental d'acier|link=Kazuki Sorimachi - Attaquant au mental d'acier
+
+000175-oda-tirprecis-vitesse-farm--thumb.png|'''Kazumasa Oda''' - Persévérance|link=Kazumasa Oda - Persévérance
+
+000164-nishio-aucunespe-force-farm--thumb.png|'''Koji Nishio''' - Rêves de victoire|link=Koji Nishio - Rêves de victoire
+
+000172-narita-aucunespe-force-farm--thumb.png|'''Kuniaki Narita''' - Le grand milieu de la Meiwa|link=Kuniaki Narita - Le grand milieu de la Meiwa
+
+000177-izawa-tirprecis-technique-farm--thumb.png|'''Mamoru Izawa''' - La trinité de la Shutetsu|link=Mamoru Izawa - La trinité de la Shutetsu
+
+000174-kato-aucunespe-vitesse-farm--thumb.png|'''Masanori Kato''' - La défense sans faille de la Furano|link=Masanori Kato - La défense sans faille de la Furano
+
+000165-nakayama-aucunespe-technique-farm--thumb.png|'''Masao Nakayama''' - Rêves de victoire|link=Masao Nakayama - Rêves de victoire
+
+000169-honma-aucunespe-technique-farm--thumb.png|'''Minoru Honma''' - L'ailier rapide de la Musashi|link=Minoru Honma - L'ailier rapide de la Musashi
+
+000173-sawaki-aucunespe-vitesse-farm--thumb.png|'''Noboru Sawaki''' - Le buteur de la Meiwa|link=Noboru Sawaki - Le buteur de la Meiwa
+
+000000MiniatureNoire.png|'''Ruud Klismann''' - Milieu offensif de l'équipe Juniors de Hollande|link=Ruud Klismann - Milieu offensif de l'équipe Juniors de Hollande
+
+000168-sanada-aucunespe-force-farm--thumb.png|'''Shinji Sanada''' - Le buteur de la Musashi|link=Shinji Sanada - Le buteur de la Musashi
+
+000166-nakanishi-arrettripes-force-farm--thumb.png|'''Taichi Nakanishi''' - Physique puissant|link=Taichi Nakanishi - Physique puissant
+
+000163-kishida-passeprecise-vitesse-farm--thumb.png|'''Takéshi Kishida''' - Esprit inébranlable|link=Takéshi Kishida - Esprit inébranlable
+
+000181-kisugi-passeprecise-force-farm--thumb.png|'''Teppei Kisugi''' - La trinité de la Shutetsu|link=Teppei Kisugi - La trinité de la Shutetsu
+
+000171-ishida-tirprecis-technique-farm--thumb.png|'''Tetsuo Ishida''' - Technique flamboyante|link=Tetsuo Ishida - Technique flamboyante
+
+000170-daimaru-aucunespe-force-farm--thumb.png|'''Yuichiro Daimaru''' - Puissance de frappe explosive|link=Yuichiro Daimaru - Puissance de frappe explosive
+
+000179-morisaki-arrettripes-technique-farm--thumb.png|'''Yuzo Morisaki''' - Détermination sans relâche|link=Yuzo Morisaki - Détermination sans relâche
+
+000189 zangief-passeprecise-force-scenario-thumb.png|'''Zangief''' - Joueur puissant|link=Zangief - Joueur puissant
+
+</gallery>
+
+|-|Raids (Jap only)=
+
+<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+misaki2-farm-thumb.jpg|Taro Misaki|link=Taro_Misaki_-_L_Ame_Indomptable
+</gallery>
+
+</tabber>
+[[Catégorie:Personnages]]

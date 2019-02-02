@@ -1,0 +1,118 @@
+
+<gallery captionalign="center" bordersize="none" captionsize="medium" widths="105" captionposition="below" columns="dynamic" navigation="true">
+
+001012-levin-rideauauroreboreale-vitesse-invoc--thumb.gif|'''Stefan Lévine''' - L'éclat prestigieux de l'aurore boréale|link=Stefan Lévine - L'éclat prestigieux de l'aurore boréale
+001014-kaltz-defenseherisson-technique-invoc--thumb.png|'''Hermann Kaltz''' - Artisan défenseur de l'Allemagne|link=Hermann Kaltz - Artisan défenseur de l'Allemagne
+001016-galvan-contrehautepuissance-force-invoc--thumb.png|'''Galvan''' - Citadelle sud-américaine|link=Galvan - Citadelle sud-américaine
+
+
+000996-zaragoza-taclevaguefond-force-invoc--thumb.png|'''Zaragoza''' - Troupes de soutien au sol du Mexique|link=Zaragoza - Troupes de soutien au sol du Mexique
+000994-lopez-voleepivotante-technique-invoc--thumb.png|'''Lopez''' - Le buteur du Mexique|link=Lopez - Le buteur du Mexique
+000992-albez-attaquelucha-vitesse-invoc--thumb.png|'''Arbez''' - Jeu combiné aérien coordonné|link=Arbez - Jeu combiné aérien coordonné
+000990-suarez-taclevaguefond-vitesse-invoc--thumb.png|'''Suarez''' - Football aérien extrême|link=Suarez - Football aérien extrême
+000988-garcia-bigbangshoot-force-invoc--thumb.png|'''Garcia''' - Super intensité destructrice de planète|link=Garcia - Super intensité destructrice de planète
+000934-victorino-interceptionhaute-vitesse-force-invoc--thumb.png|'''Ramon Victorino''' - Le regard perçant de la bête visant la victoire|link=Victorino - Le regard perçant de la bête visant la victoire
+000932-diaz-retournevolant-technique-invoc--thumb.gif|'''Juan Diaz''' - Joueur acrobatique|link=Juan Diaz - Joueur acrobatique
+000917-federiks-tirboucletechnique-force-invoc--thumb.png|'''Federiks''' - Technique à la française|link=Federiks - Technique à la française
+000915-larson-sss-vitesse-invoc--thumb.gif|'''Larson''' - La flèche de la Suède|link=Larson - La flèche de la Suède
+000913-natureza-interceptioneclair-technique-invoc--thumb.png|'''Natureza''' - La dernière carte à jouer|link=Natureza - La dernière carte à jouer
+000848_margus-teteplongeantetechnique-vitesse-invoc-thumb.png|'''Manfred Margus''' - Pur Attaquant|link=Manfred Margus - Pur Attaquant
+000845 rivaul-combiretourne-force-invoc-thumb.gif|'''Rivaul''' - La fierté de la Catalogne|link=Rivaul - La fierté de la Catalogne
+000816_diaz-tirdelafeuillemortecombinee-vitesse-invoc-thumb.png|'''Juan Diaz''' - Le p'tit gars rapide qui détestait perdre|link=Juan Diaz - Le p'tit gars rapide qui détestait perdre
+000814_schneider-firetwindriveshoot-force-invoc-thumb.png|'''Karl Heinz Schneider''' - Guerrier Footballeur à la Grande Fierté|link=Karl Heinz Schneider - Guerrier Footballeur à la Grande Fierté
+000808_tsubasa-pushingdivinghead-vitesse-invoc-thumb.png|'''Tsubasa Ozora''' - L'Enfant du Foot du Monde|link=Tsubasa Ozora - L'Enfant du Foot du Monde
+000754_jito-interceptionforcee-tech-invoc-thumb.png|'''Hiroshi Jito''' - L'immortel Jeune de Kyushu|link=Hiroshi Jito - L'immortel Jeune de Kyushu
+000752_matsuyama-tacledelaigle-force-invoc-thumb.gif|'''Hikaru Matsuyama''' - Les Griffes de l'Aigle Farouche|link=Hikaru Matsuyama - Les Griffes de l'Aigle Farouche
+000750_ishizaki-dirtydefense-vitesse-invoc-thumb.png|'''Ryo Ishizaki''' - Un enfant du Foot acharné|link=Ryo Ishizaki - Un enfant du Foot acharné
+000748_hyuga-voleedutigresautee-tech-invoc-thumb.png|'''Kojiro Hyuga''' - Le serment de la 3ème victoire d'affilée|link=Kojiro Hyuga - Le serment de la 3ème victoire d'affilée
+000334_espadas-arretmiraculeux-vitesse-invoc-thumb.png|'''Ricardo Espadas''' - Le gardien miraculeux du Mexique|link=Ricardo Espadas - Le gardien miraculeux du Mexique
+000333_cruyfford-tirspirale-tech-invoc-thumb.png|'''Brian Cruyfford''' - Un meneur de jeu dans l'oeil du cyclone|link=Brian Cruyfford - Un meneur de jeu dans l'oeil du cyclone
+000332_misaki-senkouraijushoot-force-invoc-thumb.png|'''Taro Misaki''' - La persévérance menant à la victoire|link=Taro Misaki - La persévérance menant à la victoire
+
+
+000726_brolin-sunrisingtacle-vitesse-invoc-thumb.png|'''Brolin''' - Le Lion de Scandinavie|link=Brolin - Le Lion de Scandinavie
+000724-gentile-interceptiondudandy-tech-invoc--thumb.png|'''Salvatore Gentile''' - Le Prince du Catenaccio|link=Salvatore Gentile - Le Prince du Catenaccio
+000722_schneider-passedufeu-tech-invoc-thumb.png|'''Karl Heinz Schneider''' - Empereur Dominant le Terrain|link=Karl Heinz Schneider - Empereur Dominant le Terrain
+000700_schester-splendideinterception-force-invoc-thumb.png|'''Franz Schester''' - Prince du Milieu de Terrain Allemand|link=Franz Schester - Prince du Milieu de Terrain Allemand
+000698_misugi-drivepass-tech-invoc-thumb.png|'''Jun Misugi''' - As de Diamant|link=Jun Misugi - As de Diamant
+000696_hyuga-tigeroverhead-vitesse-invoc-thumb.png|'''Kojiro Hyuga''' - Tigre Écrasant les Vagues Rugissantes|link=Kojiro Hyuga - Tigre Écrasant les Vagues Rugissantes
+000665_bunnaak-taclemuaythai-tech-invoc-thumb.png|'''Singprasert Bunnaak''' - Combat Muay Thaï|link=Singprasert Bunnaak - Combat Muay Thaï
+000663_owairan-slidingblock-vitesse-invoc-thumb.png|'''Mark Owairan''' - Le prince de l'Arabie Saoudite|link=Mark Owairan - Le prince de l'Arabie Saoudite
+000661_shingo-crouchxtractionss-tech-invoc-thumb.gif|'''Shingo Aoi''' - Endurance inépuisable|link=Shingo Aoi - Endurance inépuisable
+000646_matsuyama-eagleshot-force-invoc-thumb.png|'''Hikaru Matsuyama''' - Le cœur du Japon|link=Hikaru Matsuyama - Le cœur du Japon
+000644_misaki-greenpass-vitesse-invoc-thumb.gif|'''Taro Misaki''' - Créateur de chance de but pour le Japon|link=Taro Misaki - Créateur de chance de but pour le Japon
+000642_tsubasa-tacleaurora-force-invoc-thumb.png|'''Tsubasa Ozora''' - Rêve doré|link=Tsubasa Ozora - Rêve doré
+000659_leo-braziliangoldenduo-force-invoc-thumb.png|'''Léo''' - Passeur Brésilien de confiance|link=Léo - Passeur Brésilien de confiance
+000657_pépé-brazilianwaveattack-tech-invoc-thumb.png|'''Pépé''' - Le super remplaçant du Brésil|link=Pépé - Le super remplaçant du Brésil
+000538_pascual-doublevoleeargentine-force-invoc-thumb.png|'''Alan Pascual''' - Buteur fantasmagorique|link=Alan Pascual - Buteur fantasmagorique
+000536_victorino-duodattaquantsultime-tech-invoc-thumb.png|'''Ramon Victorino''' - La Panthère Noire d'Amérique du Sud|link=Ramon Victorino - La Panthère Noire d'Amerique du Sud
+000534_schneider-feintedefeu-vitesse-invoc-thumb.png|'''Karl Heinz Schneider''' - Celui qu'on nomme le Roi des Buts Allemand|link=Karl Heinz Schneider - Celui qu'on nomme le Roi des Buts Allemand
+000506_dribbledutanklourd-force-invoc-thumb.png|'''Cha Incheon''' - Tigre rigide|link=Cha Incheon - Tigre rigide
+000508_yong-un-retourneacrobatiquevolantabassealtitude-tech-invoc-thumb.png|'''Lee Yong-un''' - Tigre souple|link=Lee Yong-un - Tigre souple
+000504_xiang-reprisedelatetearcenciel-vitesse-invoc-thumb.png|'''Fei Xiang''' - Oiseau Mystérieux|link=Fei Xiang - Oiseau Mystérieux
+000502_junguang-contrecoupcanonrapide-force-invoc-thumb.png|'''Xiao Junguang''' - Pied droit en or|link=Xiao Junguang - Pied droit en or
+000467_vulcan-canonvulcan-force-invoc-thumb.gif|'''Vulcan''' - Vulcain le Djinn|link=Vulcan - Vulcain le Djinn
+000469_napoleon-attaquedelatoureiffel-tech-invoc-thumb.png|'''Louis Napoléon''' - L'arme secrète de la France|link=Louis Napoléon - L'arme secrète de la France
+000465_pierre-taclepapillon-tech-invoc-thumb.png|'''Elcide Pierre''' - Le Dominateur du Milieu de Terrain|link=Elcide Pierre - Le Dominateur du Milieu de Terrain
+000435_santana-tirfeuillemortevoletantedoree-force-invoc-thumb.png|'''Carlos Santana''' - L'Enfant de Dieu est descendu des Cieux|link=Carlos_Santana_-_L'Enfant de Dieu est descendu des Cieux
+000433_tsubasa-tirdelafeuillemortevolante-tech-invoc-thumb.png|'''Tsubasa Ozora''' - Le Trésor de Sao Paulo|link=Tsubasa Ozora - Le Trésor de Sao Paulo
+000532_doleman-coupdesdeuxpoings-force-invoc-thumb.png|'''Hans Doleman''' - Le Dieu des cages de la Hollande|link=Hans Doleman - Le Dieu des cages de la Hollande
+000530_dick-contredehautepuissance-force-invoc-thumb.png|'''Léon Dick''' - Le libéro de la Hollande|link=Léon Dick - Le libéro de la Hollande
+000528_Klismann-conservationfluideduballon-tech-invoc-thumb.png|'''Ruud Klismann''' - Le déclencheur des attaques de la Hollande|link=Ruud Klismann - Le déclencheur des attaques de la Hollande
+000527 rensenbrink-dribblegrandetechnique-vitesse-invoc-thumb.png|'''Johan Rensenbrink''' - Un buteur cool|link=Johan Rensenbrink - Un buteur cool
+000524_kaiser-dribblegrandevitesse-vitesse-invoc-thumb.png|'''Gert Kaiser''' - Le buteur de la Hollande|link=Gert Kaiser - Le buteur de la Hollande
+000415-ishizaki-contrevisage-technique-invoc--thumb.png|'''Ryo Ishizaki''' - Guts Ishizaki|link=Ryo Ishizaki - Guts Ishizaki
+000413-soda-taclerasoir-force-invoc--thumb.png|'''Makoto Soda''' - Combattant Lame de Rasoir|link=Makoto Soda - Combattant Lame de Rasoir
+000411-nitta-tirfaucon-vitesse-invoc--thumb.png|'''Shun Nitta''' - Le Talent du Faucon|link=Shun Nitta - Le Talent du Faucon
+
+000338_hernandez-arretaunemain-tech-invoc-thumb.png|'''Zino Hernandez''' - Les Qualités de Zino Hernandez|link=Zino Hernandez - Les Qualités de Zino Hernandez
+000386-Gentile-contreDandy-force-invoc--thumb.png|'''Salvatore Gentile''' - La Nouvelle Star de l'Italie|link=Salvatore Gentile - La Nouvelle Star de l'Italie
+
+
+000385_Shingo Aoi-thumb.jpg|Shingo Aoi|link=Shingo_Aoi_-_Le_Prince_du_Soleil
+
+misugi3_thumb.jpg|'''Jun Misugi''' - Le miracle des 30 minutes|link=Jun_Misugi_-_Le_Miracle_des_30_Minutes
+akai2_thumb.jpg|'''Tomeya Akai''' - L'effrayant stoppeur rouge|link=Tomeya_Akai_-_L_Effrayant_Stoppeur_Rouge
+brolin2_thumb.jpg|'''Brolin''' - L'axe défensif de la Suède|link=Brolin_-_L_Axe_Défensif_de_la_Suède
+levin2_thumb.jpg|'''Stefan Lévine''' - Dieu destructeur du terrain|link=Stephan_Levin_-_Le_Dieu_de_la_Destruction_du_Terrain
+misugiv2_thumb.jpg|'''Jun Misugi''' - Retour du jeune noble du terrain|link=Jun_Misugi_-_Le_Prince_des_Pelouses_est_de_retour
+misaki2v2_thumb.jpg|'''Taro Misaki''' - Esprit combatif silencieux|link=Taro_Misaki_-_Un_esprit_Combatif_Apaisé
+nitta2v2_thumb.jpg|'''Shun Nitta''' - Le Faucon volant à travers le Monde|link=Shun Nitta - Le Faucon volant à travers le Monde
+hyuga2v2_thumb.jpg|'''Kojiro Hyuga''' - Tonnerre Rugissant|link=Kojiro Hyuga - Tonnerre Rugissant
+schneider2v2_thumb.jpg|'''Karl Heinz Schneider''' - Le regard perçant du jeune empereur|link=Karl_Heinz_Schneider_-_Le_Spectacle_du_jeune_Empereur
+muller2_thumb.jpg|'''Deuter Muller''' - Gardien mythique|link=Deuter_Muller_-_Gardien_de_Rêve
+000191-napoleon-voleecanon-force-invoc--thumb.png|'''Louis Napoléon''' - Coup de Détonateur|link=Louis_Napoléon - Coup de Détonateur
+schneider3v2_thumb.jpg|'''Karl Heinz Schneider''' - Les flammes de l'empereur|link=Karl_Heinz_Schneider_-_Les_flammes_de_L_empereur
+
+000048--thumb.png|'''Ken Wakashimazu''' - Gardien combattant|link=Ken Wakashimazu - Gardien combattant
+hernandes2V2_thumb.jpg|'''Gino Hernandes''' - Gardien parfait|link=Gino_Hernandes_-_Gardien_Parfait
+wakabayashi2_thumb.jpg|'''Genzo Wakabayashi''' - SGGK|link=Genzo_Wakabayashi_-_SGGK
+owairan2_thumb.jpg|'''Mark Owairan''' - Le prince des nuits d'Arabie|link=Mark_Owairan_-_Le_Prince_de_la_Nuit_Arabe
+misugi2v2_thumb.jpg|'''Jun Misugi''' - Génie Naturel|link=Jun Misugi - Génie Naturel
+000019-gentile-defenseangledroit-vitesse-invoc--thumb.jpg|'''Salvatore Gentile''' - Mur d'acier du dandy|link=Salvatore_Gentile_-_La_Forteresse_Imprenable
+matsuyama2v2_thumb.jpg|'''Hikaru Matsuyama''' - Aigle sauvage du nord|link=Hikaru_Matsuyama_-_L_Aigle_Sauvage_des_Mers_du_Nord
+robson2_thumb.jpg|'''Robson''' - Coeur de lion|link=Robson_-_Coeur_de_Lion
+bunaku2_thumb.jpg|'''Singprasert Bunnark''' - Arme fatale|link=Singprasert_Bunnark_-_L_arme_mortelle_totale
+jitov2_thumb.jpg|'''Hiroshi Jito''' - Gardien d'acier|link=Hiroshi_Jito_-_Garde_d_Acier
+000038_Shingo Aoi-thumb.jpg|'''Shingo Aoi''' - Prince du soleil flamboyant|link=Shingo_Aoi_-_Le_Prince_du_Soleil_Luisant
+kartz2_thumb.jpg|'''Herman Kartz''' - Le bosseur|link=Herman_Kartz_-_Le_Travailleur
+misakiv2_thumb.jpg|'''Taro Misaki''' - Le golden Duo du Japon|link=Taro_Misaki_-_La_combinaison_dorée_fierté_du_Japon
+
+000011_Ohzora Tsubasa-goldenduo-tech-invoc-thumb.jpg|'''Tsubasa Ozora''' - Un Vrai Capitaine|link=Tsubasa Ohzora - Un Vrai Capitaine
+
+diaz2v2_thumb.jpg|'''Juan Diaz''' - Le trésor de l'Argentine|link=Juan_Diaz_-_Le_Trésor_Argentin
+pierre2_thumb.jpg|'''Elcide Pierre''' - Commandant majestueux|link=Elcide Pierre - Commandant majestueux
+misaki4v2_thumb.jpg|'''Taro Misaki''' - L'artiste du terrain|link=Taro_Misaki_-_L_Artiste_des_Terrains
+
+000007_Ohzora Tsubasa-feuillemorte-force-invoc-thumb.jpg|'''Tsubasa Ozora''' - Le Champion de la Nankatsu|link=Tsubasa Ozora - Le Champion de la Nankatsu
+
+hinov2_thumb.jpg|'''Hino Ryoma''' - Japanese Bomber|link=Ryoma_Hino_-_Le_Bombardier_Japonais
+000005_Santana-tirAigleDoré-technique-invoc--thumb.jpg|'''Carlos Santana''' - Soldat Parfait|link=Carlos Santana - Soldat Parfait
+000004-napoleon-tircanon-vitesse-invoc--thumb.png|'''Louis Napoléon''' - Tireur de Boulet de Canon|link=Louis Napoléon - Tireur de Boulet de Canon
+
+000003 schneider-tirdufeu-vitesse-invoc-thumb.png|'''Karl Heinz Schneider''' - La Fierté du Jeune Empereur|link=Karl_Heinz_Schneider_-_La_fierté_du_jeune_empereur
+
+000026_Hyuga-tigershot-force-invoc-thumb.jpg|'''Kojiro Hyuga''' - Crocs Ressortis|link=Kojiro Hyuga - Crocs Ressortis
+000025_Kojiro Hyuga-thumb.jpg|'''Kojiro Hyuga''' - L'invincible As des Buts|link=Kojiro Hyuga - L'invincible As des Buts
+
+</gallery>

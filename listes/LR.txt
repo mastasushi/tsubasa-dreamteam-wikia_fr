@@ -1,0 +1,6 @@
+<gallery captionalign="center" bordersize="none" captionsize="medium" widths="105" captionposition="below" columns="dynamic" navigation="true">
+001112-misugi-retourneacrobatiqueultime-vitesse-invoc--thumb.gif|'''Jun Misugi''' - Joueur de génie incomparable|link=Jun Misugi - Joueur de génie incomparable
+001201-natureza-braziliandreamtwinshot-force-invoc--thumb.gif|'''Natureza''' - Le magicien du Brésil|link=Natureza - Le magicien du Brésil
+001199-misaki-goldentwinshoot-technique-invoc--thumb.gif|'''Taro Misaki''' - L'autre enfant du foot|link=Taro Misaki - L'autre Enfant du Foot
+
+</gallery>

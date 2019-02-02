@@ -1,0 +1,101 @@
+{{Fiche joueur new
+|joueur = Kojiro Hyuga
+|nom_joueur = L'invincible As des Buts
+|type = force
+|poste = AT
+|pays = Japon
+|équipe = Japon (juniors)
+|époque = Tournoi international juniors
+|acquisition = Recrutement
+
+|id = 000025
+|image = 000025-hyuga-neotirtigre-force-invoc.png
+|id_foil = 000299
+|image_foil = 000299-hyuga-neotirtigre-force-invoc.png
+|rareté = UR
+
+|endurance = 1004
+
+|dribble = 4458
+|dribble_bonus = 743
+|tir = 7050
+|tir_bonus = 1175
+|passe = 4787
+|passe_bonus = 798
+
+|tacle = 4649
+|tacle_bonus = 775
+|contre = 5075
+|contre_bonus = 846
+|interception = 4614
+|interception_bonus = 769
+
+|rapidité = 4418
+|rapidité_bonus = 736
+|puissance = 5690
+|puissance_bonus = 948
+|technicité = 4994
+|technicité_bonus = 832
+
+|base_id = 000001
+|base_image = 000001-hyuga-neotirtigre-force-invoc.png
+|base_id_foil = 000298
+|base_image_foil = 000298-hyuga-neotirtigre-force-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 837
+
+|base_dribble = 2972
+|base_dribble_bonus = 495
+|base_tir = 4700
+|base_tir_bonus = 783
+|base_passe = 3188
+|base_passe_bonus = 531
+
+|base_tacle = 3096
+|base_tacle_bonus = 516
+|base_contre = 3383
+|base_contre_bonus = 564
+|base_interception = 3078
+|base_interception_bonus = 513
+
+|base_rapidité = 2945
+|base_rapidité_bonus = 491
+|base_puissance = 3792
+|base_puissance_bonus = 632
+|base_technicité = 3331
+|base_technicité_bonus = 555
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Jeu en Puissance
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Force : Attaque +5%
+
+|TS_main = Néo-tir du tigre
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 455
+|TS_main_coût = 420
+|TS_main_effet = {{effet_souffle|2}}
+
+|TS_2 = Tacle du tigre féroce
+|TS_2_type = Tacle
+|TS_2_rang = A
+|TS_2_puissance = 300
+|TS_2_coût = 315
+
+|passive_skill = Anti-contre
+|passive_skill_rang = A
+|passive_skill_description = Si l'adversaire sélectionne un contre : Paramètres + 20%
+|passive_skill_jap_only = Oui
+
+|taille = 170
+|poids = 59
+
+|description = A travers diverses expériences, Hyuga a beaucoup appris. Maintenant, son but n'est plus de battre Tsubasa mais simplement de devenir le meilleur attaquant au monde. Il fait bon usage de sa nouvelle technique "Néo tir du tigre", marquant des buts à chaque match.
+
+|jap = Oui
+|glo = Oui
+}}

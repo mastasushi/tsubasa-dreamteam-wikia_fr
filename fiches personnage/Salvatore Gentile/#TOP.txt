@@ -1,6 +1,6 @@
 {{Top
   |{{Top ligne
-    |image = 000725-gentile-interceptiondudandy-tech-invoc.png
+    |image = 000724-gentile-interceptiondudandy-tech-invoc--thumb.png
     |page = Salvatore Gentile - Le Prince du Catenaccio
     |statistiques = 47407
     |teamskill = Joueurs Européens :<br/>Tous paramètres +7%
@@ -12,7 +12,7 @@
     |TS_2_rang = A
   }}
   |{{Top ligne
-    |image = 000387-Gentile-contreDandy-force-invoc.png
+    |image = 000386-Gentile-contreDandy-force-invoc--thumb.png
     |page = Salvatore Gentile - La Nouvelle Star de l'Italie
     |statistiques = 47167
     |teamskill = Défenseurs et Milieux Défensifs :<br/>Défense +5%
@@ -24,7 +24,8 @@
     |TS_2_rang = A
   }}
   |{{Top ligne
-    |image = 000043-gentile-defenseangledroit-vitesse-invoc.png
+    |image = 000019-gentile-defenseangledroit-vitesse-invoc--thumb.png
+    |image = 000019-gentile-defenseangledroit-vitesse-invoc--thumb.jpg
     |page = Salvatore Gentile - Mur d'Acier du Dandy
     |statistiques = 41485
     |teamskill = Joueurs Type Vitesse :<br/>Tacle +10%
@@ -36,7 +37,7 @@
     |TS_2_rang = A
   }}
   |{{Top ligne
-    |image = 000402-Gentile-contrePuissant-force-farm.png
+    |image = 000401-Gentile-contrePuissant-force-farm--thumb.png
     |page = Salvatore Gentile - Star Italienne de la prochaine génération
     |statistiques = 35475
     |teamskill = Défenseurs :<br/>Contre +5%
@@ -45,7 +46,8 @@
     |TS_main_rang = B
   }}
   |{{Top ligne
-    |image = 000393-Gentile-tacleFortePuissance-force-invoc.png
+    |image = 000392-Gentile-tacleFortePuissance-force-invoc--thumb.png
+    |image = 000392-Gentile-tacleFortePuissance-force-invoc.png
     |page = Salvatore Gentile - Le Meilleur Libéro d'Europe
     |statistiques = 26918
     |teamskill = Défenseurs et Milieux Défensifs :<br/>Défense +3%
@@ -53,10 +55,9 @@
     |TS_main_type = tacle
     |TS_main_rang = A
   }}
-
   |{{Top ligne
-    |image = 000922-Gentile-dribblePuissant-vitesse-invoc.png
-    |image = SilhouetteNoire.png
+    |image = 000921-Gentile-dribblePuissant-vitesse-invoc--thumb.png
+    |image = 000921-Gentile-dribblePuissant-vitesse-invoc.png
     |page = Salvatore Gentile - Défense Offensive de l'Italie
     |statistiques = 26687
     |teamskill = Joueur Type Vitesse :<br/>Dribble +5%
@@ -64,9 +65,9 @@
     |TS_main_type = dribble
     |TS_main_rang = A
   }}
-
   |{{Top ligne
-    |image = 000113-Gentile-taclePuissant-force-invoc.png
+    |image = 000076-Gentile-taclePuissant-force-invoc--thumb.png
+    |image = 000076-Gentile-taclePuissant-force-invoc.png
     |page = Salvatore Gentile - Le Défenseur Dandy de l'Italie
     |statistiques = 26189
     |teamskill = Défenseurs :<br/>tacle +3%
@@ -75,7 +76,7 @@
     |TS_main_rang = A
   }}
   |{{Top ligne
-    |image = 000257-Gentile-défenseAngleDroit-technique-farm.png
+    |image = 000229-Gentile-défenseAngleDroit-technique-farm--thumb.png
     |page = Salvatore Gentile - Le Pivot du Catenaccio
     |statistiques = 18357
     |teamskill = Défenseurs :<br/>tacle +3%

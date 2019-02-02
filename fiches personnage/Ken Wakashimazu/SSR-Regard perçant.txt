@@ -1,0 +1,77 @@
+{{Fiche joueur new
+|joueur = Ken Wakashimazu
+|nom_joueur = Regard perçant ne laissant pas s'échapper les tirs
+|type = force
+|poste = GB
+|pays = Japon
+|équipe = Collège Toho Academy
+|époque = Collège
+|acquisition = Shop PvP
+
+|id = 001342
+|image = 001342.png
+|rareté = UR
+
+|endurance = 869
+
+|coup_de_poing = 6320
+|coup_de_poing_bonus = 1053
+|arrêt = 5129
+|arrêt_bonus = 855
+
+|rapidité = 4816
+|rapidité_bonus = 803
+|puissance = 4313
+|puissance_bonus = 719
+|technicité = 3739
+|technicité_bonus = 623
+
+|SSR_id = 001341
+|SSR_image = 001341.png
+
+|SSR_endurance = 724
+
+|SSR_coup_de_poing = 4213
+|SSR_coup_de_poing_bonus = 702
+|SSR_arrêt = 3419
+|SSR_arrêt_bonus = 570
+
+|SSR_rapidité = 3211
+|SSR_rapidité_bonus = 535
+|SSR_puissance = 2875
+|SSR_puissance_bonus = 479
+|SSR_technicité = 2492
+|SSR_technicité_bonus = 415
+
+|balle_haute = Bon
+|balle_basse = Normal
+
+|team_skill = L'éveil des collégiens
+|team_skill_rang = S
+|team_skill_description = Collégiens : Tous Paramètres +10%
+
+|TS_main = Saut triangulaire coup tranchant défensif
+|TS_main_type = coup_de_poing
+|TS_main_rang = A
+|TS_main_puissance = 325
+|TS_main_coût = 185
+
+|TS_2 = Saut triangulaire
+|TS_2_type = arrêt
+|TS_2_rang = B
+|TS_2_puissance = 295
+|TS_2_coût = 275
+
+|passive_skill = Combinaison (Toho Academy)
+|passive_skill_rang = B
+|passive_skill_description = Avec Kojiro Hyuga, Kazuki Sorimachi, Takéshi Sawada et Ken Wakashimazu dans la même équipe : Paramètres +20%
+
+|taille = 172
+|poids = 60
+
+|description = Le meilleur gardien évoluant dans une équipe de collège au Japon et gardien de la Toho Academy. Il est également ceinture noire de karaté de style Wakadô. L'utilisation de ses techniques de karaté dans les matchs lui a valu le nom de "Gardien Karaté". Il a été le premier gardien du Japon à arrêter le "Tir de la feuille morte" de Tsubasa.
+
+|date_glo = 
+|date_jap =
+
+}}

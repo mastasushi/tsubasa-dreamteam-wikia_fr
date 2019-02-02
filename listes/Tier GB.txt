@@ -1,0 +1,103 @@
+{| class="article-table" style="width: 100%;" cellspacing="1" cellpadding="1" border="0"
+! scope="col" |
+! scope="col" |{{Type|force}}
+! scope="col" |{{Type|vitesse}}
+! scope="col" |{{Type|technique}}
+|- valign="top"
+|S+
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+001050--thumb.png|link=Genzo Wakabayashi - Dieu des cages défiant le monde
+001097--thumb.png|link=Zino Hernandez - La persévérance du Gardien Parfait
+001414--thumb.png|link=Yuzo Morisaki - SG (Super Gutsy) GK
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+001082--thumb.png|link=Deuter Müller - Gardien le plus fort d'Allemagne
+001177--thumb.png|link=Salinas - Le mur saint des Canarinhos
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+001427--thumb.png|link=Salinas - Dieu protecteur des cages du Brésil
+</gallery>
+|- valign="top"
+|S
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000565--thumb.png|link=Ken Wakashimazu - Fierté Nippone
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000559--thumb.png|(Avec arrêt S)|link=Genzo Wakabayashi - Le Dieu des Cages qui portait le Drapeau du Japon
+</gallery>
+|- valign="top"
+|S-
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000654--thumb.png|link=Salinas - Le gardien de génie du Brésil
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000900--thumb.png|link=Zino Hernandez - Sixieme Sens Affuté
+001368--thumb.png|link=Michel Yamada - Super araignée grosse défense
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000987--thumb.png|link=Ricardo Espadas - Défense type super attaque
+001159--thumb.png|link=Ken Wakashimazu - Défense type super attaque
+</gallery>
+|- valign="top"
+|A+
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000046--thumb.png|link=Genzo Wakabayashi - SGGK
+000202--thumb.png|link=Deuter Muller - Gardien mythique
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000357--thumb.png|link=Ricardo Espadas - Le gardien miraculeux du Mexique
+001165--thumb.png|link=Yuzo Morisaki - Grand Gars Courageux
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000559--thumb.png|(Sans arrêt S)|link=Genzo Wakabayashi - Le Dieu des Cages qui portait le Drapeau du Japon
+001279--thumb.png|(35% - 40%)|link=Deuter Müller - Le dernier rempart de l'Allemagne
+</gallery>
+|- valign="top"
+|A
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000389--thumb.png|link=Zino Hernandez - Les Qualités de Zino Hernandez
+001279--thumb.png|(25% - 30%)|link=Deuter Müller - Le dernier rempart de l'Allemagne
+</gallery>
+|- valign="top"
+|B
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000533--thumb.png|link=Hans Doleman - Le Dieu des cages de la Hollande
+001342--thumb.png|link=Ken Wakashimazu - Regard perçant ne laissant pas s'échapper les tirs
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000047--thumb.png|link=Zino Hernandez - Gardien Parfait
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000048--thumb.png|link=Ken Wakashimazu - Gardien combattant
+001279--thumb.png|(0% - 20%)|link=Deuter Müller - Le dernier rempart de l'Allemagne
+</gallery>
+|- valign="top"
+|C
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000452--thumb.png|link=Zino Hernandez - Intuition naturelle
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000691--thumb.png|link=Genzo Wakabayashi - Défense ultime
+</gallery>
+|- valign="top"
+|D
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000406--thumb.png|link=Ken Wakashimazu - Gardien Hyper Offensif
+000381--thumb.png|link=Yuzo Morisaki - Faire de son mieux devant les buts
+000360--thumb.png|link=Ricardo Espadas - La fierté du Mexique
+</gallery>
+|<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+000404--thumb.png|link=Zino Hernandez - La dernière forteresse du Catenaccio
+000599--thumb.png|link=Yuzo Morisaki - Persévérance
+</gallery>
+|}

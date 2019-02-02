@@ -1,0 +1,103 @@
+{{Fiche joueur new
+|joueur = Shingo Aoi
+|nom_joueur = Endurance inépuisable
+|type = technique
+|poste = MO
+|poste_2 = MD
+|pays = Japon
+|équipe = Japon (Qualif. Zone Asie)
+|époque = Coupe du monde espoirs
+|acquisition = Recrutement
+
+|id = 000662
+|image = 000662_shingo-tirpetitpont-technique-invoc.png
+|rareté = UR
+
+|endurance = 1100
+
+|dribble = 5454
+|dribble_bonus = 909
+|tir = 6422
+|tir_bonus = 1070
+|passe = 5353
+|passe_bonus = 892
+
+|tacle = 4840
+|tacle_bonus = 807
+|contre = 4693
+|contre_bonus = 782
+|interception = 5146
+|interception_bonus = 858
+
+|rapidité = 5297
+|rapidité_bonus = 883
+|puissance = 5294
+|puissance_bonus = 882
+|technicité = 5348
+|technicité_bonus = 891
+
+|base_id = 000661
+|base_image = 000661_shingo-tirpetitpont-technique-invoc.png
+|base_rareté = SSR
+
+|base_endurance = 917
+
+|base_dribble = 3637
+|base_dribble_bonus = 606
+|base_tir = 4288
+|base_tir_bonus = 715
+|base_passe = 3563
+|base_passe_bonus = 594
+
+|base_tacle = 3222
+|base_tacle_bonus = 537
+|base_contre = 3122
+|base_contre_bonus = 520
+|base_interception = 3425
+|base_interception_bonus = 571
+
+|base_rapidité = 3533
+|base_rapidité_bonus = 589
+|base_puissance = 3527
+|base_puissance_bonus = 588
+|base_technicité = 3560
+|base_technicité_bonus = 593
+
+|balle_haute = Normal
+|balle_basse = Très bon
+
+|team_skill = Le réveil des guerriers [Technique]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Technique : Tous paramètres +5%
+
+|TS_main = Tir petit pont
+|TS_main_type = Tir
+|TS_main_rang = S
+|TS_main_puissance = 375
+|TS_main_coût = 345
+
+|TS_2 = Éruption du Mont Fuji
+|TS_2_type = Dribble
+|TS_2_rang = A
+|TS_2_puissance = 325
+|TS_2_coût = 265
+
+|TS_3 = Défense feinte et esquive
+|TS_3_type = Tacle
+|TS_3_rang = A
+|TS_3_puissance = 315
+|TS_3_coût = 325
+
+|passive_skill = Tueur de Type Vitesse
+|passive_skill_rang = C
+|passive_skill_description = Paramètres +5% face à type Vitesse
+
+|taille = 167
+|poids = 55
+
+|description = Après avoir renforcé davantage encore ses compétences en Italie, Aoi rejoint l'équipe du Japon à partir du match contre la Thaïlande. Inspiré par tsubasa, le "petit grand homme" naïf s'avère être le sauveur de l'équipe lors des qualifications zone Asie coupe juniors. Lors de son premier match, sa première passe est pour Tsubasa.
+
+|jap = Oui
+|glo = Oui
+
+}}

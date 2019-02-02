@@ -1,55 +1,82 @@
 {{Fiche joueur new
-|id = 000532
-|joueur = Hans Doleman
-|nom_joueur = Le Dieu des cages de la Hollande
-|image = 000532_doleman-coupdesdeuxpoings-force-invoc.png
-|rareté = SSR
-|type = force
-|poste = GB
-|pays = Hollande
-|équipe = Hollande (Juniors)
-|époque = Coupe du monde espoirs
-|acquisition = Transfert
+|joueur = 
+|nom_joueur = 
+|type = 
+|poste = 
+|pays = 
+|équipe = 
+|époque = 
+|acquisition = 
 
-|endurance = 811
+|id = 
+|image = 
+|rareté = 
 
-|coup_de_poing = 6354
-|coup_de_poing_bonus = 1059
-|arrêt = 3547
-|arrêt_bonus = 591
+|endurance = 
 
-|rapidité = 4517
-|rapidité_bonus = 753
-|puissance = 4808
-|puissance_bonus = 801
-|technicité = 3604
-|technicité_bonus = 601
+|coup_de_poing = 
+|coup_de_poing_bonus = 
+|arrêt = 
+|arrêt_bonus = 
 
-|balle_haute = Normal
-|balle_basse = Normal
+|rapidité = 
+|rapidité_bonus = 
+|puissance = 
+|puissance_bonus = 
+|technicité = 
+|technicité_bonus = 
 
-|team_skill = Défense Ultime de la Hollande
-|team_skill_rang = S
-|team_skill_description = Joueurs Hollandais : Défense +20%
+|SSR_id = 
+|SSR_image = 
 
-|TS_main = Coup des deux poings
-|TS_main_type = coup_de_poing
-|TS_main_rang = S
-|TS_main_puissance = 380
-|TS_main_coût = 165
+|SSR_endurance = 
 
-|TS_2 = Super arrêt
-|TS_2_type = arrêt
-|TS_2_rang = A
-|TS_2_puissance = 260
-|TS_2_coût = 230
+|SSR_coup_de_poing = 
+|SSR_coup_de_poing_bonus = 
+|SSR_arrêt = 
+|SSR_arrêt_bonus = 
 
-|taille = 178
-|poids = 78
+|SSR_rapidité = 
+|SSR_rapidité_bonus = 
+|SSR_puissance = 
+|SSR_puissance_bonus = 
+|SSR_technicité = 
+|SSR_technicité_bonus = 
 
-|description = Ce gardien de but à la carrure imposante vient au Japon pour trois matchs amicaux contre l'équipe du Japon (Juniors). Son équipe a vaincu l'Allemagne (Juniors), devenant imbattable en Europe. Lors des premier et deuxième matchs, il ne laisse pas passer un seul but, mais il est blessé lors de la troisième rencontre.
+|balle_haute = 
+|balle_basse = 
 
-|jap = Oui
-|glo = Oui
+|team_skill = 
+|team_skill_rang = 
+|team_skill_description = 
+
+|passive_skill = 
+|passive_skill_rang = 
+|passive_skill_description = 
+
+|TS_main = 
+|TS_main_type = 
+|TS_main_rang = 
+|TS_main_puissance = 
+|TS_main_coût = 
+|TS_main_effet = 
+|TS_main_combinaison = 
+
+|TS_2 = 
+|TS_2_type = 
+|TS_2_rang = 
+|TS_2_puissance = 
+|TS_2_coût = 
+|TS_2_effet = 
+|TS_2_combinaison = 
+
+|taille = 
+|poids = 
+
+|description = 
+
+|date_glo = 
+|date_jap =
+|limité = 
 
 }}

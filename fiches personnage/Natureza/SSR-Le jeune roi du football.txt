@@ -1,0 +1,99 @@
+{{Fiche joueur new
+|joueur = Natureza
+|nom_joueur = Le jeune roi du football
+|type = vitesse
+|poste = MO
+|pays = Brésil
+|équipe = Brésil (Espoirs)
+|époque = Coupe du monde espoirs
+|acquisition = Shop évènement
+|acquisition_détails = Tickets/médailles
+
+|id = 000821
+|image = 000821-Natureza-duoDeReveEX-vitesse-event.png
+|rareté = UR
+
+|endurance = 931
+
+|dribble = 3620
+|dribble_bonus = 603
+|tir = 3677
+|tir_bonus = 613
+|passe = 5352
+|passe_bonus = 892
+
+|tacle = 3628
+|tacle_bonus = 605
+|contre = 3451
+|contre_bonus = 575
+|interception = 3554
+|interception_bonus = 592
+
+|rapidité = 3302
+|rapidité_bonus = 550
+|puissance = 3199
+|puissance_bonus = 533
+|technicité = 5592
+|technicité_bonus = 932
+
+|base_id = 000820
+|base_image = 000820-Natureza-duoDeReveEX-vitesse-event.png
+|base_rareté = SSR
+
+|base_endurance = 777
+
+|base_dribble = 2417
+|base_dribble_bonus = 403
+|base_tir = 2452
+|base_tir_bonus = 409
+|base_passe = 3564
+|base_passe_bonus = 594
+
+|base_tacle = 2422
+|base_tacle_bonus = 404
+|base_contre = 2298
+|base_contre_bonus = 383
+|base_interception = 2369
+|base_interception_bonus = 395
+
+|base_rapidité = 2201
+|base_rapidité_bonus = 367
+|base_puissance = 2135
+|base_puissance_bonus = 356
+|base_technicité = 3728
+|base_technicité_bonus = 621
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Coopération du Foot Brésilien
+|team_skill_rang = A
+|team_skill_description = Joueurs Brésiliens : Passe +5%
+
+|TS_main = Duo de rêve (EX)
+|TS_main_type = combinaison
+|TS_main_rang = A
+|TS_main_puissance = 370
+|TS_main_coût = 400
+|TS_main_combinaison = {{combinaison|Natureza|Tsubasa}}
+
+|passive_skill = Combinaison (Tsubasa)
+|passive_skill_rang = C
+|passive_skill_description = Avec Tsubasa Ozora dans la même équipe : Paramètres +5%
+
+|taille = 174
+|poids = 62
+
+|description = Natureza a grandi dans un petit village dans les profondeurs de l'Amazonie. Roberto Hongo, qui voit en lui le potentiel de surpasser même Tsubasa, l'invite à se joindre à l'équipe du Brésil. Il entre sur le terrain juste avant la fin de la seconde mi-temps de la finale et marque un but contre Wakabayashi depuis une zone en dehors de la surface de réparation.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+|expiré = Non
+
+|fini = Oui
+
+}}

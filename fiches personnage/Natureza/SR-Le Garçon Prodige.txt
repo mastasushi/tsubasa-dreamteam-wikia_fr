@@ -1,0 +1,93 @@
+{{Fiche joueur new
+|joueur = Natureza
+|nom_joueur = Le Garçon Prodige
+|type = technique
+|poste = MO
+|pays = Brésil
+|équipe = Brésil (Espoirs)
+|époque = Coupe du monde espoirs
+|acquisition = Raid SR
+
+|id = 000319
+|image = 000319-Natureza-feintePetitPont-technique-farm.png
+|rareté = SSR
+
+|endurance = 677
+
+|dribble = 2627
+|dribble_bonus = 438
+|tir = 2036
+|tir_bonus = 339
+|passe = 2346
+|passe_bonus = 391
+
+|tacle = 2143
+|tacle_bonus = 357
+|contre = 1916
+|contre_bonus = 319
+|interception = 2272
+|interception_bonus = 379
+
+|rapidité = 2134
+|rapidité_bonus = 356
+|puissance = 1921
+|puissance_bonus = 320
+|technicité = 2396
+|technicité_bonus = 399
+
+|base_id = 000318
+|base_image = 000318-Natureza-feintePetitPont-technique-farm.png
+|base_rareté = SR
+
+|base_endurance = 596
+
+|base_dribble = 1382
+|base_dribble_bonus = 230
+|base_tir = 1072
+|base_tir_bonus = 179
+|base_passe = 1237
+|base_passe_bonus = 206
+
+|base_tacle = 1127
+|base_tacle_bonus = 188
+|base_contre = 1006
+|base_contre_bonus = 168
+|base_interception = 1193
+|base_interception_bonus = 199
+
+|base_rapidité = 1127
+|base_rapidité_bonus = 188
+|base_puissance = 1006
+|base_puissance_bonus = 168
+|base_technicité = 1261
+|base_technicité_bonus = 210
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Attaquant Inarrêtable
+|team_skill_rang = C
+|team_skill_description = Joueurs Type Technique : Dribble +1%
+
+|TS_main = Feinte petit pont
+|TS_main_type = dribble
+|TS_main_rang = C
+|TS_main_puissance = 200
+|TS_main_coût = 140
+
+|taille = 174
+|poids = 62
+
+|description = Natureza a grandi dans un petit village dans les profondeurs de l'Amazonie. Roberto Hongo, qui voit en lui le potentiel de surpasser même Tsubasa, l'invite à se joindre à l'équipe du Brésil. Il entre sur le terrain juste avant la fin de la seconde mi-temps de la finale et marque un but contre Wakabayashi depuis une zone en dehors de la surface de réparation.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+|expiré = Non
+
+|fini = Oui
+
+}}

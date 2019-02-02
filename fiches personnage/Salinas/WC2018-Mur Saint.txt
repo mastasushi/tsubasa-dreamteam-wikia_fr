@@ -1,0 +1,79 @@
+{{Fiche joueur
+|joueur = Salinas
+|nom_joueur = Le mur saint des canarinhos
+|type = vitesse
+|poste = GB
+|pays = Brésil
+|équipe = Equipe du Brésil (2018)
+|époque = Autres séries
+|acquisition = World Cup 2018
+
+|id = 001177
+|image = 001177.png
+|rareté = UR
+
+|endurance = 951
+
+|coup_de_poing = 6780
+|coup_de_poing_bonus = 1130
+|arrêt = 9024
+|arrêt_bonus = 1504
+
+|rapidité = 5125
+|rapidité_bonus = 854
+|puissance = 4915
+|puissance_bonus = 819
+|technicité = 6390
+|technicité_bonus = 1065
+
+|base_id = 001176
+|base_image = 001176.png
+|base_rareté = SSR
+
+|base_endurance = 793
+
+|base_coup_de_poing = 4519
+|base_coup_de_poing_bonus = 753
+|base_arrêt = 6016
+|base_arrêt_bonus = 1003
+
+|base_rapidité = 3416
+|base_rapidité_bonus = 569
+|base_puissance = 3277
+|base_puissance_bonus = 546
+|base_technicité = 4260
+|base_technicité_bonus = 710
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = L'évolution des guerriers [V]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Vitesse : Tous paramètres + 7%.
+
+|TS_main = Arrêt saut parfait
+|TS_main_type = arrêt
+|TS_main_rang = S
+|TS_main_puissance = 465
+|TS_main_coût = 360
+
+|TS_2 = Arrêt à une main
+|TS_2_type = arret
+|TS_2_rang = A
+|TS_2_puissance = 290
+|TS_2_coût = 260
+
+|passive_skill = Réduction de l'endurance utilisée
+|passive_skill_rang = A
+|passive_skill_description = Endurance utilisée lors d'une TS: -20%
+
+|taille = 176
+|poids = 65
+
+|description = Dieu des cages ultime protégeant les buts du Brésil. Avec des réflexes exceptionnels inimitables et des capacités physiques prodigieuses, il repousse tous les tirs des attaquants présents et revendique son nom de "Gardien de génie".
+
+|date_glo = 16/07/2018
+|date_jap =
+|limité = Oui
+
+}}

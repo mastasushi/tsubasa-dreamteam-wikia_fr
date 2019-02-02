@@ -1,0 +1,81 @@
+{{Fiche joueur new
+|joueur = Michel Yamada
+|nom_joueur = Super araignée grosse défense
+|type = vitesse
+|poste = GB
+|pays = Japon
+|équipe = Real Japan 7
+|époque = Espoirs
+|acquisition = Recrutement
+
+|id = 001368
+|image = 001368.png
+|image_foil = 001356.png
+|rareté = UR
+
+|endurance = 950
+
+|coup_de_poing = 5974
+|coup_de_poing_bonus = 996
+|arrêt = 7237
+|arrêt_bonus = 1206
+
+|rapidité = 5026
+|rapidité_bonus = 838
+|puissance = 6245
+|puissance_bonus = 1041
+|technicité = 6934
+|technicité_bonus = 1156
+
+|base_id = 001367
+|base_image = 001367.png
+|base_image_foil = 001355.png
+|base_rareté = SSR
+
+|base_endurance = 792
+
+|base_coup_de_poing = 3982
+|base_coup_de_poing_bonus = 664
+|base_arrêt = 4824
+|base_arrêt_bonus = 804
+
+|base_rapidité = 3349
+|base_rapidité_bonus = 558
+|base_puissance = 4163
+|base_puissance_bonus = 694
+|base_technicité = 4622
+|base_technicité_bonus = 770
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = Le Grand Réveil des joueurs japonais [V]
+|team_skill_rang = S
+|team_skill_description = Joueurs Japonais de type V : Tous paramètres +15%, Type V seulement : +5%
+
+|passive_skill = Probabilité Coup Critique augmentée
+|passive_skill_rang = S
+|passive_skill_description = Probabilité Coup Critique x5
+
+|TS_main = Arrêt de l'araignée
+|TS_main_type = arret
+|TS_main_rang = S
+|TS_main_puissance = 405
+|TS_main_coût = 310
+
+|TS_2 = Super arrêt
+|TS_2_type = arret
+|TS_2_rang = A
+|TS_2_puissance = 260
+|TS_2_coût = 230
+
+
+|taille = -
+|poids = -
+
+|description = Un membre de l'équipe RJ7 constituée par l'entraîneur Gamo. Il est connu comme "l'homme araignée" en raison de la façon dont il bloque chaque trajectoire de tir possible, comme une araignée avec sa toile. Quant Nitta utilise son "Tir du faucon" lors d'un coup franc, il le rattrape facilement avec une main.
+
+|date_glo = 
+|date_jap =
+
+}}

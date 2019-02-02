@@ -14,7 +14,7 @@
 |base_rareté = SSR
 
 |id = ?
-|_image =
+|image =
 |rareté = UR
 
 |endurance = 923
@@ -67,7 +67,7 @@
 
 |passive_skill = Courage
 |passive_skill_rang = A
-|passive_skill_description =  Si Misugi a 1pt de Stamina ou plus il pourra utiliser une technique normale sans perte de puissance
+|passive_skill_description = Si Misugi a 1pt de Stamina ou plus il pourra utiliser une technique normale sans perte de puissance
 
 |taille = -
 |poids = -

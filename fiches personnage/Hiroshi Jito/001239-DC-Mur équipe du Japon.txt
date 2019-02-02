@@ -1,0 +1,105 @@
+{{Fiche joueur new
+|joueur = Hiroshi Jito
+|nom_joueur = Le mur de l'équipe du Japon
+|type = force
+|poste = DF
+|pays = Japon
+|équipe = Japon (Espoirs)
+|époque = Espoirs
+|acquisition = Dream Collection
+
+|id = 001240
+|image = 001240-Jito-ContreSprint-force-DC.png
+|rareté = UR
+
+|endurance = 1013
+
+|dribble = 4411
+|dribble_bonus = 735
+|tir = 4406
+|tir_bonus = 734
+|passe = 4314
+|passe_bonus = 719
+
+|tacle = 6485
+|tacle_bonus = 1081
+|contre = 6578
+|contre_bonus = 1096
+|interception = 6547
+|interception_bonus = 1091
+
+|rapidité = 5684
+|rapidité_bonus = 947
+|puissance = 5903
+|puissance_bonus = 984
+|technicité = 5743
+|technicité_bonus = 957
+
+|base_id = 001239
+|base_image = 001239-Jito-ContreSprint-force-DC.png
+|base_rareté = SSR
+
+|base_endurance = 844
+
+|base_dribble = 2941
+|base_dribble_bonus = 490
+|base_tir = 2938
+|base_tir_bonus = 490
+|base_passe = 2876
+|base_passe_bonus = 479
+
+|base_tacle = 4322
+|base_tacle_bonus = 720
+|base_contre = 4385
+|base_contre_bonus = 731
+|base_interception = 4364
+|base_interception_bonus = 727
+
+|base_rapidité = 3790
+|base_rapidité_bonus = 632
+|base_puissance = 3935
+|base_puissance_bonus = 656
+|base_technicité = 3828
+|base_technicité_bonus = 638
+
+|balle_haute = Bon
+|balle_basse = Normal
+
+|team_skill = L'évolution des guerriers [F]
+|team_skill_rang = S
+|team_skill_description = Type F : Tous Paramètres +7%
+
+|TS_main = Contre sprint glissant
+|TS_main_type = contre
+|TS_main_rang = S
+|TS_main_puissance = 440
+|TS_main_coût = 375
+
+|TS_2 = Interception forcée
+|TS_2_type = interception
+|TS_2_rang = A
+|TS_2_puissance = 255
+|TS_2_coût = 255
+
+|TS_3 = Tacle à forte puissance
+|TS_3_type = tacle
+|TS_3_rang = A
+|TS_3_puissance = 320
+|TS_3_coût = 350
+
+|passive_skill = Maître de la Bonne Lecture du Jeu
+|passive_skill_rang = S
+|passive_skill_description = Bonne lecture du jeu en Duel : Paramètres +75%
+
+|taille = 184
+|poids = 83
+
+|description = Pour compenser son propre but lors du match contre l'Uruguay, Jito offre son dos à Hyuga pour qu'il l'utilise comme tremplin pour son "Tir du tigre foudroyant". Cependant, Hyuga s'élève lui-même dans les airs pour effectuer un "Tir du tigre foudroyant descendu des cieux". 
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|fini = Oui
+
+}}

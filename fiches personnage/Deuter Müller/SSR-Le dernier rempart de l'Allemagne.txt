@@ -1,0 +1,78 @@
+{{Fiche joueur new
+|joueur = Deuter Müller
+|nom_joueur = Le dernier rempart de l'Allemagne
+|type = technique
+|poste = GB
+|pays = Allemagne
+|équipe = Allemagne (Juniors)
+|époque = Juniors
+|acquisition = Event Time Attack
+
+|id = 001279
+|image = 001279.png
+|rareté = UR
+
+|endurance = 949
+
+|coup_de_poing = 4856
+|coup_de_poing_bonus = 809
+|arrêt = 5934
+|arrêt_bonus = 989
+
+|rapidité = 3379
+|rapidité_bonus = 563
+|puissance = 5315
+|puissance_bonus = 886
+|technicité = 4676
+|technicité_bonus = 779
+
+|SSR_id = 001278
+|SSR_image = 001278.png
+
+|SSR_endurance = 791
+
+|SSR_coup_de_poing = 3238
+|SSR_coup_de_poing_bonus = 540
+|SSR_arrêt = 3956
+|SSR_arrêt_bonus = 659
+
+|SSR_rapidité = 2252
+|SSR_rapidité_bonus = 375
+|SSR_puissance = 3544
+|SSR_puissance_bonus = 591
+|SSR_technicité = 3118
+|SSR_technicité_bonus = 520
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = L'évolution du Foot Européen
+|team_skill_rang = S
+|team_skill_description = Joueurs Européens : Tous Paramètres +7%
+
+|TS_main = Arrêt du moulin à vent
+|TS_main_type = S
+|TS_main_rang = S
+|TS_main_puissance = 490
+|TS_main_coût = 380
+
+|TS_2 = Double marteau
+|TS_2_type = coup_de_poing
+|TS_2_rang = A
+|TS_2_puissance = 315
+|TS_2_coût = 170
+
+|passive_skill = Combinaison (Esprit Germanique)
+|passive_skill_rang = C-S
+|passive_skill_description = Lorsque Schneider, Margus, Schester, Kaltz et Müller sont dans la même équipe : Paramètres +5% à +40%
+
+|taille = 193
+|poids = 96
+
+|description = Malgré sa carrure imposante, ce gardien de but allemand possède une agilité physique et des réflexes étonnants. Pendant son entraînement, on ne le voit jamais, ce qui lui a valu le nom de "Gardien fantôme". Il fait ses débuts en représentant l'Allemagne lors du Tournoi international juniors. Il est également connu sous le nom de "Géant d'acier".
+
+|date_glo = 
+|date_jap =
+|limité = Oui
+
+}}

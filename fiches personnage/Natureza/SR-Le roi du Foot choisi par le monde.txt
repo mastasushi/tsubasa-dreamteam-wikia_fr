@@ -1,0 +1,112 @@
+{{Fiche joueur new
+|joueur = Natureza
+|nom_joueur = Le roi du Foot choisi par le monde
+|type = technique
+|poste = MO
+|pays = Brésil
+|équipe = Brésil (Espoirs)
+|époque = Coupe du monde espoirs
+|acquisition = Shop évènement
+|acquisition_détails = Tickets/médailles
+
+|id = 000823
+|image = 000823-Natureza-duoDeReveEX-technique-event.png
+|rareté = UR
+
+|endurance = 1007
+
+|dribble = 4576
+|dribble_bonus = 763
+|tir = 6044
+|tir_bonus = 4007
+|passe = 7595
+|passe_bonus = 1266
+
+|tacle = 3049
+|tacle_bonus = 508
+|contre = 2897
+|contre_bonus = 483
+|interception = 2986
+|interception_bonus = 498
+
+|rapidité = 4403
+|rapidité_bonus = 734
+|puissance = 5124
+|puissance_bonus = 854
+|technicité = 6706
+|technicité_bonus = 1118
+
+|base_id = 000822
+|base_image = 000822-Natureza-duoDeReveEX-technique-event.png
+|base_rareté = SSR
+
+|base_endurance = 839
+
+|base_dribble = 3052
+|base_dribble_bonus = 509
+|base_tir = 4024
+|base_tir_bonus = 671
+|base_passe = 5064
+|base_passe_bonus = 844
+
+|base_tacle = 2030
+|base_tacle_bonus = 338
+|base_contre = 1932
+|base_contre_bonus = 322
+|base_interception = 1993
+|base_interception_bonus = 332
+
+|base_rapidité = 2933
+|base_rapidité_bonus = 489
+|base_puissance = 3410
+|base_puissance_bonus = 568
+|base_technicité = 4478
+|base_technicité_bonus = 746
+
+|balle_haute = Bon
+|balle_basse = Bon
+
+|team_skill = Grosse Offensive du Foot Brésilien
+|team_skill_rang = S
+|team_skill_description = Joueurs Brésiliens : Tir +20%
+
+|TS_main = Duo de rêve (EX)
+|TS_main_type = combinaison
+|TS_main_rang = A
+|TS_main_puissance = 370
+|TS_main_coût = 400
+|TS_main_combinaison = {{combinaison|Natureza|Tsubasa}}
+
+|TS_2 = Tir de la feuille morte volante
+|TS_2_type = tir
+|TS_2_rang = A
+|TS_2_puissance = 325
+|TS_2_coût = 350
+|TS_2_effet = {{effet_distance}}
+
+|TS_3 = Tacle mouvement arrière
+|TS_3_type = tacle
+|TS_3_rang = A
+|TS_3_puissance = 300
+|TS_3_coût = 315
+
+|passive_skill = Combinaison (Tsubasa)
+|passive_skill_rang = B
+|passive_skill_description = Avec Tsubasa Ozora dans la même équipe : Paramètres +10%
+
+|taille = 174
+|poids = 62
+
+|description = Natureza a grandi dans un petit village dans les profondeurs de l'Amazonie. Roberto Hongo, qui voit en lui le potentiel de surpasser même Tsubasa, l'invite à se joindre à l'équipe du Brésil. Il entre sur le terrain juste avant la fin de la seconde mi-temps de la finale et marque un but contre Wakabayashi depuis une zone en dehors de la surface de réparation.
+
+|farmable = Oui
+|jap = Oui
+|glo = Oui
+
+|date_glo =
+|date_jap =
+|expiré = Non
+
+|fini = Oui
+
+}}

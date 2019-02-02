@@ -10,7 +10,6 @@
 
 |id = 000922
 |image = 000922-Gentile-dribblePuissant-vitesse-invoc.png
-|image = SilhouetteNoire.png
 |rareté = SSR
 
 |endurance = 726
@@ -38,7 +37,6 @@
 
 |base_id = 000921
 |base_image = 000921-Gentile-dribblePuissant-vitesse-invoc.png
-|base_image = SilhouetteNoire.png
 |base_rareté = SR
 
 |base_endurance = 605
