@@ -1,0 +1,112 @@
+{{Fiche joueur new
+|joueur = Singprasert Bunnaak
+|nom_joueur = Le champion du terrain
+|type = force
+|poste = DF
+|pays = Thaïlande
+|équipe = Thaïlande (Qualif. Zone Asie)
+|époque = Coupe du monde espoirs
+|acquisition = Dream Fest
+
+|id = ?
+|image = 000000-Bunnaak-interceptionMuayThai-force-fest.jpg
+|rareté = UR
+
+|endurance = 1072
+
+|dribble = 5306
+|dribble_bonus = 884
+|tir = 5782
+|tir_bonus = 964
+|passe = 5142
+|passe_bonus = 857
+
+|tacle = 6817
+|tacle_bonus = 1136
+|contre = 7088
+|contre_bonus = 1181
+|interception = 7222
+|interception_bonus = 1204
+
+|rapidité = 5248
+|rapidité_bonus = 875
+|puissance = 6676
+|puissance_bonus = 1113
+|technicité = 6664
+|technicité_bonus = 1111
+
+|base_id = 
+|base_image = 
+|base_rareté = 
+
+|base_endurance = 
+
+|base_coup_de_poing = 
+|base_coup_de_poing_bonus = 
+|base_arrêt = 
+|base_arrêt_bonus = 
+
+|base_dribble = 
+|base_dribble_bonus = 
+|base_tir = 
+|base_tir_bonus = 
+|base_passe = 
+|base_passe_bonus = 
+
+|base_tacle = 
+|base_tacle_bonus = 
+|base_contre = 
+|base_contre_bonus = 
+|base_interception = 
+|base_interception_bonus = 
+
+|base_rapidité = 
+|base_rapidité_bonus = 
+|base_puissance = 
+|base_puissance_bonus = 
+|base_technicité = 
+|base_technicité_bonus = 
+
+|balle_haute = Normal
+|balle_basse = Normal
+
+|team_skill = L'éveil des guerriers [Force]
+|team_skill_rang = S
+|team_skill_description = Joueurs Type Force : Paramètres +10%
+
+|TS_main = Interception Muay Thai
+|TS_main_type = interception
+|TS_main_rang = S
+|TS_main_puissance = ?
+|TS_main_coût = ?
+|TS_main_effet = 
+
+|TS_2 = 
+|TS_2_type = 
+|TS_2_rang = 
+|TS_2_puissance = 
+|TS_2_coût = 
+|TS_2_effet = 
+|TS_2_combinaison = 
+
+|TS_3 = 
+|TS_3_type = 
+|TS_3_rang = 
+|TS_3_puissance = 
+|TS_3_coût = 
+|TS_3_effet = 
+|TS_3_combinaison = 
+
+|passive_skill = Interception Automatique
+|passive_skill_rang = S
+|passive_skill_description = Grande Chance de déclencher une TS d’interception sans consommer de stamina
+
+|taille =
+|poids =
+
+|description =
+
+|date_glo =
+|date_jap =
+
+}}

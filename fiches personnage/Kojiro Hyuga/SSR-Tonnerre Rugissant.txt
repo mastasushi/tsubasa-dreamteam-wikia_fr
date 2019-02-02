@@ -89,18 +89,9 @@
 |passive_skill = 
 |passive_skill_rang = 
 |passive_skill_description = 
-|passive_skill_jap_only = Oui
 
 |taille = 178
 |poids = 64
 
 |description = Après la défaite de l'équipe du Japon contre la RJ7, l'entraineur Gamo ordonne à Hyuga de quitter l'équipe mais celui-ci refuse. Cependant, Matsuyama le persuade de suivre une formation. Après avoir amélioré ses compétences post-play et maîtrisé le "Tir du tigre foudroyant" à Okinawa, il revient et rejoint l'équipe du Japon.
-
-|jap = Oui
-|glo = Oui
-
-|date_glo =
-|date_jap =
-|expiré = Non
-
 }}

@@ -10,8 +10,8 @@
 
 |id = 000026
 |image = 000026-hyuga-tirtigre-force-invoc.png
-|id = 000301
-|image = 000301-hyuga-tirtigre-force-invoc.png
+|id_foil = 000301
+|image_foil = 000301-hyuga-tirtigre-force-invoc.png
 |rareté = UR
 
 |endurance = 957
@@ -86,16 +86,12 @@
 |TS_2_puissance = 285
 |TS_2_coût = 210
 
-|passive_skill = Endurance réduite
+|passive_skill = Réduction de l'Endurance Utilisée
 |passive_skill_rang = A
-|passive_skill_description = La consommation d'endurance au moment de l'utilisation d'une TS : -20%
-|passive_skill_jap_only = Oui
+|passive_skill_description = Endurance utilisée lors d'une TS : -20%
 
 |taille = 170
 |poids = 59
 
 |description = Un attaquant connu sous le nom du "Tigre Féroce". Il quitte son équipe après avoir été qualifié de "tigre qui a perdu ses crocs" par l'entraîneur Kira. Il suit alors une formation seul avec son entraîneur à Okinawa, où il développe le "tir du tigre".
-
-|jap = Oui
-|glo = Oui
 }}
