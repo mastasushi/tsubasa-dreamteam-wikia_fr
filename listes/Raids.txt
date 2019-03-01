@@ -2,6 +2,8 @@
 SSR=
 
 <gallery captionalign="center" bordersize="none" captionsize="medium" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+001599--thumb.png|'''Kojiro Hyuga''' - Noble regard perçant|link=Kojiro Hyuga - Noble regard perçant
 misaki2-farm-thumb.jpg|'''Taro Misaki''' - L'âme indomptable|link=Taro Misaki - L Ame Indomptable
 
 misaki2-farm-thumb.jpg|'''Brian Cruyfford''' - Un jeu de toute beauté|link=Brian Cruyfford - Un jeu de toute beauté

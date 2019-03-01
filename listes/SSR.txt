@@ -1,5 +1,5 @@
-
 <gallery captionalign="center" bordersize="none" captionsize="medium" widths="105" captionposition="below" columns="dynamic" navigation="true">
+001578--thumb.png|'''Kojiro Hyuga''' - For the Team|link=Kojiro Hyuga - For the Team
 001449--thumb.png|'''Tsubasa Ozora''' - L'enfant providentiel du football|link=Tsubasa Ozora - L'enfant providentiel du football
 001012-levin-rideauauroreboreale-vitesse-invoc--thumb.gif|'''Stefan Lévine''' - L'éclat prestigieux de l'aurore boréale|link=Stefan Lévine - L'éclat prestigieux de l'aurore boréale
 001014-kaltz-defenseherisson-technique-invoc--thumb.png|'''Hermann Kaltz''' - Artisan défenseur de l'Allemagne|link=Hermann Kaltz - Artisan défenseur de l'Allemagne
@@ -35,7 +35,7 @@
 000722_schneider-passedufeu-tech-invoc-thumb.png|'''Karl Heinz Schneider''' - Empereur Dominant le Terrain|link=Karl Heinz Schneider - Empereur Dominant le Terrain
 000700_schester-splendideinterception-force-invoc-thumb.png|'''Franz Schester''' - Prince du Milieu de Terrain Allemand|link=Franz Schester - Prince du Milieu de Terrain Allemand
 000698_misugi-drivepass-tech-invoc-thumb.png|'''Jun Misugi''' - As de Diamant|link=Jun Misugi - As de Diamant
-000696_hyuga-tigeroverhead-vitesse-invoc-thumb.png|'''Kojiro Hyuga''' - Tigre Écrasant les Vagues Rugissantes|link=Kojiro Hyuga - Tigre Écrasant les Vagues Rugissantes
+000830--thumb.png|'''Kojiro Hyuga''' - Tigre Écrasant les Vagues Rugissantes|link=Kojiro Hyuga - Tigre Écrasant les Vagues Rugissantes
 000665_bunnaak-taclemuaythai-tech-invoc-thumb.png|'''Singprasert Bunnaak''' - Combat Muay Thaï|link=Singprasert Bunnaak - Combat Muay Thaï
 000663_owairan-slidingblock-vitesse-invoc-thumb.png|'''Mark Owairan''' - Le prince de l'Arabie Saoudite|link=Mark Owairan - Le prince de l'Arabie Saoudite
 000661_shingo-crouchxtractionss-tech-invoc-thumb.gif|'''Shingo Aoi''' - Endurance inépuisable|link=Shingo Aoi - Endurance inépuisable

@@ -32,6 +32,7 @@
 001375--thumb.gif|link=Taro Misaki - L'artiste ressuscité
 001205-schneider-neotirdufeu-force-invoc--thumb.png|link=Karl Heinz Schneider - Buteur transcendantal
 001196--thumb.png|link=Tsubasa Ozora - L'enfant prodige du foot
+001153--thumb.png|link=Kojiro Hyuga - Foudre rugissante
 001029-bunnaak-interceptionmuaythai-force-invoc--thumb.png|link=Singprasert Bunnaak - Le champion du terrain
 000826_napoleon-cannonburstshoot-force-fest-thumb.png|link=Louis Napoléon - L'as des Buteurs de la France
 000548_kaltz-interceptionartistique-force-invoc-thumb.gif|link=Hermann Kaltz - Esprit Germanique Enflammé
@@ -39,8 +40,6 @@
 </gallery>
 <p>Roberto Carlos</p>
 Aoi WC 2018
-
-Hyuga WC 2018
 
 Jito DC
 |<gallery spacing="small" bordersize="none" widths="80" columns="2" navigation="true">
@@ -76,7 +75,7 @@ KHS 283
 
 Ishizaki WC 2018
 |<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
-
+001578--thumb.png|link=Kojiro Hyuga - For the Team
 001172-santana-retournerollingarrow-vitesse-invoc--thumb.png|link=Carlos Santana - Le buteur aimé de Dieu
 000839_nitta-highspeedrunninghayabusashoot-vitesse-invoc-thumb.png|link=Shun Nitta - Pied divin du combattant faucon
 000656_alberto-shutout-vitesse-invoc-thumb.png|link=Alberto - Le meilleur libéro du Brésil
@@ -138,6 +137,22 @@ Matsuyama_tec_ssr_thumb.jpg|link=Hikaru Matsuyama - Le Génie des efforts qui ve
 
 Ishizaki vert
 
+
+
+|- valign="top"
+|A+
+|<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
+
+</gallery>
+|<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
+000830--thumb.png|link=Kojiro Hyuga - Tigre Écrasant les Vagues Rugissantes
+</gallery>
+
+|<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
+</gallery>
+
+
+
 |- valign="top"
 |A
 |<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
@@ -159,8 +174,6 @@ Pierre2_thumb.jpg|(Sans passif)|link=Elcide Pierre - Commandant majestueux
 
 </gallery>Frederiks - Prodigal Agility (WC 2018)
 
-Hyuga bleu
-
 Ishizaki lycée
 |<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
 
@@ -171,6 +184,26 @@ Ishizaki lycée
 </gallery>Franz Schester - Coup minutieux
 Hanji Urabé - Défense ardente
 
+
+
+
+
+
+|- valign="top"
+|A-
+|<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
+
+</gallery>
+Hyuga Collège
+
+|<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
+</gallery>
+
+|<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
+</gallery>
+
+
+
 |- valign="top"
 |B
 |<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
@@ -178,6 +211,8 @@ Hanji Urabé - Défense ardente
 Brolin2_thumb.jpg|link=Brolin - L'élément clé de la défense suédoise
 
 </gallery>
+
+
 |<gallery spacing="small" bordersize="none" navigation="true" widths="80" columns="2">
 
 000992-albez-attaquelucha-vitesse-invoc--thumb.png|link=Arbez - Jeu combiné aérien coordonné
@@ -222,7 +257,8 @@ Kartz2_thumb.jpg|link=Herman Kartz - Le Bosseur
 000646_matsuyama-eagleshot-force-invoc-thumb.png|link=Hikaru Matsuyama - Le cœur du Japon
 Jitov2_thumb.jpg|link=Hiroshi Jito - Gardien d'acier
 
-</gallery>Hyuga Collège
+</gallery>
+
 
 Misaki rouge
 
