@@ -1,3 +1,8 @@
+<!-- 
+Manque :
+- Zino rouge anti bleu
+-->
+
 {| class="article-table" style="width: 100%;" cellspacing="1" cellpadding="1" border="0"
 ! scope="col" |
 ! scope="col" |{{Type|force}}
@@ -11,10 +16,12 @@
 001414--thumb.png|link=Yuzo Morisaki - SG (Super Gutsy) GK
 </gallery>
 |<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+001613--thumb.png|link=Ken Wakashimazu - Technique utilisant à fond le karaté
 001082--thumb.png|link=Deuter Müller - Gardien le plus fort d'Allemagne
 001177--thumb.png|link=Salinas - Le mur saint des Canarinhos
 </gallery>
 |<gallery spacing="small" bordersize="none" widths="80" navigation="true">
+001576--thumb.png|link=Genzo Wakabayashi - Le SGGK reconnu au niveau mondial
 001427--thumb.png|link=Salinas - Dieu protecteur des cages du Brésil
 </gallery>
 |- valign="top"
