@@ -1,7 +1,9 @@
 <tabber>
 SSR=
 
-<gallery captionalign="center" bordersize="none" captionsize="medium" orientation="square" captionposition="below" navigation="true" widths="105" columns="dynamic">
+<gallery captionalign="center" bordersize="none" captionsize="medium" captionposition="below" navigation="true" widths="105" columns="dynamic">
+
+001599--thumb.png|'''Kojiro Hyuga''' - Noble regard perçant|link=Kojiro Hyuga - Noble regard perçant
 misaki2-farm-thumb.jpg|'''Taro Misaki''' - L'âme indomptable|link=Taro Misaki - L Ame Indomptable
 
 misaki2-farm-thumb.jpg|'''Brian Cruyfford''' - Un jeu de toute beauté|link=Brian Cruyfford - Un jeu de toute beauté
@@ -10,11 +12,11 @@ misaki2-farm-thumb.jpg|'''Brian Cruyfford''' - Un jeu de toute beauté|link=Bria
 
 000443-santana-passefeuillemorte-force-farm--thumb.png|'''Carlos Santana''' - Le génie ayant reçu une bénédiction divine|link=Carlos Santana - Le génie ayant reçu une bénédiction divine
 
-000442_Tsubasa Ohzora-thumb.jpg|'''Tsubasa Ohzora''' - Le Numéro 10 de Sao Paulo|link=Tsubasa_Ohzora_-_Le_Numéro_10_de_Sao_Paulo
+000441--thumb.png|'''Tsubasa Ozora''' - Le Numéro 10 de Sao Paulo|link=Tsubasa Ozora - Le Numéro 10 de Sao Paulo
 
 000427-akai-contreepaule-technique-farm--thumb.png|'''Tomeya Akai''' - Marquage entêté|link=Tomeya Akai - marquage entêté
 
-hernandes1-farm-thumb.jpg|'''Zino Hernandez''' - La dernière forteresse du Catenaccio|link=Zino Hernandez - La dernière forteresse du Catenaccio
+000403--thumb.png|'''Zino Hernandez''' - La dernière forteresse du Catenaccio|link=Zino Hernandez - La dernière forteresse du Catenaccio
 
 masao1-farm-thumb.jpg|'''Masao Tachibana''' - La carte maîtresse de Hanawa en attaque|link=Masao_Tachibana_-_L_Arme_Secrète_de_l_Attaque_de_la_Hanawa
 
@@ -46,7 +48,7 @@ kazuo1-farm-thumb.jpg|'''Kazuo Tachibana''' - La carte maîtresse de Hanawa en a
 
 000227_Taro Misaki-champagneduo-vitesse-farm-thumb.jpg|'''Taro Misaki''' - Football Champagne|link=Taro Misaki - Football Champagne
 
-000224_Ohzora Tsubasa-tircontrefleche-vitesse-farm-thumb.jpg|'''Tsubasa Ohzora''' - L'Aura du vainqueur|link=Tsubasa Ohzora - L'Aura du vainqueur
+000224--thumb.png|'''Tsubasa Ozora''' - L'Aura du vainqueur|link=Tsubasa Ozora - L'Aura du vainqueur
 
 000221-santana-retourneacrobatiqueroulant-technique-farm--thumb.png|'''Carlos Santana''' - Le Cyborg du Football|link=Carlos Santana - Le Cyborg du Football
 

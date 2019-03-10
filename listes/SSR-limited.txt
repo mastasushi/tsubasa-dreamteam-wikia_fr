@@ -94,8 +94,8 @@ Manque :
 001159--thumb.png|'''Ken Wakashimazu''' - Défense type super attaque|link=Ken Wakashimazu - Défense type super attaque
 001156-kazuo-tirdusinge-technique-invoc--thumb.gif|'''Kazuo Tachibana''' - Combattant de la catapulte infernale|link=Kazuo Tachibana - Combattant de la catapulte infernale
 001154-misugi-doubledefense-vitesse-invoc--thumb.gif|'''Jun Misigi''' - L'as Ressuscité|link=Jun Misugi - L'as ressuscité
-001152-hyuga-tirdutigrefougueux-force-invoc--thumb.png|'''Kojiro Hyuga''' - Foudre rugissante|link=Kojiro Hyuga - foudre rugissante
 001101--thumb.png|'''Brolin''' - Tour géante Scandinave|link=Brolin - Tour géante Scandinave
+001153--thumb.png|'''Kojiro Hyuga''' - Foudre rugissante|link=Kojiro Hyuga - Foudre rugissante
 001083-margus-coordinationtravailequipe-technique-invoc--thumb.png|'''Manfred Margus''' - Roi du ciel de l'Allemagne|link=Manfred Margus - Roi du ciel de l'Allemagne
 001082--thumb.png|'''Deuter Müller''' - Gardien le plus fort d'Allemagne|link=Deuter Müller - Gardien le plus fort d'Allemagne
 001079-schester-tacledroit-force-invoc--thumb.png|'''Franz Schester''' - Meneur de jeu beau gosse|link=Franz Schester - Meneur de jeu beau gosse
@@ -155,7 +155,7 @@ Manque :
 000736-napoleon-passepuissanteex-vitesse-event--thumb.png|'''Louis Napoléon''' - Canon de la France|link=Louis Napoléon - Canon de la France
 000648-misugi-taclejeuequipe-vitesse-event--thumb.png|'''Jun Misugi''' - L’extraordinaire coach joueur|link=Jun Misugi - L’extraordinaire coach joueur
 wakashimazu1-farm-thumb.jpg|Ken Wakashimazu|link=Ken Wakashimazu - Le Gardien Offensif
-000275--thumb.png|'''Ohzora Tsubasa''' - Le ballon est mon ami|link=Tsubasa Ozora - Le ballon est mon ami
+000275--thumb.png|'''Tsubasa Ozora''' - Le ballon est mon ami|link=Tsubasa Ozora - Le ballon est mon ami
 000234-santana-tiraigledorerasterre-force-farm--thumb.png|'''Carlos Santana''' - La Pépite du Brésil|link=Carlos Santana - La Pépite du Brésil
 000863-taki-dribblelignetouche-vitesse-event--thumb.png|'''Hajimé Taki''' - Bolide|link=Hajimé Taki - Bolide
 000776-taki-unedeuxshutetsutrio-technique-event--thumb.png|'''Hajimé Taki''' - Jeu coordonné éclatant|link=Hajimé Taki - Jeu coordonné éclatant
